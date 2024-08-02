@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CRequirement id="CloakofFlames">
+        <NodeArray index="Use" Link="CountUpgradeCloakofFlames2CompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="CloakofFlames2">
+        <NodeArray index="Use" Link="CountUpgradeCloakofFlamesCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="SummonPet">
+        <NodeArray index="Use" Link="CountUpgradeSummonPet2CompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="SummonPet2">
+        <NodeArray index="Use" Link="CountUpgradeSummonPet3CompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="SummonPet3">
+        <NodeArray index="Use" Link="CountUpgradeSummonPet4CompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="SummonPet4">
+        <NodeArray index="Use" Link="CountUpgradeSummonPet5CompleteOnly"/>
+    </CRequirement>
+</Catalog>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Catalog>
+    <CLight id="Agria">
+        <ToDInfoArray index="0" Id="Agria" AmbientColor="0.411765,0.411765,0.411765" Colorize="1">
+            <Param index="HDRExposure" value="1.500000"/>
+            <Param index="HDRWhitePoint" value="1.850000"/>
+            <Param index="TerrainSpecularExp" value="11.210000"/>
+            <Param index="TerrainHDRSpecular" value="3.750000"/>
+            <Param index="CreepSpecularExp" value="30.000000"/>
+            <Param index="CreepHDRSpecMultiplier" value="3.000000"/>
+            <Param index="ColorizationContrast" value="1.066000"/>
+            <Param index="ColorizationHue" value="0.001000"/>
+            <Param index="ColorizationBlend" value="0.300000"/>
+            <LightRegions index="0">
+                <UseDefault value="0"/>
+                <AmbientColor value="0.419608,0.431373,0.431373"/>
+                <AmbientEnvironmentMultiplier value="0.015000"/>
+                <SpecularColor value="0.000000,0.000000,0.000000"/>
+                <SpecularMultiplier value="0.023000"/>
+                <FogColor value="0.000000,0.000000,0.000000"/>
+                <DiffuseColor index="Key" value="0.498039,0.517647,0.509804"/>
+                <DiffuseColor index="Fill" value="0.129412,0.129412,0.117647"/>
+                <DiffuseColor index="Back" value="0.003922,0.003922,0.003922"/>
+                <DiffuseMultiplier index="Key" value="0.057000"/>
+                <DiffuseMultiplier index="Fill" value="0.022000"/>
+                <DiffuseMultiplier index="Back" value="0.000000"/>
+            </LightRegions>
+            <LightRegions index="1">
+                <UseDefault value="0"/>
+                <AmbientColor value="1.000000,0.996078,1.000000"/>
+                <AmbientEnvironmentMultiplier value="0.014000"/>
+                <SpecularColor value="1.000000,0.780392,0.290196"/>
+                <SpecularMultiplier value="1.230000"/>
+                <FogColor value="0.447059,0.454902,0.227451"/>
+                <DiffuseColor index="Key" value="0.196078,0.184314,0.172549"/>
+                <DiffuseColor index="Fill" value="1.000000,0.611765,0.211765"/>
+                <DiffuseColor index="Back" value="0.803922,0.682353,0.082353"/>
+                <DiffuseMultiplier index="Key" value="2.455000"/>
+                <DiffuseMultiplier index="Fill" value="0.176000"/>
+                <DiffuseMultiplier index="Back" value="0.014000"/>
+            </LightRegions>
+            <LightRegions index="2">
+                <UseDefault value="0"/>
+                <AmbientColor value="0.870588,0.666667,0.690196"/>
+                <AmbientEnvironmentMultiplier value="0.000000"/>
+                <SpecularColor value="0.101961,0.090196,0.094118"/>
+                <SpecularMultiplier value="0.045000"/>
+                <FogColor value="0.196078,0.000000,0.000000"/>
+                <DiffuseColor index="Key" value="1.000000,0.827451,0.180392"/>
+                <DiffuseColor index="Fill" value="0.286275,0.121569,0.121569"/>
+                <DiffuseColor index="Back" value="0.392157,0.215686,0.266667"/>
+                <DiffuseMultiplier index="Key" value="0.085000"/>
+                <DiffuseMultiplier index="Fill" value="0.091000"/>
+                <DiffuseMultiplier index="Back" value="0.129000"/>
+            </LightRegions>
+            <LightRegions index="3">
+                <UseDefault value="0"/>
+                <AmbientColor value="0.682353,0.878431,0.678431"/>
+                <AmbientEnvironmentMultiplier value="0.000000"/>
+                <SpecularColor value="0.105882,0.372549,0.066667"/>
+                <SpecularMultiplier value="0.000000"/>
+                <FogColor value="0.156863,0.015686,0.176471"/>
+                <DiffuseColor index="Key" value="0.356863,0.529412,0.372549"/>
+                <DiffuseColor index="Fill" value="0.298039,0.498039,0.003922"/>
+                <DiffuseColor index="Back" value="0.364706,0.894118,0.294118"/>
+                <DiffuseMultiplier index="Key" value="0.000000"/>
+                <DiffuseMultiplier index="Fill" value="4.315000"/>
+                <DiffuseMultiplier index="Back" value="0.000000"/>
+            </LightRegions>
+        </ToDInfoArray>
+    </CLight>
+</Catalog>

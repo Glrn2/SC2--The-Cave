@@ -1,0 +1,3132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CUpgrade id="Assassinate2">
+        <EffectArray Reference="Behavior,Assassinate,DamageResponse.ModifyFraction" Value="0.4"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,Assassinate,Duration" Value="0.700000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Assassinate3">
+        <EffectArray Operation="Subtract" Reference="Abil,Assassinate,Cost[0].Cooldown.TimeUse" Value="4.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Blessing2">
+        <EffectArray Operation="Multiply" Reference="Abil,Blessing,Cost[0].Vital[Energy]" Value="1.2"/>
+        <EffectArray Operation="Multiply" Reference="Abil,Blessing,Cost[0].Cooldown.TimeUse" Value="0.750000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Blessing3">
+        <EffectArray Reference="Behavior,Blessing,Duration" Value="2.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Blink2">
+        <EffectArray Reference="Abil,Blink2,Range[0]" Value="0.6"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="BlinkSmash2">
+        <EffectArray Operation="Subtract" Reference="Abil,BlinkSmash2,Cost[0].Cooldown.TimeUse" Value="4.000000"/>
+        <EffectArray Operation="Multiply" Reference="Effect,BlinkSmash11,Amount" Value="0.85"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="BlinkSmash4">
+        <EffectArray Operation="Multiply" Reference="Effect,BlinkSmash15,AreaArray[0].Radius" Value="0.7"/>
+        <EffectArray Operation="Multiply" Reference="Effect,BlinkSmash11,Amount" Value="1.4"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Charge5">
+        <EffectArray Operation="Multiply" Reference="Effect,Charge4,Amount" Value="0.4"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="CloakofFlames5">
+        <EffectArray Operation="Multiply" Reference="Effect,CloakofFlames,VitalArray[Energy].Change" Value="1.2"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,CloakofFlames2,DamageResponse.ModifyFraction" Value="0.14"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ConcentrationAura2">
+        <EffectArray Operation="Multiply" Reference="Effect,ConcentrationAura3,VitalArray[Energy].Change" Value="0.7"/>
+        <EffectArray Operation="Multiply" Reference="Effect,ConcentrationAura2,AreaArray[0].Radius" Value="0.8"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ConcentrationAura3">
+        <EffectArray Reference="Behavior,ConcentrationAura2,Modification.RateMultiplierArray[Cooldown]" Value="0.04"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="CrushingOrb2">
+        <EffectArray Operation="Multiply" Reference="Abil,CrushingOrb,Cost[0].Vital[Energy]" Value="1.15"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,CrushingOrb,Duration" Value="1.250000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="CrushingOrb3">
+        <EffectArray Operation="Multiply" Reference="Abil,CrushingOrb,Cost[0].Vital[Energy]" Value="0.5"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="DesecrateGround4">
+        <EffectArray Reference="Abil,DesecratedGround,Cost[0].Cooldown.TimeUse" Value="1.000000"/>
+        <EffectArray Operation="Multiply" Reference="Effect,DesecratedGround2,AreaArray[0].Radius" Value="1.3"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="DesecrateGround5">
+        <EffectArray Reference="Effect,DesecratedGround,PeriodCount" Value="3"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="DivineShield2">
+        <EffectArray Reference="Behavior,DivineShield,Duration" Value="1.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="DivineShield3">
+        <EffectArray Operation="Multiply" Reference="Abil,DivineShield,Cost[0].Vital[Energy]" Value="0.7"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="DoomRoots2">
+        <EffectArray Reference="Behavior,DoomRoots2,Duration" Value="1.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="DoomRoots3">
+        <EffectArray Operation="Multiply" Reference="Effect,DoomRoots2,Amount" Value="1.35"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="EnergyBlasts2">
+        <EffectArray Operation="Multiply" Reference="Behavior,EnergyBlasts,DamageResponse.Cost.Vital[Energy]" Value="0.7"/>
+        <EffectArray Operation="Multiply" Reference="Effect,EnergyBlasts,Amount" Value="0.85"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="EnergyFlare">
+        <EffectArray Operation="Multiply" Reference="Effect,EnergyFlare,AreaArray[0].Radius" Value="1.4"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="EnergyFlare2">
+        <EffectArray Operation="Subtract" Reference="Abil,EnergyFlare,Cost[0].Cooldown.TimeUse" Value="8.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="EnergyShield">
+        <EffectArray Operation="Subtract" Reference="Behavior,EnergyShield,DamageResponse.ModifyFraction" Value="0.17"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="EnergyBlasts3">
+        <EffectArray Operation="Multiply" Reference="Effect,EnergyBlasts,Amount" Value="1.25"/>
+        <EffectArray Operation="Multiply" Reference="Effect,EnergyBlasts2,AreaArray[0].Radius" Value="0.7"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="EnergyShield2">
+        <EffectArray Operation="Multiply" Reference="Abil,EnergyShield,Cost[0].Cooldown.TimeUse" Value="0.500000"/>
+        <EffectArray Operation="Multiply" Reference="Abil,EnergyShield,Cost[0].VitalFraction[Energy]" Value="0.5"/>
+        <EffectArray Operation="Multiply" Reference="Abil,EnergyShield,OffCost[0].Cooldown.TimeUse" Value="0.500000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="HoverPad3">
+        <EffectArray Operation="Set" Reference="Abil,HoverPad,BehaviorArray[0]" Value="HoverPad32"/>
+        <EffectArray Operation="Set" Reference="Button,HoverPadOff,Icon" Value="Assets\Textures\war3_btnwispsplode.dds"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ModelSwap"/>
+    <CUpgrade id="RespawnTimer">
+        <EffectArray Reference="Behavior,Respawn,Duration" Value="5.000000"/>
+        <MaxLevel value="12"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="GravityBomb2">
+        <EffectArray Reference="Effect,GravityBomb3,LeechFraction[Energy]" Value="0.1"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="GravityBomb3">
+        <EffectArray Operation="Multiply" Reference="Effect,GravityBomb7,AreaArray[0].Radius" Value="1.35"/>
+        <EffectArray Operation="Multiply" Reference="Effect,GravityBomb6,AreaArray[0].Radius" Value="1.35"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="HailStorm2">
+        <EffectArray Operation="Multiply" Reference="Abil,HailStorm,Cost[0].Vital[Energy]" Value="1.2"/>
+        <EffectArray Operation="Multiply" Reference="Effect,HailStorm3,AreaArray[0].Radius" Value="1.35"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="HailStorm3">
+        <EffectArray Operation="Subtract" Reference="Abil,HailStorm,Cost[0].Cooldown.TimeUse" Value="5.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="HeavensGlow2">
+        <EffectArray Reference="Behavior,HeavensGlow2,Modification.HealTakenAdditiveMultiplier" Value="0.1"/>
+        <EffectArray Reference="Behavior,HeavensGlow3,Modification.HealTakenAdditiveMultiplier" Value="0.1"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="HolyAttacks2">
+        <EffectArray Operation="Multiply" Reference="Effect,HolyAttacks2,RechargeVitalRate" Value="1.140600"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="HolyAttacks3">
+        <EffectArray Operation="Multiply" Reference="Weapon,HolyAttacks,Cost.Vital[Energy]" Value="0.8"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="HolyFire2">
+        <EffectArray Operation="Multiply" Reference="Effect,HolyFire,Amount" Value="1.3"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="HolyFire3">
+        <EffectArray Operation="Multiply" Reference="Effect,HolyFire3,AreaArray[0].Radius" Value="1.3"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="HolyLight2">
+        <EffectArray Reference="Abil,HolyLight,Cost[0].Cooldown.TimeUse" Value="4.000000"/>
+        <EffectArray Operation="Multiply" Reference="Effect,HolyLight,RechargeVitalRate" Value="1.199200"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="HolyLight3">
+        <EffectArray Operation="Multiply" Reference="Abil,HolyLight,Cost[0].Vital[Energy]" Value="0.85"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="InnerFire4">
+        <EffectArray Operation="Subtract" Reference="Behavior,InnerFire,Modification.LifeArmorBonus" Value="7"/>
+        <EffectArray Reference="Behavior,InnerFire,Modification.DamageTotalMultiplier[Melee]" Value="0.1"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,InnerFire,Modification.EnergyArmorBonus" Value="7"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="InnerFire5">
+        <EffectArray Reference="Behavior,InnerFire,Duration" Value="2.000000"/>
+        <EffectArray Operation="Subtract" Reference="Abil,InnerFire,Cost[0].Cooldown.TimeUse" Value="2.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="LifeDrain2">
+        <EffectArray Reference="Effect,LifeDrain4,LeechFraction[Life]" Value="0.5"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="LifeDrain3">
+        <EffectArray Operation="Multiply" Reference="Abil,LifeDrain,Cost[0].Vital[Energy]" Value="1.15"/>
+        <EffectArray Operation="Multiply" Reference="Effect,LifeDrain4,Amount" Value="1.25"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="NaturesBlessing2">
+        <EffectArray Reference="Behavior,NaturesBlessing,Duration" Value="1.000000"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,NaturesBlessing,DamageResponse.ModifyFraction" Value="0.14"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Opportunist">
+        <EffectArray Reference="Behavior,Opportunist2,Modification.HealDealtMultiplier" Value="0.14"/>
+        <EffectArray Reference="Behavior,Opportunist2,Modification.DamageTotalMultiplier[Spell]" Value="0.14"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="NaturesBlessing3">
+        <EffectArray Reference="Behavior,NaturesBlessing,Modification.HealTakenMultiplier" Value="0.12"/>
+        <EffectArray Reference="Behavior,NaturesBlessing,Modification.DamageTotalMultiplier[Spell]" Value="0.12"/>
+        <EffectArray Reference="Behavior,NaturesBlessing,Modification.HealDealtMultiplier" Value="0.12"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Opportunist2">
+        <EffectArray Reference="Behavior,Opportunist,Modification.DamageTotalMultiplier[Melee]" Value="0.15"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="PhaseShift2">
+        <EffectArray Operation="Multiply" Reference="Abil,PhaseShift2,Cost[0].Vital[Energy]" Value="1.4"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,PhaseShift,Duration" Value="1.300000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="PhaseShift22">
+        <EffectArray Reference="Behavior,PhaseShift,DamageResponse.Chance" Value="0.07"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Phasing">
+        <EffectArray Reference="Behavior,Phasing,DamageResponse.Chance" Value="0.09"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Avatar2">
+        <EffectArray Operation="Multiply" Reference="Abil,Avatar,Cost[0].Vital[Energy]" Value="1.3"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,Avatar,Duration" Value="1.200000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="BattleHeal2">
+        <EffectArray Operation="Subtract" Reference="Behavior,BattleHeal,Modification.DamageTakenFraction[Melee]" Value="0.2"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,BattleHeal,Modification.DamageTakenFraction[Spell]" Value="0.2"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="CloakofFlames4">
+        <EffectArray Operation="Multiply" Reference="Behavior,CloakofFlames2,DamageResponse.Cost.Vital[Energy]" Value="1.2"/>
+        <EffectArray Operation="Multiply" Reference="Effect,CloakofFlames6,Amount" Value="1.4"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Conflagration2">
+        <EffectArray Operation="Multiply" Reference="Effect,Conflagration4,AreaArray[0].Radius" Value="1.3"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Conflagration3">
+        <EffectArray Operation="Multiply" Reference="Behavior,Conflagration,Duration" Value="1.300000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="DeathTouch2">
+        <EffectArray Reference="Behavior,DeathTouch,Modification.DamageTotalMultiplier[Melee]" Value="0.15"/>
+        <EffectArray Operation="Multiply" Reference="Effect,DeathTouch2,Amount" Value="1.25"/>
+        <EffectArray Reference="Behavior,DeathTouch,Modification.DamageTotalMultiplier[Spell]" Value="0.15"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="DeathTouch3">
+        <EffectArray Operation="Multiply" Reference="Behavior,DeathTouch,Duration" Value="0.700000"/>
+        <EffectArray Operation="Subtract" Reference="Abil,DeathTouch,Cost[0].Cooldown.TimeUse" Value="3.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="MagicEnhancedAttacks2">
+        <EffectArray Operation="Multiply" Reference="Behavior,MagicEnhancedAttacks,DamageResponse.Cost.Vital[Energy]" Value="1.2"/>
+        <EffectArray Operation="Multiply" Reference="Effect,MagicEnhancedAttacks,Amount" Value="1.2"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="MagicEnhancedAttacks3">
+        <EffectArray Operation="Multiply" Reference="Behavior,MagicEnhancedAttacks,DamageResponse.Cost.Vital[Energy]" Value="0.7"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Phasing2">
+        <EffectArray Operation="Multiply" Reference="Effect,Phasing,VitalArray[Energy].Change" Value="1.6"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Blink">
+        <EffectArray Operation="Multiply" Reference="Abil,Blink2,Cost[0].VitalFraction[Energy]" Value="0.5"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Prayer2">
+        <EffectArray Operation="Multiply" Reference="Abil,Prayer,Cost[0].VitalFraction[Energy]" Value="0.5"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="HeavensGlow">
+        <EffectArray Operation="Multiply" Reference="Effect,HeavensGlow2,AreaArray[0].Radius" Value="1.25"/>
+        <EffectArray Operation="Multiply" Reference="Effect,HeavensGlow4,AreaArray[0].Radius" Value="1.25"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Rejuvenate3">
+        <EffectArray Reference="Abil,Rejuvenate,Cost[0].Cooldown.TimeUse" Value="2.000000"/>
+        <EffectArray Reference="Behavior,Rejuvenate,Duration" Value="2.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Rejuvenate4">
+        <EffectArray Operation="Subtract" Reference="Abil,Rejuvenate,Cost[0].Cooldown.TimeUse" Value="5.000000"/>
+        <EffectArray Operation="Multiply" Reference="Abil,Rejuvenate,Cost[0].Vital[Energy]" Value="1.1"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ShadowBlast2">
+        <EffectArray Operation="Multiply" Reference="Abil,ShadowBlast,Cost[0].Vital[Energy]" Value="1.1"/>
+        <EffectArray Operation="Multiply" Reference="Effect,ShadowBlast,Amount" Value="1.35"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ShadowBlast3">
+        <EffectArray Operation="Multiply" Reference="Effect,ShadowBlast3,AreaArray[0].Radius" Value="1.35"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ShadowOrb2">
+        <EffectArray Operation="Multiply" Reference="Effect,ShadowOrb5,AreaArray[0].Radius" Value="1.2"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ShadowOrb3">
+        <EffectArray Operation="Multiply" Reference="Abil,ShadowOrb,Cost[0].Vital[Energy]" Value="1.15"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,ShadowOrb,Modification.AttackSpeedMultiplier" Value="0.12"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,ShadowOrb,Modification.MoveSpeedMultiplier" Value="0.12"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,ShadowOrb,Modification.RateMultiplierArray[Cooldown]" Value="0.06"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="SlowTime2">
+        <EffectArray Operation="Multiply" Reference="Abil,SlowTime2,Cost[0].Vital[Energy]" Value="1.15"/>
+        <EffectArray Operation="Subtract" Reference="Abil,SlowTime2,Cost[0].Cooldown.TimeUse" Value="4.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Smite2">
+        <EffectArray Operation="Multiply" Reference="Abil,Smite,Cost[0].Vital[Energy]" Value="1.1"/>
+        <EffectArray Reference="Behavior,Smite,Duration" Value="1.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Smite3">
+        <EffectArray Reference="Abil,Smite,Cost[0].Cooldown.TimeUse" Value="3.000000"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Smite3,Amount" Value="1.3"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="SpellSap">
+        <EffectArray Reference="Behavior,SpellSap,Modification.VitalDamageLeechArray[Energy].KindArray[Spell]" Value="0.02"/>
+        <EffectArray Reference="Behavior,SpellSap,Modification.VitalDamageLeechArray[Energy].KindArray[Melee]" Value="0.02"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="SlowTime3">
+        <EffectArray Operation="Multiply" Reference="Effect,SlowTime4,AreaArray[0].Radius" Value="1.3"/>
+        <EffectArray Reference="Behavior,SlowTime2,Modification.TimeScale" Value="0.05"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="SpellFrenzy">
+        <EffectArray Operation="Multiply" Reference="Behavior,SpellFrenzy2,Duration" Value="1.400000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="BrillianceAura2">
+        <EffectArray Operation="Multiply" Reference="Effect,BrillianceAura2,VitalArray[Energy].Change" Value="1.15"/>
+        <EffectArray Reference="Behavior,BrillianceAura,Modification.DamageTotalMultiplier[Spell]" Value="0.14"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="BrillianceAura3">
+        <EffectArray Operation="Multiply" Reference="Effect,BrillianceAura4,AreaArray[0].Radius" Value="1.35"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Empower2">
+        <EffectArray Operation="Multiply" Reference="Abil,Empower,Cost[0].Vital[Energy]" Value="1.1"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,Empower,DamageResponse.ModifyFraction" Value="0.25"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Empower3">
+        <EffectArray Operation="Multiply" Reference="Abil,Empower,Cost[0].Cooldown.TimeUse" Value="0.700000"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,Empower,Duration" Value="0.850000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="FireWall2">
+        <EffectArray Reference="Effect,FireWall4,PeriodCount" Value="3"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="FireWall3">
+        <EffectArray Operation="Multiply" Reference="Abil,FireWall2,Cost[0].Vital[Energy]" Value="0.6"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Flamestrike2">
+        <EffectArray Operation="Multiply" Reference="Effect,Flamestrike5,AreaArray[0].Radius" Value="1.35"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Flamestrike3,AreaArray[0].Radius" Value="1.35"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Flamestrike3">
+        <EffectArray Operation="Subtract" Reference="Abil,Flamestrike,Cost[0].Cooldown.TimeUse" Value="5.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Freeze2">
+        <EffectArray Operation="Multiply" Reference="Abil,Freeze,Cost[0].VitalFraction[Energy]" Value="0.4"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="FrostBolt3">
+        <EffectArray Operation="Subtract" Reference="Abil,FrostBolt,Cost[0].Cooldown.TimeUse" Value="3.500000"/>
+        <EffectArray Operation="Multiply" Reference="Abil,FrostBolt,Cost[0].Vital[Energy]" Value="1.2"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="FrostBolt4">
+        <EffectArray Operation="Subtract" Reference="Behavior,FrostBolt,Modification.AttackSpeedMultiplier" Value="0.17"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,FrostBolt,Modification.MoveSpeedMultiplier" Value="0.17"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,FrostBolt,Modification.RateMultiplierArray[Cooldown]" Value="0.08"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Instability">
+        <EffectArray Operation="Multiply" Reference="Behavior,Instability2,Duration" Value="1.300000"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,Instability22,Duration" Value="1.300000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="BlindingMist">
+        <EffectArray Reference="Behavior,BlindingMist3,DamageResponse.Chance" Value="0.08"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="BattleHeal3">
+        <EffectArray Reference="Behavior,BattleHeal,Duration" Value="1.500000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="BearTrap3">
+        <EffectArray Operation="Multiply" Reference="Abil,BearTrap,Cost[0].Vital[Energy]" Value="0.6"/>
+        <EffectArray Reference="Effect,BearTrap3,PeriodCount" Value="7"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="BearTrap4">
+        <EffectArray Operation="Multiply" Reference="Effect,BearTrap2,Amount" Value="1.35"/>
+        <EffectArray Operation="Multiply" Reference="Effect,BearTrap4,AreaArray[0].Radius" Value="1.3"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="BlindingBolts2">
+        <EffectArray Operation="Multiply" Reference="Behavior,BlindingBolts,DamageResponse.Cost.Vital[Energy]" Value="0.7"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,BlindingBolts2,DamageResponse.Chance" Value="0.05"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="BlindingBolts3">
+        <EffectArray Operation="Multiply" Reference="Behavior,BlindingBolts2,Duration" Value="1.400000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="BlindingMist2">
+        <EffectArray Reference="Behavior,BlindingMist2,DamageResponse.Chance" Value="0.08"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Bloodlust4">
+        <EffectArray Reference="Behavior,Bloodlust2,Modification.VitalDamageLeechArray[Life].KindArray[Melee]" Value="0.1"/>
+        <EffectArray Reference="Abil,Bloodlust,Cost[0].Cooldown.TimeUse" Value="4.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Bloodlust5">
+        <EffectArray Reference="Behavior,Bloodlust2,Modification.AttackSpeedMultiplier" Value="0.15"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,Bloodlust2,Duration" Value="0.900000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ClawFrenzy2">
+        <EffectArray Operation="Multiply" Reference="Behavior,ClawFrenzy,Duration" Value="1.300000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ClawFrenzy3">
+        <EffectArray Operation="Subtract" Reference="Behavior,ClawFrenzy,Modification.DamageTakenFraction[Melee]" Value="0.15"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,ClawFrenzy,Modification.DamageTakenFraction[Spell]" Value="0.15"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="CompanionAura2">
+        <EffectArray Operation="Subtract" Reference="Behavior,CompanionAura,Modification.DamageTotalMultiplier[Spell]" Value="0.05"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,CompanionAura,Modification.DamageTotalMultiplier[Melee]" Value="0.05"/>
+        <EffectArray Reference="Behavior,CompanionAura3,Modification.DamageTotalMultiplier[Melee]" Value="0.35"/>
+        <EffectArray Reference="Behavior,CompanionAura3,Modification.DamageTotalMultiplier[Spell]" Value="0.35"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="CompanionAura4">
+        <EffectArray Operation="Multiply" Reference="Effect,CompanionAura5,AreaArray[0].Radius" Value="1.35"/>
+        <EffectArray Operation="Multiply" Reference="Effect,CompanionAura2,AreaArray[0].Radius" Value="1.35"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="CompanionAura3">
+        <EffectArray Operation="Multiply" Reference="Effect,CompanionAura3,VitalArray[Energy].Change" Value="0.65"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="CompanionAura5">
+        <EffectArray Reference="Behavior,CompanionAura2,Modification.DamageTotalMultiplier[Melee]" Value="0.17"/>
+        <EffectArray Reference="Behavior,CompanionAura2,Modification.DamageTotalMultiplier[Spell]" Value="0.17"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ConcussionShell2">
+        <EffectArray Reference="Behavior,ConcussionShell,PeriodCount" Value="4"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,ConcussionShell,Duration" Value="1.750000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ConcussionShell3">
+        <EffectArray Operation="Multiply" Reference="Effect,ConcussionShell2,Amount" Value="1.35"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Cyclone2">
+        <EffectArray Operation="Multiply" Reference="Abil,Cyclone2,Cost[0].Vital[Energy]" Value="1.1"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Cyclone4,AreaArray[0].Radius" Value="1.3"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Cyclone3">
+        <EffectArray Reference="Behavior,Cyclone2,DamageResponse.Chance" Value="0.05"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="DarkArrows2">
+        <EffectArray Operation="Subtract" Reference="Behavior,DarkArrows2,Modification.DamageTakenFraction[Melee]" Value="0.06"/>
+        <EffectArray Operation="Multiply" Reference="Effect,DarkArrows,Amount" Value="1.2"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,DarkArrows2,Modification.DamageTakenFraction[Spell]" Value="0.06"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="DarkArrows3">
+        <EffectArray Operation="Multiply" Reference="Effect,DarkArrows,Amount" Value="0.75"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,DarkArrows,DamageResponse.Cost.Vital[Energy]" Value="0.65"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="DrillPeck2">
+        <EffectArray Reference="Abil,DrillPeck,Range[0]" Value="0.5"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="DrillPeck3">
+        <EffectArray Reference="Effect,DrillPeck,AttributeFactor[Biological]" Value="0.55"/>
+        <EffectArray Reference="Effect,DrillPeck,AttributeFactor[Heroic]" Value="0.55"/>
+        <EffectArray Reference="Effect,DrillPeck,AttributeFactor[Light]" Value="0.55"/>
+        <EffectArray Reference="Effect,DrillPeck,AttributeFactor[Structure]" Value="0.55"/>
+        <EffectArray Reference="Effect,DrillPeck,AttributeFactor[Summoned]" Value="0.55"/>
+        <EffectArray Operation="Multiply" Reference="Effect,DrillPeck,Amount" Value="1.55"/>
+        <EffectArray Operation="Multiply" Reference="Abil,DrillPeck,Cost[0].Vital[Energy]" Value="1.2"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Enrage2">
+        <EffectArray Reference="Behavior,Enrage3,DamageResponse.Chance" Value="0.2"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ExplodingDecoy2">
+        <EffectArray Operation="Multiply" Reference="Abil,ExplodingDecoy,Cost[0].VitalFraction[Energy]" Value="0.5"/>
+        <EffectArray Reference="Unit,ExplodingDecoy,LifeStart" Value="1"/>
+        <EffectArray Reference="Unit,ExplodingDecoy,LifeMax" Value="1"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="FaerieFire2">
+        <EffectArray Reference="Behavior,FaerieFire,DamageResponse.Chance" Value="0.09"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="FaerieFire3">
+        <EffectArray Operation="Multiply" Reference="Behavior,FaerieFire,Duration" Value="1.350000"/>
+        <EffectArray Operation="Multiply" Reference="Abil,FaerieFire,Cost[0].Vital[Energy]" Value="1.2"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="FearWard2">
+        <EffectArray Reference="Abil,FearWard,Cost[0].Cooldown.TimeUse" Value="4.000000"/>
+        <EffectArray Operation="Multiply" Reference="Effect,FearWard4,AreaArray[0].Radius" Value="1.3"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="FearWard22">
+        <EffectArray Operation="Subtract" Reference="Abil,FearWard,Cost[0].Cooldown.TimeUse" Value="6.000000"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,FearWard,Duration" Value="0.800000"/>
+        <EffectArray Operation="Subtract" Reference="Effect,FearWard3,PeriodCount" Value="3"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Fly2">
+        <EffectArray Reference="Behavior,Fly2,Modification.RateMultiplierArray[Cooldown]" Value="0.17"/>
+        <EffectArray Reference="Abil,Fly2,Cost[0].Cooldown.TimeUse" Value="3.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Fly3">
+        <EffectArray Operation="Subtract" Reference="Abil,Fly2,Cost[0].Cooldown.TimeUse" Value="4.000000"/>
+        <EffectArray Operation="Multiply" Reference="Abil,Fly2,Cost[0].Vital[Energy]" Value="1.1"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="FlyOver2">
+        <EffectArray Operation="Multiply" Reference="Abil,FlyOver,Cost[0].Vital[Energy]" Value="0.6"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="FlyOver3">
+        <EffectArray Operation="Subtract" Reference="Abil,FlyOver,Cost[0].Cooldown.TimeUse" Value="3.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ForcePush2">
+        <EffectArray Operation="Multiply" Reference="Behavior,ForcePush,Duration" Value="1.300000"/>
+        <EffectArray Reference="Abil,ForcePush,Cost[0].Cooldown.TimeUse" Value="2.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ForcePush3">
+        <EffectArray Operation="Multiply" Reference="Effect,ForcePush,Amount" Value="1.35"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Gust2">
+        <EffectArray Operation="Multiply" Reference="Behavior,Gust2,Duration" Value="0.700000"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Gust6,Amount" Value="1.4"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Gust3">
+        <EffectArray Operation="Multiply" Reference="Behavior,Gust2,Duration" Value="1.300000"/>
+        <EffectArray Reference="Abil,Gust2,Range[0]" Value="1"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="HamstringTrap2">
+        <EffectArray Operation="Multiply" Reference="Behavior,HamstringTrap,Duration" Value="1.350000"/>
+        <EffectArray Reference="Abil,HamstringTrap,Cost[0].Cooldown.TimeUse" Value="2.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="HamstringTrap3">
+        <EffectArray Operation="Multiply" Reference="Effect,HamstringTrap,Amount" Value="1.3"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="HeartPiercer">
+        <EffectArray Operation="Multiply" Reference="Behavior,HeartPiercer2,Duration" Value="1.500000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ConsecrateGround">
+        <EffectArray Operation="Subtract" Reference="Behavior,ConsecratedGround,DamageResponse.ModifyFraction" Value="0.3"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Avatar3">
+        <EffectArray Operation="Multiply" Reference="Abil,Avatar,Cost[0].Cooldown.TimeUse" Value="1.200000"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,Avatar,Modification.VitalMaxAdditiveMultiplierArray[Life]" Value="1.3"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="BlindingLance2">
+        <EffectArray Operation="Multiply" Reference="Effect,BlindingLance2,Amount" Value="1.35"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="BlindingLance3">
+        <EffectArray Operation="Multiply" Reference="Behavior,BlindingLance,Duration" Value="1.300000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="BlindingSlash2">
+        <EffectArray Reference="Behavior,BlindingSlash,DamageResponse.Chance" Value="0.05"/>
+        <EffectArray Reference="Behavior,BlindingSlash,Duration" Value="2.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="BloodCry2">
+        <EffectArray Operation="Multiply" Reference="Behavior,BloodCry3,Duration" Value="1.500000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="BloodDrinkerAura2">
+        <EffectArray Reference="Behavior,BloodDrinkerAura2,Modification.VitalDamageLeechArray[Life].KindArray[Melee]" Value="0.04"/>
+        <EffectArray Reference="Behavior,BloodDrinkerAura2,Modification.VitalDamageLeechArray[Life].KindArray[Spell]" Value="0.04"/>
+        <EffectArray Operation="Multiply" Reference="Effect,BloodDrinkerAura4,VitalArray[Energy].Change" Value="1.2"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="BloodDrinkerAura3">
+        <EffectArray Reference="Effect,BloodDrinkerAura2,AreaArray[0].Radius" Value="1.5"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Charge3">
+        <EffectArray Operation="Subtract" Reference="Abil,Charge2,Cost[0].Cooldown.TimeUse" Value="3.000000"/>
+        <EffectArray Operation="Multiply" Reference="Abil,Charge2,Cost[0].Vital[Energy]" Value="1.2"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Charge4">
+        <EffectArray Operation="Multiply" Reference="Behavior,Charge,Duration" Value="1.600000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ConsecrateGround2">
+        <EffectArray Operation="Multiply" Reference="Effect,ConsecratedGround2,AreaArray[0].Radius" Value="1.5"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="GreatArrow2">
+        <EffectArray Operation="Multiply" Reference="Effect,GreatArrow2,Amount" Value="1.7"/>
+        <EffectArray Operation="Multiply" Reference="Effect,GreatArrow4,AreaArray[0].Radius" Value="0.85"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="GreatArrow3">
+        <EffectArray Operation="Multiply" Reference="Abil,GreatArrow,Cost[0].Vital[Energy]" Value="0.65"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Headshot2">
+        <EffectArray Reference="Effect,Headshot,AttributeFactor[Heroic]" Value="1.55"/>
+        <EffectArray Reference="Effect,Headshot,AttributeFactor[Hover]" Value="1.55"/>
+        <EffectArray Reference="Effect,Headshot,AttributeFactor[Structure]" Value="1.55"/>
+        <EffectArray Reference="Effect,Headshot,AttributeFactor[Summoned]" Value="1.55"/>
+        <EffectArray Reference="Effect,Headshot,AttributeFactor[Biological]" Value="1.55"/>
+        <EffectArray Operation="Multiply" Reference="Abil,Headshot,Cost[0].Vital[Energy]" Value="1.2"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Headshot3">
+        <EffectArray Operation="Multiply" Reference="Abil,Headshot,Cost[0].Vital[Energy]" Value="0.5"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="HeartPiercer2">
+        <EffectArray Reference="Behavior,HeartPiercer2,DamageResponse.ModifyFraction" Value="0.02"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,HeartPiercer2,Duration" Value="0.800000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Instability2">
+        <EffectArray Reference="Behavior,Instability,DamageResponse.Chance" Value="0.05"/>
+        <EffectArray Reference="Behavior,Instability3,DamageResponse.Chance" Value="0.1"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Invigorate4">
+        <EffectArray Operation="Multiply" Reference="Effect,Invigorate4,RechargeVitalRate" Value="1.300700"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Invigorate5">
+        <EffectArray Operation="Multiply" Reference="Abil,Invigorate,Cost[0].Vital[Energy]" Value="1.3"/>
+        <EffectArray Reference="Behavior,Invigorate2,Modification.VitalRegenMultiplier[Energy]" Value="0.2"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="LightningBall4">
+        <EffectArray Operation="Multiply" Reference="Abil,LightningBall,Cost[0].Cooldown.TimeUse" Value="0.750000"/>
+        <EffectArray Operation="Multiply" Reference="Abil,LightningBall,Cost[0].Vital[Energy]" Value="1.2"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="LightningBall5">
+        <EffectArray Operation="Multiply" Reference="Effect,LightningBall4,AreaArray[0].Radius" Value="1.2"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Freeze">
+        <EffectArray Reference="Behavior,Freeze,Duration" Value="1.500000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="MeteorStorm2">
+        <EffectArray Operation="Multiply" Reference="Effect,MeteorStorm5,Amount" Value="1.3"/>
+        <EffectArray Reference="Abil,MeteorStorm2,Cost[0].Cooldown.TimeUse" Value="3.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="MeteorStorm3">
+        <EffectArray Operation="Multiply" Reference="Effect,MeteorStorm6,AreaArray[0].Radius" Value="1.25"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="SpellFrenzy2">
+        <EffectArray Reference="Behavior,SpellFrenzy2,Modification.RateMultiplierArray[Cooldown]" Value="0.02"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="SpellSap2">
+        <EffectArray Reference="Behavior,SpellSap,Modification.VitalDamageLeechArray[Life].KindArray[Spell]" Value="0.04"/>
+        <EffectArray Reference="Behavior,SpellSap,Modification.VitalDamageLeechArray[Life].KindArray[Melee]" Value="0.04"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Prayer">
+        <EffectArray Operation="Multiply" Reference="Abil,Prayer,Cost[0].Cooldown.TimeUse" Value="0.850000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="SpellSap3">
+        <EffectArray Operation="Subtract" Reference="Behavior,SpellSap,Modification.VitalDamageLeechArray[Energy].KindArray[Spell]" Value="0.04"/>
+        <EffectArray Reference="Behavior,SpellSap,Modification.VitalDamageLeechArray[Life].KindArray[Spell]" Value="0.11"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="StaticBarrier2">
+        <EffectArray Operation="Multiply" Reference="Effect,StaticBarrier,Amount" Value="1.4"/>
+        <EffectArray Operation="Multiply" Reference="Effect,StaticBarrier3,VitalArray[Energy].Change" Value="1.15"/>
+        <EffectArray Operation="Multiply" Reference="Effect,StaticBarrier7,Amount" Value="1.4"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="StaticBarrier3">
+        <EffectArray Operation="Subtract" Reference="Behavior,StaticBarrier,DamageResponse.ModifyFraction" Value="0.11"/>
+        <EffectArray Operation="Multiply" Reference="Effect,StaticBarrier6,AreaArray[0].Radius" Value="1.15"/>
+        <EffectArray Operation="Multiply" Reference="Effect,StaticBarrier4,AreaArray[0].Radius" Value="1.15"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Steadfast3">
+        <EffectArray Operation="Subtract" Reference="Behavior,Steadfast2,Modification.BehaviorCategoryDurationFactor[Slow]" Value="0.3"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,Steadfast2,Modification.BehaviorCategoryDurationFactor[Stun]" Value="0.3"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Jynx2">
+        <EffectArray Operation="Multiply" Reference="Behavior,Jynx,Duration" Value="0.850000"/>
+        <EffectArray Reference="Behavior,Jynx,DamageResponse.Chance" Value="0.11"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Jynx3">
+        <EffectArray Operation="Subtract" Reference="Abil,Jynx,Cost[0].Cooldown.TimeUse" Value="5.000000"/>
+        <EffectArray Operation="Multiply" Reference="Abil,Jynx,Cost[0].Vital[Energy]" Value="1.2"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Leap5">
+        <EffectArray Operation="Multiply" Reference="Effect,Leap7,Amount" Value="1.35"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Leap9,AreaArray[0].Radius" Value="1.25"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Leap6">
+        <EffectArray Operation="Subtract" Reference="Abil,Leap3,Cost[0].Cooldown.TimeUse" Value="4.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="LifeBloom2">
+        <EffectArray Operation="Multiply" Reference="Effect,LifeBloom,RechargeVitalRate" Value="1.199200"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="LifeBloom3">
+        <EffectArray Operation="Multiply" Reference="Effect,LifeBloom4,AreaArray[0].Radius" Value="1.3"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="PutridBreath2">
+        <EffectArray Operation="Subtract" Reference="Behavior,PutridBreath,DamageResponse.ModifyFraction" Value="0.003"/>
+        <EffectArray Operation="Multiply" Reference="Effect,PutridBreath4,Amount" Value="1.35"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="PutridBreath3">
+        <EffectArray Operation="Multiply" Reference="Abil,PutridBreath,Cost[0].Vital[Energy]" Value="1.15"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,PutridBreath,Duration" Value="1.300000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="SoulShift2">
+        <EffectArray Operation="Multiply" Reference="Effect,SoulShift5,Amount" Value="1.2"/>
+        <EffectArray Operation="Multiply" Reference="Effect,SoulShift4,AreaArray[0].Radius" Value="1.2"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="SoulShift3">
+        <EffectArray Operation="Subtract" Reference="Abil,SoulShift,Cost[0].Cooldown.TimeUse" Value="3.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Sprites2">
+        <EffectArray Reference="Effect,Sprites9,SpawnCount" Value="2"/>
+        <EffectArray Reference="Abil,Sprites2,Cost[0].Cooldown.TimeUse" Value="5.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Sprites3">
+        <EffectArray Operation="Multiply" Reference="Abil,Sprites2,Cost[0].Vital[Energy]" Value="0.5"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Steadfast">
+        <EffectArray Operation="Multiply" Reference="Behavior,Steadfast2,Duration" Value="1.300000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Mend3">
+        <EffectArray Reference="Abil,Mend,Range[0]" Value="1"/>
+        <EffectArray Reference="Behavior,Mend,Duration" Value="2.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Mend4">
+        <EffectArray Operation="Multiply" Reference="Abil,Mend,Cost[0].Vital[Energy]" Value="0.5"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Quickening2">
+        <EffectArray Reference="Behavior,Quickening2,Modification.AttackSpeedMultiplier" Value="0.05"/>
+        <EffectArray Reference="Behavior,Quickening2,Modification.MoveSpeedMultiplier" Value="0.05"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="QuicknessAura2">
+        <EffectArray Operation="Multiply" Reference="Effect,QuicknessAura2,VitalArray[Energy].Change" Value="0.55"/>
+        <EffectArray Operation="Multiply" Reference="Effect,QuicknessAura3,AreaArray[0].Radius" Value="0.7"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ExplodingDecoy">
+        <EffectArray Operation="Multiply" Reference="Effect,ExplodingDecoy,Amount" Value="1.6"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="QuicknessAura3">
+        <EffectArray Reference="Behavior,QuicknessAura2,DamageResponse.Chance" Value="0.05"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="RainofArrows2">
+        <EffectArray Operation="Subtract" Reference="Abil,RainofArrows,Cost[0].Cooldown.TimeUse" Value="6.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="RainofArrows3">
+        <EffectArray Reference="Effect,RainofArrows3,PeriodCount" Value="6"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Slink">
+        <EffectArray Reference="Behavior,Slink,Modification.MoveSpeedMultiplier" Value="0.6"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Impale3">
+        <EffectArray Operation="Subtract" Reference="Abil,Impale2,Cost[0].Cooldown.TimeUse" Value="3.000000"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,Impale,Duration" Value="0.800000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Impale4">
+        <EffectArray Operation="Multiply" Reference="Effect,Impale,Amount" Value="1.4"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Invigorate2">
+        <EffectArray Reference="Behavior,Vigor,DamageResponse.Chance" Value="0.03"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="EchoingRoar2">
+        <EffectArray Operation="Multiply" Reference="Behavior,EchoingRoar,Duration" Value="1.300000"/>
+        <EffectArray Operation="Multiply" Reference="Effect,EchoingRoar4,AreaArray[0].Radius" Value="1.2"/>
+        <EffectArray Operation="Multiply" Reference="Effect,EchoingRoar2,AreaArray[0].Radius" Value="1.2"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,EchoingRoar2,Duration" Value="1.300000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="EchoingRoar3">
+        <EffectArray Operation="Subtract" Reference="Behavior,EchoingRoar2,Modification.DamageTotalMultiplier[Melee]" Value="0.07"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,EchoingRoar2,Modification.DamageTotalMultiplier[Spell]" Value="0.07"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="EmpoweringTaunt2">
+        <EffectArray Operation="Subtract" Reference="Abil,EmpoweringTaunt,Cost[0].Cooldown.TimeUse" Value="4.000000"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,EmpoweringTaunt,Modification.DamageTotalMultiplier[Melee]" Value="0.8"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,EmpoweringTaunt,Modification.DamageTotalMultiplier[Spell]" Value="0.8"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="HardenedSkin2">
+        <EffectArray Operation="Multiply" Reference="Abil,HardenedSkin,Cost[0].Vital[Energy]" Value="1.2"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,HardenedSkin,Duration" Value="1.300000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="HardenedSkin3">
+        <EffectArray Operation="Subtract" Reference="Behavior,HardenedSkin,DamageResponse.Chance" Value="0.05"/>
+        <EffectArray Operation="Multiply" Reference="Effect,HardenedSkin2,Amount" Value="1.6"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Headbutt2">
+        <EffectArray Operation="Subtract" Reference="Abil,Headbutt2,Cost[0].Cooldown.TimeUse" Value="2.000000"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Headbutt10,Amount" Value="1.15"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Invigorate3">
+        <EffectArray Operation="Multiply" Reference="Effect,Invigorate2,AreaArray[0].Radius" Value="1.6"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="LayofHands2">
+        <EffectArray Operation="Multiply" Reference="Abil,LayofHands,Cost[0].Vital[Energy]" Value="1.2"/>
+        <EffectArray Operation="Multiply" Reference="Effect,LayofHands2,AreaArray[0].Radius" Value="1.35"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="LayofHands3">
+        <EffectArray Operation="Multiply" Reference="Effect,LayofHands3,RechargeVitalRate" Value="1.199200"/>
+        <EffectArray Operation="Multiply" Reference="Effect,LayofHands4,RechargeVitalRate" Value="1.199200"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="LeapofFaith2">
+        <EffectArray Operation="Multiply" Reference="Abil,LeapofFaith,Cost[0].Cooldown.TimeUse" Value="0.800000"/>
+        <EffectArray Operation="Multiply" Reference="Effect,LeapofFaith2,Amount" Value="1.25"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="LeapofFaith3">
+        <EffectArray Operation="Multiply" Reference="Abil,LeapofFaith,Cost[0].Vital[Energy]" Value="1.25"/>
+        <EffectArray Operation="Multiply" Reference="Effect,LeapofFaith4,AreaArray[0].Radius" Value="2"/>
+        <EffectArray Operation="Multiply" Reference="Effect,LeapofFaith7,AreaArray[0].Radius" Value="2"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Mark4">
+        <EffectArray Operation="Multiply" Reference="Abil,Mark,Cost[0].Vital[Energy]" Value="1.2"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,Mark,Duration" Value="1.400000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Mark5">
+        <EffectArray Reference="Behavior,Mark,DamageResponse.Chance" Value="0.07"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="RallyCry4">
+        <EffectArray Operation="Multiply" Reference="Abil,RallyCry,Cost[0].Vital[Energy]" Value="1.2"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,RallyCry,Modification.VitalRegenArray[Energy]" Value="1.300700"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,RallyCry,Modification.VitalRegenArray[Life]" Value="1.300700"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="RallyCry5">
+        <EffectArray Operation="Multiply" Reference="Abil,RallyCry,Cost[0].Vital[Energy]" Value="0.6"/>
+        <EffectArray Reference="Abil,RallyCry,Cost[0].Cooldown.TimeUse" Value="4.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="RapidReload2">
+        <EffectArray Operation="Multiply" Reference="Abil,RapidReload,Cost[0].Vital[Energy]" Value="1.2"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,RapidReload,DamageResponse.Chance" Value="0.06"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="RapidReload3">
+        <EffectArray Operation="Subtract" Reference="Abil,RapidReload,Cost[0].Cooldown.TimeUse" Value="4.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Reverberate">
+        <EffectArray Reference="Behavior,Reverberate,DamageResponse.ModifyFraction" Value="0.65"/>
+        <EffectArray Reference="Behavior,Reverberate2,DamageResponse.ModifyFraction" Value="0.25"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Headbutt3">
+        <EffectArray Operation="Multiply" Reference="Behavior,Headbutt4,Duration" Value="1.350000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="MagnetonPull">
+        <EffectArray Operation="Multiply" Reference="Abil,MagnetonPull,Range[0]" Value="1.25"/>
+        <EffectArray Operation="Multiply" Reference="Effect,MagnetonPull2,Amount" Value="1.3"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="EmpoweringTaunt3">
+        <EffectArray Operation="Multiply" Reference="Behavior,EmpoweringTaunt,Modification.DamageTotalMultiplier[Melee]" Value="1.4"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,EmpoweringTaunt,Modification.DamageTotalMultiplier[Spell]" Value="1.4"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="MagnetonPull2">
+        <EffectArray Operation="Multiply" Reference="Abil,MagnetonPull,Cost[0].VitalFraction[Energy]" Value="0.7"/>
+        <EffectArray Operation="Subtract" Reference="Abil,MagnetonPull,Cost[0].Cooldown.TimeUse" Value="3.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Reverberate2">
+        <EffectArray Operation="Subtract" Reference="Behavior,Reverberate2,DamageResponse.ModifyFraction" Value="0.4"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="SharedSteelAura2">
+        <EffectArray Operation="Multiply" Reference="Effect,SharedSteelAura2,VitalArray[Energy].Change" Value="0.6"/>
+        <EffectArray Reference="Behavior,SharedSteelAura2,DamageResponse.ModifyFraction" Value="0.05"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="SharedSteelAura3">
+        <EffectArray Operation="Multiply" Reference="Effect,SharedSteelAura3,AreaArray[0].Radius" Value="1.5"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ShieldSlam5">
+        <EffectArray Operation="Multiply" Reference="Abil,ShieldSlam,Cost[0].Vital[Energy]" Value="0.8"/>
+        <EffectArray Operation="Multiply" Reference="Abil,ShieldSlam,Cost[0].Cooldown.TimeUse" Value="0.800000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ShieldSlam6">
+        <EffectArray Operation="Multiply" Reference="Behavior,ShieldSlam,Duration" Value="1.300000"/>
+        <EffectArray Operation="Multiply" Reference="Abil,ShieldSlam,Cost[0].Vital[Energy]" Value="1.1"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ShieldingStrikes2">
+        <EffectArray Operation="Multiply" Reference="Behavior,ShieldingStrikes,Duration" Value="1.400000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ShieldingStrikes3">
+        <EffectArray Operation="Multiply" Reference="Behavior,ShieldingStrikes,Duration" Value="0.800000"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,ShieldingStrikes,Modification.DamageTotalMultiplier[Melee]" Value="1.15"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,ShieldingStrikes,Modification.DamageTotalMultiplier[Spell]" Value="1.15"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ShoulderRam2">
+        <EffectArray Operation="Multiply" Reference="Effect,ShoulderRam2,Amount" Value="1.35"/>
+        <EffectArray Reference="Abil,ShoulderRam,Cost[0].Cooldown.TimeUse" Value="2.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ShoulderRam3">
+        <EffectArray Operation="Multiply" Reference="Abil,ShoulderRam,Cost[0].Vital[Energy]" Value="1.1"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,ShoulderRam,Duration" Value="1.300000"/>
+        <EffectArray Reference="Behavior,ShoulderRam,PeriodCount" Value="2"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Slink2">
+        <EffectArray Reference="Behavior,Slink,Modification.VitalRegenMultiplier[Energy]" Value="1.5"/>
+        <EffectArray Reference="Behavior,Slink,Modification.VitalRegenMultiplier[Life]" Value="1.5"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Smash2">
+        <EffectArray Reference="Abil,Smash,Cost[0].Cooldown.TimeUse" Value="2.000000"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,Smash,Duration" Value="1.500000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="Smash"/>
+    </CUpgrade>
+    <CUpgrade id="Smash3">
+        <EffectArray Operation="Multiply" Reference="Abil,Smash,Cost[0].Vital[Energy]" Value="0.6"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="Smash"/>
+    </CUpgrade>
+    <CUpgrade id="SpitFire2">
+        <EffectArray Reference="Effect,Spitfire3,PeriodCount" Value="13"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Enrage">
+        <EffectArray Operation="Multiply" Reference="Behavior,Enrage2,Duration" Value="1.400000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="SpitFire3">
+        <EffectArray Operation="Multiply" Reference="Abil,Spitfire,Cost[0].Vital[Energy]" Value="0.5"/>
+        <EffectArray Reference="Abil,Spitfire,Cost[0].Cooldown.TimeUse" Value="3.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="StormBolt2">
+        <EffectArray Operation="Multiply" Reference="Abil,StormBolt,Cost[0].Vital[Energy]" Value="1.2"/>
+        <EffectArray Reference="Behavior,StormBolt,Duration" Value="1.500000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="StormBolt3">
+        <EffectArray Operation="Multiply" Reference="Effect,StormBolt2,Amount" Value="1.4"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,StormBolt,Duration" Value="1.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="StormStrike2">
+        <EffectArray Operation="Multiply" Reference="Effect,StormStrike2,PeriodicPeriodArray[0]" Value="1.300000"/>
+        <EffectArray Operation="Multiply" Reference="Effect,StormStrike,Amount" Value="1.3"/>
+        <EffectArray Operation="Multiply" Reference="Effect,StormStrike2,PeriodicPeriodArray[1]" Value="1.300000"/>
+        <EffectArray Operation="Multiply" Reference="Effect,StormStrike2,PeriodicPeriodArray[2]" Value="1.300000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="StormStrike3">
+        <EffectArray Operation="Multiply" Reference="Abil,StormStrike,Cost[0].Vital[Energy]" Value="0.5"/>
+        <EffectArray Operation="Multiply" Reference="Effect,StormStrike3,AreaArray[0].Radius" Value="0.7"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="SummonPet6">
+        <EffectArray Operation="Multiply" Reference="Behavior,SummonPet,Modification.DamageDealtScaled[Melee]" Value="1.5"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="SummonPet7">
+        <EffectArray Operation="Multiply" Reference="Behavior,SummonPet,Modification.DamageDealtScaled[Melee]" Value="0.85"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,SummonPet,Modification.UnifiedDamageTakenFraction[Spell]" Value="0.35"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,SummonPet,Modification.UnifiedDamageTakenFraction[Melee]" Value="0.35"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="SummonPet8">
+        <EffectArray Reference="Behavior,SummonPet,Modification.AttributeChangeArray[0].Points" Value="25"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="SummonPet9">
+        <EffectArray Operation="Multiply" Reference="Abil,SummonPet,Cost[0].Cooldown.TimeUse" Value="0.500000"/>
+        <EffectArray Operation="Multiply" Reference="Abil,SummonPet,Cost[0].Vital[Energy]" Value="0.5"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="SunlightArrows2">
+        <EffectArray Operation="Multiply" Reference="Effect,SunlightArrows2,AreaArray[0].Radius" Value="0.8"/>
+        <EffectArray Operation="Multiply" Reference="Effect,SunlightArrows,Amount" Value="1.17"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="SunlightArrows3">
+        <EffectArray Operation="Multiply" Reference="Behavior,SunlightArrows,DamageResponse.Cost.Vital[Energy]" Value="0.75"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Sunwell2">
+        <EffectArray Operation="Multiply" Reference="Effect,Sunwell2,AreaArray[0].Radius" Value="1.4"/>
+        <EffectArray Operation="Multiply" Reference="Abil,Sunwell,Cost[0].Vital[Energy]" Value="1.2"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Sunwell3">
+        <EffectArray Reference="Abil,Sunwell,Range[0]" Value="1"/>
+        <EffectArray Operation="Subtract" Reference="Abil,Sunwell,Cost[0].Cooldown.TimeUse" Value="2.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Taunt4">
+        <EffectArray Operation="Multiply" Reference="Behavior,Taunt2,Duration" Value="1.200000"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,Taunt,Duration" Value="1.200000"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,Taunt2,Modification.VitalRegenArray[Life]" Value="1.300700"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Taunt5">
+        <EffectArray Operation="Multiply" Reference="Abil,Taunt2,Cost[0].Vital[Energy]" Value="0.4"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Taunt3,AreaArray[0].Radius" Value="0.7"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Quickening">
+        <EffectArray Operation="Multiply" Reference="Behavior,Quickening2,Duration" Value="1.500000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="TerrifyingRoar2">
+        <EffectArray Operation="Multiply" Reference="Behavior,TerrifyingRoar,Duration" Value="1.500000"/>
+        <EffectArray Operation="Multiply" Reference="Abil,TerrifyingRoar,Cost[0].Vital[Energy]" Value="1.1"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="TerrifyingRoar3">
+        <EffectArray Operation="Multiply" Reference="Effect,TerrifyingRoar4,AreaArray[0].Radius" Value="1.3"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="TimeTrance2">
+        <EffectArray Reference="Behavior,TimeTrance,Modification.TimeScale" Value="0.08"/>
+        <EffectArray Reference="Abil,TimeTrance,Cost[0].Cooldown.TimeUse" Value="4.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="TimeTrance3">
+        <EffectArray Operation="Multiply" Reference="Behavior,TimeTrance,Duration" Value="1.200000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="TimeWarp2">
+        <EffectArray Reference="Behavior,TimeWarp,Modification.TimeScale" Value="0.03"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="TimeWarp3">
+        <EffectArray Operation="Subtract" Reference="Behavior,TimeWarp,Modification.TimeScale" Value="0.04"/>
+        <EffectArray Operation="Multiply" Reference="Effect,TimeWarp,VitalArray[Energy].Change" Value="0.65"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Tranquility2">
+        <EffectArray Operation="Multiply" Reference="Effect,Tranquility,RechargeVitalRate" Value="1.250000"/>
+        <EffectArray Operation="Multiply" Reference="Abil,Tranquility,Cost[0].Vital[Energy]" Value="1.3"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Tranquility3">
+        <EffectArray Operation="Multiply" Reference="Effect,Tranquility3,AreaArray[0].Radius" Value="1.3"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="VampiricMastery">
+        <EffectArray Reference="Behavior,VampiricMastery,Modification.VitalDamageLeechArray[Life].KindArray[Melee]" Value="0.07"/>
+        <EffectArray Reference="Behavior,VampiricMastery,Modification.VitalDamageLeechArray[Life].KindArray[Spell]" Value="0.07"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="BloodFeast2">
+        <EffectArray Operation="Multiply" Reference="Abil,BloodFeast,Cost[0].Vital[Energy]" Value="0.9"/>
+        <EffectArray Operation="Multiply" Reference="Effect,BloodFeast2,AreaArray[0].Radius" Value="1.3"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="BloodFeast3">
+        <EffectArray Operation="Multiply" Reference="Behavior,BloodFeast,Duration" Value="1.300000"/>
+        <EffectArray Reference="Abil,BloodFeast,Cost[0].Cooldown.TimeUse" Value="2.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="BloodRage2">
+        <EffectArray Reference="Behavior,BloodRage,Modification.RateMultiplierArray[Cooldown]" Value="0.1"/>
+        <EffectArray Operation="Subtract" Reference="Abil,BloodRage,Cost[0].Cooldown.TimeUse" Value="4.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="BloodRage3">
+        <EffectArray Operation="Multiply" Reference="Behavior,BloodRage,Modification.VitalRegenArray[Life]" Value="1.800700"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="BloodCry">
+        <EffectArray Operation="Multiply" Reference="Behavior,BloodCry,Duration" Value="1.500000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="BrillianceAura">
+        <EffectArray Operation="Subtract" Reference="Effect,BrillianceAura2,VitalArray[Energy].Change" Value="1.1"/>
+        <EffectArray Reference="Behavior,BrillianceAura,DamageResponse.Priority" Value="1"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,BrillianceAura,Modification.DamageTotalMultiplier[Spell]" Value="0.005"/>
+        <EffectArray Reference="Behavior,BrillianceAura2,Modification.VitalRegenMultiplier[Energy]" Value="0.011"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Blessing">
+        <EffectArray Reference="Abil,Blessing,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,Blessing,Cost[0].Vital[Energy]" Value="11"/>
+        <EffectArray Reference="Effect,Blessing,RechargeVitalRate" Value="2.101500"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Blessing,RechargeVitalRate" Value="1.070300"/>
+        <EffectArray Reference="Abil,Blessing,Cost[0].Cooldown.TimeUse" Value="0.100000"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="CalmBeforeTheStorm2">
+        <EffectArray Reference="Behavior,CalmBeforeTheStorm,Modification.VitalRegenMultiplier[Energy]" Value="4"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ChargeThrough2">
+        <EffectArray Operation="Subtract" Reference="Abil,ChargeThrough2,Cost[0].Cooldown.TimeUse" Value="4.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ChargeThrough3">
+        <EffectArray Operation="Multiply" Reference="Effect,ChargeThrough9,AreaArray[0].Radius" Value="1.2"/>
+        <EffectArray Operation="Multiply" Reference="Effect,ChargeThrough7,Amount" Value="1.25"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Coagulate2">
+        <EffectArray Operation="Subtract" Reference="Behavior,Coagulate,Modification.MoveSpeedMultiplier" Value="0.1"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,Coagulate,DamageResponse.ModifyFraction" Value="0.1"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Coagulate3">
+        <EffectArray Reference="Behavior,Coagulate,Modification.MoveSpeedMultiplier" Value="0.15"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,Coagulate,Modification.VitalRegenMultiplier[Life]" Value="0.15"/>
+        <EffectArray Reference="Behavior,Coagulate,Modification.AttackSpeedMultiplier" Value="0.15"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="CriticalWeakness2">
+        <EffectArray Reference="Behavior,CriticalWeaknessSpell,DamageResponse.Chance" Value="0.05"/>
+        <EffectArray Reference="Behavior,CriticalWeaknessSpell2,Modification.DamageTotalMultiplier[Spell]" Value="0.05"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="Hamstring"/>
+    </CUpgrade>
+    <CUpgrade id="DefensiveStance2">
+        <EffectArray Reference="Behavior,DefensiveStance,DamageResponse.Chance" Value="0.05"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,DefensiveStance,DamageResponse.ModifyFraction" Value="0.07"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="DefensiveStance3">
+        <EffectArray Operation="Multiply" Reference="Effect,DefensiveStance2,Amount" Value="1.8"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,DefensiveStance,DamageResponse.Chance" Value="0.05"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="DesecrateGround3">
+        <EffectArray Reference="Effect,DesecratedGround2,AreaArray[0].Radius" Value="0.3"/>
+        <EffectArray Operation="Multiply" Reference="Effect,DesecratedGround3,Amount" Value="1.1"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="DuskWalk2">
+        <EffectArray Operation="Subtract" Reference="Behavior,DuskWalk,Modification.DamageTakenFraction[Melee]" Value="0.12"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,DuskWalk,Modification.DamageTakenFraction[Spell]" Value="0.12"/>
+        <EffectArray Reference="Abil,DuskWalk,Cost[0].Cooldown.TimeUse" Value="2.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="DuskWalk3">
+        <EffectArray Reference="Behavior,DuskWalk,Duration" Value="3.000000"/>
+        <EffectArray Operation="Multiply" Reference="Abil,DuskWalk,Cost[0].Vital[Energy]" Value="1.2"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="EnergyStrikesMastery2">
+        <EffectArray Operation="Multiply" Reference="Effect,EnergyStrikesMastery,VitalArray[Energy].Change" Value="1.6"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="FeignDeath2">
+        <EffectArray Operation="Subtract" Reference="Abil,FeignDeath,Cost[0].Cooldown.TimeUse" Value="5.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="FeignDeath3">
+        <EffectArray Operation="Multiply" Reference="Abil,FeignDeath,Cost[0].Vital[Energy]" Value="0.6"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Focus2">
+        <EffectArray Reference="Abil,Focus,Cost[0].Cooldown.TimeUse" Value="3.000000"/>
+        <EffectArray Reference="Behavior,Focus3,Duration" Value="3.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Focus3">
+        <EffectArray Operation="Subtract" Reference="Behavior,Focus3,DamageResponse.ModifyFraction" Value="0.15"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,Focus3,Modification.RateMultiplierArray[Cooldown]" Value="0.06"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Hamstring2">
+        <EffectArray Reference="Behavior,Hamstring3,Duration" Value="2.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="Hamstring"/>
+    </CUpgrade>
+    <CUpgrade id="CriticalWeakness">
+        <EffectArray Reference="Behavior,CriticalWeaknessPhys,DamageResponse.Chance" Value="0.05"/>
+        <EffectArray Reference="Behavior,CriticalWeaknessPhys2,Modification.DamageTotalMultiplier[Melee]" Value="0.05"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="Hamstring"/>
+    </CUpgrade>
+    <CUpgrade id="Hamstring3">
+        <EffectArray Operation="Subtract" Reference="Behavior,Hamstring3,Period" Value="0.100000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="Hamstring"/>
+    </CUpgrade>
+    <CUpgrade id="HurlBlade2">
+        <EffectArray Operation="Multiply" Reference="Abil,HurlBlade,Cost[0].Vital[Energy]" Value="1.2"/>
+        <EffectArray Operation="Subtract" Reference="Abil,HurlBlade,Cost[0].Cooldown.TimeUse" Value="3.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="HurlBlade3">
+        <EffectArray Reference="Effect,HurlBlade3,LeechFraction[Life]" Value="0.25"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Leap3">
+        <EffectArray Operation="Subtract" Reference="Abil,Leap4,Cost[0].Cooldown.TimeUse" Value="1.500000"/>
+        <EffectArray Operation="Multiply" Reference="Abil,Leap4,Cost[0].Vital[Energy]" Value="0.75"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Leap4">
+        <EffectArray Operation="Multiply" Reference="Effect,Leap14,AreaArray[0].Radius" Value="1.5"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Leap12,Amount" Value="1.3"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="NaturesBlessing">
+        <EffectArray Reference="Abil,NaturesBlessing,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,NaturesBlessing,Cost[0].Vital[Energy]" Value="10"/>
+        <EffectArray Reference="Behavior,NaturesBlessing,Duration" Value="0.250000"/>
+        <EffectArray Operation="Subtract" Reference="Abil,NaturesBlessing,Cost[0].Cooldown.TimeUse" Value="0.100000"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,NaturesBlessing,DamageResponse.ModifyFraction" Value="0.0124"/>
+        <EffectArray Reference="Behavior,NaturesBlessing,Modification.HealTakenMultiplier" Value="0.01"/>
+        <EffectArray Reference="Behavior,NaturesBlessing,Modification.DamageTotalMultiplier[Spell]" Value="0.005"/>
+        <EffectArray Reference="Behavior,NaturesBlessing,Modification.HealDealtMultiplier" Value="0.01"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="PowerfulStrike4">
+        <EffectArray Operation="Multiply" Reference="Abil,PowerfulStrike,Cost[0].Vital[Energy]" Value="0.6"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="PowerfulStrike5">
+        <EffectArray Reference="Abil,PowerfulStrike,Cost[0].Cooldown.TimeUse" Value="2.000000"/>
+        <EffectArray Operation="Multiply" Reference="Effect,PowerfulStrike,Amount" Value="1.4"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ShadowForm2">
+        <EffectArray Operation="Multiply" Reference="Effect,ShadowForm,VitalArray[Energy].Change" Value="0.7"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ShadowForm3">
+        <EffectArray Operation="Subtract" Reference="Behavior,ShadowForm2,DamageResponse.Chance" Value="0.05"/>
+        <EffectArray Reference="Behavior,ShadowForm,DamageResponse.Chance" Value="0.1"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ShadowStep2">
+        <EffectArray Operation="Multiply" Reference="Effect,ShadowStep6,Amount" Value="0.85"/>
+        <EffectArray Reference="Behavior,ShadowStep2,Duration" Value="2.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ShadowStep3">
+        <EffectArray Operation="Multiply" Reference="Effect,ShadowStep6,Amount" Value="1.4"/>
+        <EffectArray Reference="Abil,ShadowStep,Cost[0].Cooldown.TimeUse" Value="3.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Shiv2">
+        <EffectArray Operation="Multiply" Reference="Abil,Shiv,Cost[0].Vital[Energy]" Value="0.5"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Shiv,Amount" Value="0.85"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Shiv3">
+        <EffectArray Reference="Abil,Shiv,Range[0]" Value="0.5"/>
+        <EffectArray Operation="Subtract" Reference="Abil,Shiv,Cost[0].Cooldown.TimeUse" Value="1.500000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="BlindingSlash">
+        <EffectArray Reference="Effect,BlindingSlash2,AttributeFactor[Biological]" Value="0.75"/>
+        <EffectArray Reference="Effect,BlindingSlash2,AttributeFactor[Heroic]" Value="0.75"/>
+        <EffectArray Reference="Effect,BlindingSlash2,AttributeFactor[Light]" Value="0.75"/>
+        <EffectArray Reference="Effect,BlindingSlash2,AttributeFactor[Massive]" Value="0.75"/>
+        <EffectArray Reference="Effect,BlindingSlash2,AttributeFactor[Structure]" Value="0.75"/>
+        <EffectArray Reference="Effect,BlindingSlash2,AttributeFactor[Summoned]" Value="0.75"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Shockwave2">
+        <EffectArray Operation="Multiply" Reference="Abil,Shockwave,Cost[0].Vital[Energy]" Value="1.2"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Shockwave,Amount" Value="1.3"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Shockwave3">
+        <EffectArray Operation="Multiply" Reference="Effect,Shockwave3,AreaArray[0].RectangleWidth" Value="1.25"/>
+        <EffectArray Reference="Effect,Shockwave2,PeriodCount" Value="1"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Slash2">
+        <EffectArray Operation="Multiply" Reference="Abil,Slash,Cost[0].Vital[Energy]" Value="1.5"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Slash2,Amount" Value="1.4"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Slash3">
+        <EffectArray Operation="Multiply" Reference="Effect,Slash,AreaArray[0].Radius" Value="1.5"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="SliceAndDice2">
+        <EffectArray Operation="Multiply" Reference="Abil,SliceAndDice,Cost[0].Vital[Energy]" Value="1.35"/>
+        <EffectArray Reference="Effect,SliceAndDice,AttributeFactor[Biological]" Value="0.3"/>
+        <EffectArray Reference="Effect,SliceAndDice,AttributeFactor[Heroic]" Value="0.3"/>
+        <EffectArray Reference="Effect,SliceAndDice,AttributeFactor[Hover]" Value="0.3"/>
+        <EffectArray Reference="Effect,SliceAndDice,AttributeFactor[Structure]" Value="0.3"/>
+        <EffectArray Reference="Effect,SliceAndDice,AttributeFactor[Summoned]" Value="0.3"/>
+        <EffectArray Operation="Multiply" Reference="Effect,SliceAndDice,Amount" Value="1.3"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="SliceAndDice3">
+        <EffectArray Operation="Multiply" Reference="Abil,SliceAndDice,Cost[0].Vital[Energy]" Value="0.65"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="StringofDaggers2">
+        <EffectArray Operation="Multiply" Reference="Abil,StringofDaggers,Cost[0].Vital[Energy]" Value="0.6"/>
+        <EffectArray Operation="Multiply" Reference="Effect,StringofDaggers3,AreaArray[0].Radius" Value="0.7"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="StringofDaggers3">
+        <EffectArray Operation="Subtract" Reference="Abil,StringofDaggers,Cost[0].Cooldown.TimeUse" Value="1.500000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="EnergyStrikesMastery">
+        <EffectArray Reference="Behavior,EnergyStrikesMastery,DamageResponse.Chance" Value="0.11"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Thrash2">
+        <EffectArray Operation="Multiply" Reference="Abil,Thrash,Cost[0].Vital[Energy]" Value="0.65"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Thrash3">
+        <EffectArray Operation="Multiply" Reference="Effect,Thrash6,AreaArray[0].Radius" Value="1.4"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ThrowSword2">
+        <EffectArray Operation="Multiply" Reference="Effect,ThrowSword2,Amount" Value="1.4"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,ThrowSword,Duration" Value="1.300000"/>
+        <EffectArray Reference="Behavior,ThrowSword,PeriodCount" Value="2"/>
+        <EffectArray Reference="Effect,ThrowSword2,AttributeFactor[Biological]" Value="0.4"/>
+        <EffectArray Reference="Effect,ThrowSword2,AttributeFactor[Heroic]" Value="0.4"/>
+        <EffectArray Reference="Effect,ThrowSword2,AttributeFactor[Light]" Value="0.4"/>
+        <EffectArray Reference="Effect,ThrowSword2,AttributeFactor[Massive]" Value="0.4"/>
+        <EffectArray Reference="Effect,ThrowSword2,AttributeFactor[Structure]" Value="0.4"/>
+        <EffectArray Reference="Effect,ThrowSword2,AttributeFactor[Summoned]" Value="0.4"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ThrowSword3">
+        <EffectArray Operation="Multiply" Reference="Behavior,ThrowSword2,Duration" Value="0.700000"/>
+        <EffectArray Operation="Multiply" Reference="Abil,ThrowSword,Cost[0].Cooldown.TimeUse" Value="0.700000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Tranquility">
+        <EffectArray Reference="Abil,Tranquility,SmartPriority" Value="1"/>
+        <EffectArray Reference="Effect,Tranquility,RechargeVitalRate" Value="4.000000"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Tranquility,RechargeVitalRate" Value="1.078100"/>
+        <EffectArray Reference="Abil,Tranquility,Cost[0].Vital[Energy]" Value="18"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Sunwell">
+        <EffectArray Reference="Abil,Sunwell,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,Sunwell,Cost[0].Vital[Energy]" Value="22"/>
+        <EffectArray Reference="Effect,Sunwell,RechargeVitalRate" Value="20.000000"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Sunwell,RechargeVitalRate" Value="1.089800"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="StaticBarrier">
+        <EffectArray Operation="Subtract" Reference="Behavior,StaticBarrier,DamageResponse.ModifyFraction" Value="0.01"/>
+        <EffectArray Reference="Effect,StaticBarrier,Amount" Value="1.2"/>
+        <EffectArray Reference="Behavior,StaticBarrier,DamageResponse.Priority" Value="1"/>
+        <EffectArray Operation="Subtract" Reference="Effect,StaticBarrier3,VitalArray[Energy].Change" Value="1.75"/>
+        <EffectArray Operation="Multiply" Reference="Effect,StaticBarrier,Amount" Value="1.11"/>
+        <EffectArray Reference="Effect,StaticBarrier7,Amount" Value="3.1"/>
+        <EffectArray Operation="Multiply" Reference="Effect,StaticBarrier7,Amount" Value="1.11"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="EnergyBlasts">
+        <EffectArray Reference="Effect,EnergyBlasts,Amount" Value="2.2"/>
+        <EffectArray Reference="Behavior,EnergyBlasts,DamageResponse.Cost.Vital[Energy]" Value="1.35"/>
+        <EffectArray Reference="Behavior,EnergyBlasts,DamageResponse.Priority" Value="1"/>
+        <EffectArray Operation="Multiply" Reference="Effect,EnergyBlasts,Amount" Value="1.1"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="CrushingOrb">
+        <EffectArray Reference="Abil,CrushingOrb,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,CrushingOrb,Cost[0].Vital[Energy]" Value="9"/>
+        <EffectArray Reference="Effect,CrushingOrb2,Amount" Value="11"/>
+        <EffectArray Reference="Abil,CrushingOrb,Cost[0].Cooldown.TimeUse" Value="0.100000"/>
+        <EffectArray Operation="Multiply" Reference="Effect,CrushingOrb2,Amount" Value="1.1"/>
+        <EffectArray Reference="Behavior,CrushingOrb,Duration" Value="0.050000"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="VampiricMastery2">
+        <EffectArray Reference="Behavior,VampiricMastery,DamageResponse.ModifyFraction" Value="0.5"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="VoidOrb">
+        <EffectArray Reference="Abil,VoidOrb,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,VoidOrb,Cost[0].Vital[Energy]" Value="13"/>
+        <EffectArray Reference="Effect,VoidOrb3,Amount" Value="2"/>
+        <EffectArray Operation="Multiply" Reference="Effect,VoidOrb3,Amount" Value="1.095"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="TimeWarp">
+        <EffectArray Operation="Subtract" Reference="Effect,TimeWarp,VitalArray[Energy].Change" Value="1.5"/>
+        <EffectArray Reference="Behavior,TimeWarp,DamageResponse.Priority" Value="1"/>
+        <EffectArray Reference="Behavior,TimeWarp,Modification.TimeScale" Value="0.01"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="DoomRoots">
+        <EffectArray Reference="Abil,DoomRoots,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,DoomRoots,Cost[0].Vital[Energy]" Value="11"/>
+        <EffectArray Reference="Effect,DoomRoots2,Amount" Value="3.5"/>
+        <EffectArray Operation="Multiply" Reference="Effect,DoomRoots2,Amount" Value="1.125"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Flamestrike">
+        <EffectArray Reference="Effect,Flamestrike4,Amount" Value="11"/>
+        <EffectArray Reference="Abil,Flamestrike,Cost[0].Vital[Energy]" Value="12"/>
+        <EffectArray Reference="Abil,Flamestrike,SmartPriority" Value="1"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Flamestrike4,Amount" Value="1.09"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Flamestrike,Amount" Value="1.09"/>
+        <EffectArray Reference="Effect,Flamestrike,Amount" Value="2"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ShadowOrb">
+        <EffectArray Reference="Abil,ShadowOrb,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,ShadowOrb,Cost[0].Vital[Energy]" Value="13"/>
+        <EffectArray Reference="Effect,ShadowOrb2,Amount" Value="2"/>
+        <EffectArray Operation="Multiply" Reference="Effect,ShadowOrb2,Amount" Value="1.09"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ShadowBlast">
+        <EffectArray Reference="Abil,ShadowBlast,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,ShadowBlast,Cost[0].Vital[Energy]" Value="7"/>
+        <EffectArray Reference="Effect,ShadowBlast,Amount" Value="11"/>
+        <EffectArray Reference="Abil,ShadowBlast,Cost[0].Cooldown.TimeUse" Value="0.050000"/>
+        <EffectArray Operation="Multiply" Reference="Effect,ShadowBlast,Amount" Value="1.1"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="StormStrike">
+        <EffectArray Reference="Abil,StormStrike,Cost[0].Vital[Energy]" Value="23"/>
+        <EffectArray Reference="Effect,StormStrike,Amount" Value="15"/>
+        <EffectArray Reference="Abil,StormStrike,SmartPriority" Value="1"/>
+        <EffectArray Operation="Multiply" Reference="Effect,StormStrike,Amount" Value="1.13"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="FireWall">
+        <EffectArray Reference="Effect,FireWall,Amount" Value="1.6"/>
+        <EffectArray Reference="Abil,FireWall2,Cost[0].Vital[Energy]" Value="14"/>
+        <EffectArray Reference="Abil,FireWall2,SmartPriority" Value="1"/>
+        <EffectArray Operation="Multiply" Reference="Effect,FireWall,Amount" Value="1.095"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="PutridBreath">
+        <EffectArray Reference="Abil,PutridBreath,Cost[0].Vital[Energy]" Value="15"/>
+        <EffectArray Reference="Effect,PutridBreath4,Amount" Value="2"/>
+        <EffectArray Reference="Abil,PutridBreath,SmartPriority" Value="1"/>
+        <EffectArray Reference="Behavior,PutridBreath,DamageResponse.ModifyFraction" Value="0.001"/>
+        <EffectArray Operation="Multiply" Reference="Effect,PutridBreath4,Amount" Value="1.1"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="BearTrap2">
+        <EffectArray Reference="Behavior,BearTrap,Duration" Value="1.000000"/>
+        <EffectArray Operation="Multiply" Reference="Effect,BearTrap2,Amount" Value="1.1"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Kick2,Amount" Value="1.2"/>
+        <EffectArray Reference="Behavior,Kick,Duration" Value="1.000000"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Invigorate">
+        <EffectArray Reference="Abil,Invigorate,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,Invigorate,Cost[0].Vital[Energy]" Value="14"/>
+        <EffectArray Reference="Effect,Invigorate4,RechargeVitalRate" Value="4.500000"/>
+        <EffectArray Reference="Behavior,Invigorate2,Modification.VitalRegenMultiplier[Energy]" Value="0.01"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Invigorate4,RechargeVitalRate" Value="1.101500"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="TimeTrance">
+        <EffectArray Reference="Abil,TimeTrance,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,TimeTrance,Cost[0].Vital[Energy]" Value="15"/>
+        <EffectArray Reference="Behavior,TimeTrance,Modification.TimeScale" Value="0.01"/>
+        <EffectArray Reference="Abil,TimeTrance,Cost[0].Cooldown.TimeUse" Value="0.250000"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="LifeBloom">
+        <EffectArray Reference="Abil,LifeBloom,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,LifeBloom,Cost[0].Vital[Energy]" Value="10"/>
+        <EffectArray Reference="Effect,LifeBloom,RechargeVitalRate" Value="1.851500"/>
+        <EffectArray Operation="Multiply" Reference="Effect,LifeBloom,RechargeVitalRate" Value="1.070300"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="FlyOver">
+        <EffectArray Reference="Effect,FlyOver2,Amount" Value="3"/>
+        <EffectArray Reference="Abil,FlyOver,Cost[0].Vital[Energy]" Value="10"/>
+        <EffectArray Reference="Abil,FlyOver,SmartPriority" Value="1"/>
+        <EffectArray Reference="Behavior,FlyOver2,DamageResponse.Chance" Value="0.005"/>
+        <EffectArray Reference="Behavior,FlyOver3,DamageResponse.Chance" Value="0.005"/>
+        <EffectArray Reference="Behavior,FlyOver3,DamageResponse.ModifyFraction" Value="0.005"/>
+        <EffectArray Operation="Multiply" Reference="Effect,FlyOver2,Amount" Value="1.11"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="HamstringTrap">
+        <EffectArray Reference="Abil,HamstringTrap,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,HamstringTrap,Cost[0].Vital[Energy]" Value="7"/>
+        <EffectArray Reference="Effect,HamstringTrap4,PeriodCount" Value="1"/>
+        <EffectArray Reference="Effect,HamstringTrap,Amount" Value="1.4"/>
+        <EffectArray Reference="Behavior,HamstringTrap,Duration" Value="0.100000"/>
+        <EffectArray Operation="Multiply" Reference="Effect,HamstringTrap,Amount" Value="1.125"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="BlindingBolts">
+        <EffectArray Reference="Effect,BlindingBolts2,Amount" Value="3.4"/>
+        <EffectArray Reference="Behavior,BlindingBolts,DamageResponse.Cost.Vital[Energy]" Value="1.3"/>
+        <EffectArray Reference="Behavior,BlindingBolts,DamageResponse.Priority" Value="1"/>
+        <EffectArray Operation="Multiply" Reference="Effect,BlindingBolts2,Amount" Value="1.1"/>
+        <EffectArray Reference="Behavior,BlindingBolts2,DamageResponse.Chance" Value="0.003"/>
+        <EffectArray Reference="Effect,BlindingBolts,Chance" Value="0.005"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="BattleHeal">
+        <EffectArray Reference="Abil,BattleHeal,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,BattleHeal,Cost[0].Vital[Energy]" Value="11"/>
+        <EffectArray Reference="Effect,BattleHeal2,RechargeVitalRate" Value="7.000000"/>
+        <EffectArray Operation="Multiply" Reference="Effect,BattleHeal2,RechargeVitalRate" Value="1.101500"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,BattleHeal,Modification.DamageTakenFraction[Melee]" Value="0.01"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,BattleHeal,Modification.DamageTakenFraction[Spell]" Value="0.01"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="DrillPeck">
+        <EffectArray Reference="Abil,DrillPeck,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,DrillPeck,Cost[0].Vital[Energy]" Value="5"/>
+        <EffectArray Reference="Effect,DrillPeck,Amount" Value="7"/>
+        <EffectArray Reference="Effect,DrillPeck,AttributeFactor[Biological]" Value="0.08"/>
+        <EffectArray Reference="Effect,DrillPeck,AttributeFactor[Heroic]" Value="0.08"/>
+        <EffectArray Reference="Effect,DrillPeck,AttributeFactor[Light]" Value="0.08"/>
+        <EffectArray Reference="Effect,DrillPeck,AttributeFactor[Structure]" Value="0.08"/>
+        <EffectArray Reference="Effect,DrillPeck,AttributeFactor[Summoned]" Value="0.08"/>
+        <EffectArray Operation="Multiply" Reference="Effect,DrillPeck,Amount" Value="1.07"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="TerrifyingRoar">
+        <EffectArray Reference="Abil,TerrifyingRoar,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,TerrifyingRoar,Cost[0].Vital[Energy]" Value="9"/>
+        <EffectArray Reference="Behavior,TerrifyingRoar,Duration" Value="0.110000"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="StormBolt">
+        <EffectArray Reference="Abil,StormBolt,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,StormBolt,Cost[0].Vital[Energy]" Value="8"/>
+        <EffectArray Reference="Effect,StormBolt2,Amount" Value="11"/>
+        <EffectArray Reference="Behavior,StormBolt,Duration" Value="0.075000"/>
+        <EffectArray Operation="Multiply" Reference="Effect,StormBolt2,Amount" Value="1.12"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="QuicknessAura">
+        <EffectArray Operation="Subtract" Reference="Effect,QuicknessAura2,VitalArray[Energy].Change" Value="1.25"/>
+        <EffectArray Reference="Behavior,QuicknessAura,DamageResponse.Priority" Value="1"/>
+        <EffectArray Reference="Behavior,QuicknessAura2,Modification.MoveSpeedMultiplier" Value="0.01"/>
+        <EffectArray Reference="Behavior,QuicknessAura2,DamageResponse.Chance" Value="0.005"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="FaerieFire">
+        <EffectArray Reference="Abil,FaerieFire,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,FaerieFire,Cost[0].Vital[Energy]" Value="10"/>
+        <EffectArray Reference="Behavior,FaerieFire,Duration" Value="0.150000"/>
+        <EffectArray Reference="Behavior,FaerieFire,DamageResponse.ModifyFraction" Value="0.025"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="RainofArrows">
+        <EffectArray Reference="Abil,RainofArrows,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,RainofArrows,Cost[0].Vital[Energy]" Value="12"/>
+        <EffectArray Reference="Effect,RainofArrows,AttributeFactor[Biological]" Value="0.01"/>
+        <EffectArray Reference="Effect,RainofArrows,AttributeFactor[Heroic]" Value="0.01"/>
+        <EffectArray Reference="Effect,RainofArrows,AttributeFactor[Light]" Value="0.01"/>
+        <EffectArray Reference="Effect,RainofArrows,AttributeFactor[Structure]" Value="0.01"/>
+        <EffectArray Reference="Effect,RainofArrows,AttributeFactor[Summoned]" Value="0.01"/>
+        <EffectArray Reference="Effect,RainofArrows,Amount" Value="12"/>
+        <EffectArray Operation="Multiply" Reference="Effect,RainofArrows,Amount" Value="1.025"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="SunlightArrows">
+        <EffectArray Reference="Effect,SunlightArrows,Amount" Value="1.9"/>
+        <EffectArray Reference="Behavior,SunlightArrows,DamageResponse.Cost.Vital[Energy]" Value="1.25"/>
+        <EffectArray Reference="Behavior,SunlightArrows,DamageResponse.Priority" Value="1"/>
+        <EffectArray Operation="Multiply" Reference="Effect,SunlightArrows,Amount" Value="1.1"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="GreatArrow">
+        <EffectArray Reference="Abil,GreatArrow,Cost[0].Vital[Energy]" Value="9"/>
+        <EffectArray Reference="Effect,GreatArrow2,Amount" Value="5"/>
+        <EffectArray Reference="Abil,GreatArrow,SmartPriority" Value="1"/>
+        <EffectArray Operation="Multiply" Reference="Effect,GreatArrow2,Amount" Value="1.13"/>
+        <EffectArray Reference="Effect,GreatArrow2,AttributeFactor[Biological]" Value="0.07"/>
+        <EffectArray Reference="Effect,GreatArrow2,AttributeFactor[Heroic]" Value="0.07"/>
+        <EffectArray Reference="Effect,GreatArrow2,AttributeFactor[Light]" Value="0.07"/>
+        <EffectArray Reference="Effect,GreatArrow2,AttributeFactor[Structure]" Value="0.07"/>
+        <EffectArray Reference="Effect,GreatArrow2,AttributeFactor[Summoned]" Value="0.07"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="LeapofFaith">
+        <EffectArray Reference="Abil,LeapofFaith,Cost[0].Vital[Energy]" Value="14"/>
+        <EffectArray Reference="Effect,LeapofFaith2,Amount" Value="11"/>
+        <EffectArray Reference="Abil,LeapofFaith,SmartPriority" Value="1"/>
+        <EffectArray Operation="Multiply" Reference="Effect,LeapofFaith2,Amount" Value="1.11"/>
+        <EffectArray Reference="Effect,LeapofFaith8,RechargeVitalRate" Value="27.000000"/>
+        <EffectArray Operation="Multiply" Reference="Effect,LeapofFaith8,RechargeVitalRate" Value="1.019500"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="SharedSteelAura">
+        <EffectArray Operation="Subtract" Reference="Effect,SharedSteelAura2,VitalArray[Energy].Change" Value="1.25"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,SharedSteelAura2,DamageResponse.ModifyFraction" Value="0.005"/>
+        <EffectArray Reference="Behavior,SharedSteelAura,DamageResponse.Priority" Value="1"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ChargeThrough">
+        <EffectArray Reference="Effect,ChargeThrough7,Amount" Value="7"/>
+        <EffectArray Reference="Abil,ChargeThrough2,Cost[0].Vital[Energy]" Value="12"/>
+        <EffectArray Reference="Abil,ChargeThrough2,SmartPriority" Value="1"/>
+        <EffectArray Operation="Multiply" Reference="Effect,ChargeThrough7,Amount" Value="1.1"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Coagulate">
+        <EffectArray Reference="Behavior,Coagulate,Modification.VitalRegenMultiplier[Life]" Value="0.05"/>
+        <EffectArray Reference="Behavior,Coagulate,DamageResponse.Priority" Value="1"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,Coagulate,DamageResponse.ModifyFraction" Value="0.005"/>
+        <EffectArray Operation="Subtract" Reference="Effect,Coagulate,VitalArray[Energy].Change" Value="0.5"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Focus">
+        <EffectArray Reference="Abil,Focus,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,Focus,Cost[0].Vital[Energy]" Value="8"/>
+        <EffectArray Reference="Behavior,Focus3,Modification.AttackSpeedMultiplier" Value="0.005"/>
+        <EffectArray Reference="Behavior,Focus3,Modification.RateMultiplierArray[Cooldown]" Value="0.005"/>
+        <EffectArray Reference="Behavior,Focus3,DamageResponse.ModifyFraction" Value="0.0075"/>
+        <EffectArray Reference="Behavior,Focus3,Duration" Value="0.110000"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="HardenedSkin">
+        <EffectArray Reference="Abil,HardenedSkin,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,HardenedSkin,Cost[0].Vital[Energy]" Value="10"/>
+        <EffectArray Reference="Behavior,HardenedSkin,DamageResponse.Chance" Value="0.005"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,HardenedSkin,Modification.DamageTakenFraction[Melee]" Value="0.01"/>
+        <EffectArray Reference="Effect,HardenedSkin2,Amount" Value="7"/>
+        <EffectArray Operation="Multiply" Reference="Effect,HardenedSkin2,Amount" Value="1.06"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Leap2">
+        <EffectArray Reference="Abil,Leap4,Cost[0].Vital[Energy]" Value="8"/>
+        <EffectArray Reference="Effect,Leap12,Amount" Value="15"/>
+        <EffectArray Reference="Abil,Leap4,SmartPriority" Value="1"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Leap12,Amount" Value="1.12"/>
+        <EffectArray Reference="Effect,Leap12,AttributeFactor[Biological]" Value="0.06"/>
+        <EffectArray Reference="Effect,Leap12,AttributeFactor[Heroic]" Value="0.06"/>
+        <EffectArray Reference="Effect,Leap12,AttributeFactor[Hover]" Value="0.06"/>
+        <EffectArray Reference="Effect,Leap12,AttributeFactor[Structure]" Value="0.06"/>
+        <EffectArray Reference="Effect,Leap12,AttributeFactor[Summoned]" Value="0.06"/>
+        <EffectArray Reference="Effect,Leap12,AttributeFactor[Light]" Value="0.06"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="BloodFeast">
+        <EffectArray Reference="Abil,BloodFeast,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,BloodFeast,Cost[0].Vital[Energy]" Value="13"/>
+        <EffectArray Reference="Behavior,BloodFeast,Duration" Value="0.150000"/>
+        <EffectArray Reference="Behavior,BloodFeast,Modification.DamageTotalMultiplier[Melee]" Value="0.005"/>
+        <EffectArray Reference="Abil,BloodFeast,Cost[0].Cooldown.TimeUse" Value="0.100000"/>
+        <EffectArray Reference="Behavior,BloodFeast,Modification.VitalRegenArray[Life]" Value="4.500000"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,BloodFeast,Modification.VitalRegenArray[Life]" Value="1.011700"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="EchoingRoar">
+        <EffectArray Reference="Abil,EchoingRoar,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,EchoingRoar,Cost[0].Vital[Energy]" Value="11"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,EchoingRoar,Modification.BehaviorCategoryDurationFactor[Stun]" Value="0.01"/>
+        <EffectArray Reference="Abil,EchoingRoar,Cost[0].Cooldown.TimeUse" Value="0.050000"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,EchoingRoar2,Modification.DamageTotalMultiplier[Melee]" Value="0.01"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,EchoingRoar2,Modification.DamageTotalMultiplier[Spell]" Value="0.01"/>
+        <EffectArray Reference="Behavior,EchoingRoar,Duration" Value="0.100000"/>
+        <EffectArray Reference="Behavior,EchoingRoar2,Duration" Value="0.100000"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Headbutt">
+        <EffectArray Reference="Abil,Headbutt2,Cost[0].Vital[Energy]" Value="11"/>
+        <EffectArray Reference="Effect,Headbutt10,Amount" Value="13"/>
+        <EffectArray Reference="Abil,Headbutt2,SmartPriority" Value="1"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Headbutt10,Amount" Value="1.12"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Smash">
+        <EffectArray Reference="Abil,Smash,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,Smash,Cost[0].Vital[Energy]" Value="11"/>
+        <EffectArray Reference="Effect,Smash2,Amount" Value="10"/>
+        <EffectArray Reference="Behavior,Smash,Duration" Value="0.050000"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Smash2,Amount" Value="1.1"/>
+        <MaxLevel value="30"/>
+    </CUpgrade>
+    <CUpgrade id="ShadowForm">
+        <EffectArray Operation="Subtract" Reference="Effect,ShadowForm,VitalArray[Energy].Change" Value="1.25"/>
+        <EffectArray Reference="Behavior,ShadowForm2,DamageResponse.ModifyFraction" Value="0.055"/>
+        <EffectArray Reference="Behavior,ShadowForm,DamageResponse.Priority" Value="1"/>
+        <EffectArray Reference="Behavior,ShadowForm,DamageResponse.Chance" Value="0.006"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="DuskWalk">
+        <EffectArray Reference="Abil,DuskWalk,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,DuskWalk,Cost[0].Vital[Energy]" Value="9"/>
+        <EffectArray Reference="Behavior,DuskWalk,Duration" Value="0.110000"/>
+        <EffectArray Reference="Behavior,DuskWalk,Modification.AttackSpeedMultiplier" Value="0.005"/>
+        <EffectArray Reference="Behavior,DuskWalk,Modification.MoveSpeedMultiplier" Value="0.01"/>
+        <EffectArray Reference="Behavior,DuskWalk,DamageResponse.Chance" Value="0.006"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="HearthStone2">
+        <EffectArray Operation="Multiply" Reference="Abil,Hearthstone,Cost[0].Cooldown.TimeUse" Value="0.700000"/>
+        <EffectArray Operation="Set" Reference="Button,Hearthstone,Icon" Value="Assets\Textures\war3_btnwellspring.dds"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="HoverPad">
+        <EffectArray Operation="Set" Reference="Abil,HoverPad,BehaviorArray[0]" Value="HoverPad2"/>
+        <EffectArray Operation="Set" Reference="Button,HoverPadOff,Icon" Value="Assets\Textures\war3_btnwindwalkoff.dds"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="HoverPad2">
+        <EffectArray Operation="Set" Reference="Abil,HoverPad,BehaviorArray[0]" Value="HoverPad3"/>
+        <EffectArray Operation="Set" Reference="Button,HoverPadOff,Icon" Value="Assets\Textures\war3_btnportal.dds"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="HearthStone">
+        <EffectArray Operation="Multiply" Reference="Abil,Hearthstone,Cost[0].Cooldown.TimeUse" Value="0.700000"/>
+        <EffectArray Operation="Set" Reference="Button,Hearthstone,Icon" Value="Assets\Textures\war3_btnstone.dds"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Slash">
+        <EffectArray Reference="Abil,Slash,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,Slash,Cost[0].Vital[Energy]" Value="7"/>
+        <EffectArray Reference="Effect,Slash2,Amount" Value="12"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Slash2,Amount" Value="1.16"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="EmpoweringTaunt">
+        <EffectArray Reference="Abil,EmpoweringTaunt,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,EmpoweringTaunt,Cost[0].Vital[Energy]" Value="10"/>
+        <EffectArray Reference="Behavior,EmpoweringTaunt,Duration" Value="0.200000"/>
+        <EffectArray Reference="Behavior,EmpoweringTaunt2,Duration" Value="0.220000"/>
+        <EffectArray Reference="Behavior,EmpoweringTaunt,Modification.DamageTotalMultiplier[Melee]" Value="0.0034"/>
+        <EffectArray Reference="Behavior,EmpoweringTaunt,Modification.DamageTotalMultiplier[Spell]" Value="0.0034"/>
+        <EffectArray Reference="Abil,EmpoweringTaunt,Cost[0].Cooldown.TimeUse" Value="0.050000"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="DarkArrows">
+        <EffectArray Reference="Effect,DarkArrows,Amount" Value="2.6"/>
+        <EffectArray Reference="Behavior,DarkArrows,DamageResponse.Cost.Vital[Energy]" Value="1.25"/>
+        <EffectArray Reference="Behavior,DarkArrows,DamageResponse.Priority" Value="1"/>
+        <EffectArray Operation="Multiply" Reference="Effect,DarkArrows,Amount" Value="1.1"/>
+        <EffectArray Reference="Behavior,DarkArrows2,Modification.DamageTakenFraction[Melee]" Value="0.005"/>
+        <EffectArray Reference="Behavior,DarkArrows2,Modification.DamageTakenFraction[Spell]" Value="0.005"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Thrash">
+        <EffectArray Reference="Abil,Thrash,SmartPriority" Value="1"/>
+        <EffectArray Operation="Subtract" Reference="Effect,Thrash3,PeriodicPeriodArray[0]" Value="0.006000"/>
+        <EffectArray Reference="Abil,Thrash,Cost[0].Cooldown.TimeUse" Value="0.100000"/>
+        <EffectArray Reference="Abil,Thrash,Cost[0].Vital[Energy]" Value="11"/>
+        <EffectArray Reference="Effect,Thrash,Amount" Value="7"/>
+        <EffectArray Reference="Effect,Thrash,AttributeFactor[Biological]" Value="0.025"/>
+        <EffectArray Reference="Effect,Thrash,AttributeFactor[Heroic]" Value="0.025"/>
+        <EffectArray Reference="Effect,Thrash,AttributeFactor[Hover]" Value="0.025"/>
+        <EffectArray Reference="Effect,Thrash,AttributeFactor[Structure]" Value="0.025"/>
+        <EffectArray Reference="Effect,Thrash,AttributeFactor[Summoned]" Value="0.025"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Thrash,Amount" Value="1.03"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="HurlBlade">
+        <EffectArray Reference="Abil,HurlBlade,Cost[0].Vital[Energy]" Value="7"/>
+        <EffectArray Reference="Effect,HurlBlade3,Amount" Value="5"/>
+        <EffectArray Reference="Abil,HurlBlade,SmartPriority" Value="1"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,HurlBlade,Duration" Value="0.020000"/>
+        <EffectArray Operation="Multiply" Reference="Effect,HurlBlade3,Amount" Value="1.09"/>
+        <EffectArray Operation="Subtract" Reference="Abil,HurlBlade,Cost[0].Cooldown.TimeUse" Value="0.050000"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="VoidOrb2">
+        <EffectArray Reference="Behavior,VoidOrb,DamageResponse.ModifyFraction" Value="0.01"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="VoidOrb3">
+        <EffectArray Operation="Multiply" Reference="Abil,VoidOrb,Cost[0].Vital[Energy]" Value="0.6"/>
+        <EffectArray Reference="Abil,VoidOrb,Cost[0].Cooldown.TimeUse" Value="2.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Whirl">
+        <EffectArray Reference="Abil,Whirl,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,Whirl,Cost[0].Vital[Energy]" Value="10"/>
+        <EffectArray Reference="Effect,Whirl2,Amount" Value="12"/>
+        <EffectArray Reference="Behavior,Whirl,Duration" Value="0.075000"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Whirl2,Amount" Value="1.11"/>
+        <EffectArray Reference="Abil,Whirl,Cost[0].Cooldown.TimeUse" Value="0.050000"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Shiv">
+        <EffectArray Reference="Abil,Shiv,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,Shiv,Cost[0].Vital[Energy]" Value="7"/>
+        <EffectArray Reference="Effect,Shiv,Amount" Value="11"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Shiv,Amount" Value="1.105"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Wait">
+        <EffectArray Reference="Abil,Wait,Cost[0].Cooldown.TimeUse" Value="3.000000"/>
+        <MaxLevel value="60"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="GravityBomb">
+        <EffectArray Reference="Abil,GravityBomb,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,GravityBomb,Cost[0].Vital[Energy]" Value="13"/>
+        <EffectArray Reference="Effect,GravityBomb3,Amount" Value="11"/>
+        <EffectArray Operation="Multiply" Reference="Effect,GravityBomb3,Amount" Value="1.105"/>
+        <EffectArray Reference="Abil,GravityBomb,Cost[0].Cooldown.TimeUse" Value="0.100000"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Conflagration">
+        <EffectArray Reference="Abil,Conflagration,Cost[0].Vital[Energy]" Value="12"/>
+        <EffectArray Reference="Effect,Conflagration2,Amount" Value="1.5"/>
+        <EffectArray Reference="Abil,Conflagration,SmartPriority" Value="1"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Conflagration2,Amount" Value="1.115"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ConcentrationAura">
+        <EffectArray Operation="Subtract" Reference="Effect,ConcentrationAura3,VitalArray[Energy].Change" Value="1.5"/>
+        <EffectArray Reference="Behavior,ConcentrationAura,DamageResponse.Priority" Value="1"/>
+        <EffectArray Reference="Behavior,ConcentrationAura2,Modification.RateMultiplierArray[Cooldown]" Value="0.004"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="MagicEnhancedAttacks">
+        <EffectArray Reference="Effect,MagicEnhancedAttacks,Amount" Value="2.8"/>
+        <EffectArray Reference="Behavior,MagicEnhancedAttacks,DamageResponse.Cost.Vital[Energy]" Value="1"/>
+        <EffectArray Reference="Behavior,MagicEnhancedAttacks,DamageResponse.Priority" Value="1"/>
+        <EffectArray Operation="Multiply" Reference="Effect,MagicEnhancedAttacks,Amount" Value="1.09"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="MeteorStorm">
+        <EffectArray Reference="Abil,MeteorStorm2,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,MeteorStorm2,Cost[0].Vital[Energy]" Value="16"/>
+        <EffectArray Reference="Effect,MeteorStorm5,Amount" Value="2.5"/>
+        <EffectArray Operation="Multiply" Reference="Effect,MeteorStorm5,Amount" Value="1.11"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="HolyFire">
+        <EffectArray Reference="Abil,HolyFire,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,HolyFire,Cost[0].Vital[Energy]" Value="12"/>
+        <EffectArray Reference="Effect,HolyFire,Amount" Value="1.2"/>
+        <EffectArray Operation="Multiply" Reference="Effect,HolyFire,Amount" Value="1.12"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="HolyLight">
+        <EffectArray Reference="Abil,HolyLight,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,HolyLight,Cost[0].Vital[Energy]" Value="18"/>
+        <EffectArray Reference="Effect,HolyLight,RechargeVitalRate" Value="22.000000"/>
+        <EffectArray Operation="Multiply" Reference="Effect,HolyLight,RechargeVitalRate" Value="1.086000"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="DivineShield">
+        <EffectArray Reference="Abil,DivineShield,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,DivineShield,Cost[0].Vital[Energy]" Value="17"/>
+        <EffectArray Reference="Behavior,InnerFire,Duration" Value="0.110000"/>
+        <EffectArray Reference="Abil,DivineShield,Cost[0].Cooldown.TimeUse" Value="0.100000"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="SlowTime">
+        <EffectArray Reference="Abil,SlowTime2,Cost[0].Vital[Energy]" Value="12"/>
+        <EffectArray Reference="Abil,SlowTime2,SmartPriority" Value="1"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,SlowTime2,Modification.TimeScale" Value="0.0075"/>
+        <EffectArray Reference="Abil,SlowTime2,Cost[0].Cooldown.TimeUse" Value="0.100000"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Mend2">
+        <EffectArray Reference="Abil,Mend,Cost[0].Vital[Energy]" Value="14"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,Mend,Duration" Value="3.000000"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Mend2,RechargeVitalRate" Value="1.300700"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Rejuvenate2">
+        <EffectArray Operation="Multiply" Reference="Abil,Rejuvenate,Cost[0].Vital[Energy]" Value="1.4"/>
+        <EffectArray Reference="Behavior,Rejuvenate,Duration" Value="2.000000"/>
+        <EffectArray Reference="Behavior,EnergyStrikes,Modification.DamageTotalMultiplier[Melee]" Value="0.05"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Sprites">
+        <EffectArray Reference="Abil,Sprites2,SmartPriority" Value="1"/>
+        <EffectArray Reference="Effect,Sprites7,Amount" Value="1.9"/>
+        <EffectArray Reference="Abil,Sprites2,Cost[0].Vital[Energy]" Value="22"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Sprites7,Amount" Value="1.2"/>
+        <EffectArray Operation="Subtract" Reference="Weapon,cvalff808080AttackDamagec,Period" Value="0.025000"/>
+        <EffectArray Reference="Abil,Sprites2,Cost[0].Cooldown.TimeUse" Value="0.200000"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ForcePush">
+        <EffectArray Reference="Abil,ForcePush,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,ForcePush,Cost[0].Vital[Energy]" Value="8"/>
+        <EffectArray Reference="Effect,ForcePush,Amount" Value="8"/>
+        <EffectArray Reference="Behavior,ForcePush,Duration" Value="0.050000"/>
+        <EffectArray Operation="Multiply" Reference="Effect,ForcePush,Amount" Value="1.1"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Jynx">
+        <EffectArray Reference="Abil,Jynx,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,Jynx,Cost[0].Vital[Energy]" Value="14"/>
+        <EffectArray Reference="Behavior,Jynx,Duration" Value="0.200000"/>
+        <EffectArray Reference="Behavior,Jynx,DamageResponse.Chance" Value="0.005"/>
+        <EffectArray Reference="Effect,Jynx,AttributeFactor[Biological]" Value="0.06"/>
+        <EffectArray Reference="Effect,Jynx,AttributeFactor[Heroic]" Value="0.06"/>
+        <EffectArray Reference="Effect,Jynx,AttributeFactor[Light]" Value="0.06"/>
+        <EffectArray Reference="Effect,Jynx,AttributeFactor[Structure]" Value="0.06"/>
+        <EffectArray Reference="Effect,Jynx,AttributeFactor[Summoned]" Value="0.06"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Leap">
+        <EffectArray Reference="Abil,Leap3,Cost[0].Vital[Energy]" Value="7"/>
+        <EffectArray Reference="Effect,Leap7,Amount" Value="9"/>
+        <EffectArray Reference="Abil,Leap3,SmartPriority" Value="1"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Leap7,Amount" Value="1.15"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="CompanionAura">
+        <EffectArray Reference="Behavior,CompanionAura2,DamageResponse.Priority" Value="1"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,CompanionAura2,Modification.DamageTotalMultiplier[Melee]" Value="0.006"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,CompanionAura2,Modification.DamageTotalMultiplier[Spell]" Value="0.006"/>
+        <EffectArray Operation="Subtract" Reference="Effect,CompanionAura3,VitalArray[Energy].Change" Value="1"/>
+        <EffectArray Reference="Behavior,CompanionAura,Modification.DamageTotalMultiplier[Spell]" Value="0.006"/>
+        <EffectArray Reference="Behavior,CompanionAura,Modification.DamageTotalMultiplier[Melee]" Value="0.006"/>
+        <EffectArray Reference="Behavior,CompanionAura3,Modification.DamageTotalMultiplier[Melee]" Value="0.018"/>
+        <EffectArray Reference="Behavior,CompanionAura3,Modification.DamageTotalMultiplier[Spell]" Value="0.018"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="CritEnergy">
+        <EffectArray Reference="Effect,CriticalEnergyStrikes,VitalArray[Energy].Change" Value="3"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="BloodDrinkerAura">
+        <EffectArray Operation="Subtract" Reference="Effect,BloodDrinkerAura4,VitalArray[Energy].Change" Value="1"/>
+        <EffectArray Reference="Behavior,BloodDrinkerAura2,Modification.VitalDamageLeechArray[Life].KindArray[Melee]" Value="0.004"/>
+        <EffectArray Reference="Behavior,BloodDrinkerAura,DamageResponse.Priority" Value="1"/>
+        <EffectArray Reference="Behavior,BloodDrinkerAura2,Modification.VitalDamageLeechArray[Life].KindArray[Spell]" Value="0.004"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="FireArrow3">
+        <EffectArray Operation="Multiply" Reference="Effect,FireArrow,Amount" Value="1.15"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Headshot">
+        <EffectArray Reference="Abil,Headshot,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,Headshot,Cost[0].Vital[Energy]" Value="11"/>
+        <EffectArray Reference="Effect,Headshot,Amount" Value="9"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Headshot,Amount" Value="1.18"/>
+        <EffectArray Reference="Effect,Headshot,AttributeFactor[Heroic]" Value="0.13"/>
+        <EffectArray Reference="Effect,Headshot,AttributeFactor[Hover]" Value="0.13"/>
+        <EffectArray Reference="Effect,Headshot,AttributeFactor[Structure]" Value="0.13"/>
+        <EffectArray Reference="Effect,Headshot,AttributeFactor[Summoned]" Value="0.13"/>
+        <EffectArray Reference="Effect,Headshot,AttributeFactor[Biological]" Value="0.13"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Gust">
+        <EffectArray Reference="Abil,Gust2,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,Gust2,Cost[0].Vital[Energy]" Value="10"/>
+        <EffectArray Reference="Effect,Gust6,Amount" Value="11"/>
+        <EffectArray Reference="Behavior,Gust2,Duration" Value="0.060000"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Gust6,Amount" Value="1.11"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Mark3">
+        <EffectArray Reference="Abil,Mark,Cost[0].Vital[Energy]" Value="15"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,Mark,Duration" Value="2.000000"/>
+        <EffectArray Reference="Behavior,Mark,DamageResponse.ModifyFraction" Value="0.15"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="RallyCry2">
+        <EffectArray Operation="Multiply" Reference="Abil,RallyCry,Cost[0].Vital[Energy]" Value="1.3"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,RallyCry,Modification.VitalRegenArray[Life]" Value="1.500000"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,RallyCry,Modification.VitalRegenArray[Energy]" Value="1.500000"/>
+        <EffectArray Operation="Subtract" Reference="Effect,RallyCry,AreaArray[0].Radius" Value="2.5"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,RallyCry,Modification.DamageTotalMultiplier[Melee]" Value="1.5"/>
+        <EffectArray Reference="Abil,RallyCry,Cost[0].Cooldown.TimeUse" Value="2.000000"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,RallyCry,Modification.DamageTotalMultiplier[Spell]" Value="1.5"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="RallyCry3">
+        <EffectArray Reference="Behavior,RallyCry,Duration" Value="1.000000"/>
+        <EffectArray Operation="Subtract" Reference="Abil,RallyCry,Cost[0].Cooldown.TimeUse" Value="1.000000"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="LayofHands">
+        <EffectArray Reference="Abil,LayofHands,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,LayofHands,Cost[0].Vital[Energy]" Value="14"/>
+        <EffectArray Reference="Effect,LayofHands3,RechargeVitalRate" Value="3.500000"/>
+        <EffectArray Operation="Multiply" Reference="Effect,LayofHands3,RechargeVitalRate" Value="1.070300"/>
+        <EffectArray Reference="Effect,LayofHands4,RechargeVitalRate" Value="8.000000"/>
+        <EffectArray Operation="Multiply" Reference="Effect,LayofHands4,RechargeVitalRate" Value="1.070300"/>
+        <EffectArray Reference="Abil,LayofHands,Cost[0].Cooldown.TimeUse" Value="0.100000"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Fly">
+        <EffectArray Reference="Abil,Fly2,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,Fly2,Cost[0].Vital[Energy]" Value="12"/>
+        <EffectArray Reference="Behavior,Fly2,Duration" Value="0.100000"/>
+        <EffectArray Reference="Behavior,Fly2,Modification.DamageDealtFraction[Melee]" Value="0.03"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,Fly2,Modification.DamageTakenFraction[Melee]" Value="0.01"/>
+        <EffectArray Reference="Behavior,Fly2,Modification.RateMultiplierArray[Cooldown]" Value="0.01"/>
+        <EffectArray Reference="Abil,Fly2,Cost[0].Cooldown.TimeUse" Value="0.200000"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ShieldSlam4">
+        <EffectArray Reference="Behavior,ShieldSlam,Duration" Value="1.400000"/>
+        <EffectArray Reference="Abil,ShieldSlam,Cost[0].Cooldown.TimeUse" Value="1.000000"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="BlindingLance">
+        <EffectArray Reference="Abil,BlindingLance,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,BlindingLance,Cost[0].Vital[Energy]" Value="12"/>
+        <EffectArray Reference="Effect,BlindingLance2,Amount" Value="11"/>
+        <EffectArray Operation="Multiply" Reference="Effect,BlindingLance2,Amount" Value="1.11"/>
+        <EffectArray Reference="Behavior,BlindingLance,DamageResponse.Chance" Value="0.01"/>
+        <EffectArray Reference="Behavior,BlindingLance,Duration" Value="0.100000"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ConcussionShell">
+        <EffectArray Reference="Abil,ConcussionShell,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,ConcussionShell,Cost[0].Vital[Energy]" Value="8"/>
+        <EffectArray Reference="Effect,ConcussionShell2,Amount" Value="16"/>
+        <EffectArray Reference="Behavior,ConcussionShell,Duration" Value="0.040000"/>
+        <EffectArray Operation="Multiply" Reference="Effect,ConcussionShell2,Amount" Value="1.105"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ShoulderRam">
+        <EffectArray Reference="Abil,ShoulderRam,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,ShoulderRam,Cost[0].Vital[Energy]" Value="7"/>
+        <EffectArray Reference="Effect,ShoulderRam2,Amount" Value="9"/>
+        <EffectArray Operation="Multiply" Reference="Effect,ShoulderRam2,Amount" Value="1.1"/>
+        <EffectArray Reference="Behavior,ShoulderRam,Duration" Value="0.060000"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ThrowSword">
+        <EffectArray Reference="Abil,ThrowSword,Cost[0].Vital[Energy]" Value="7"/>
+        <EffectArray Reference="Effect,ThrowSword2,Amount" Value="9"/>
+        <EffectArray Reference="Abil,ThrowSword,SmartPriority" Value="1"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,ThrowSword2,Duration" Value="0.020000"/>
+        <EffectArray Reference="Effect,ThrowSword2,AttributeFactor[Biological]" Value="0.13"/>
+        <EffectArray Reference="Effect,ThrowSword2,AttributeFactor[Heroic]" Value="0.13"/>
+        <EffectArray Reference="Effect,ThrowSword2,AttributeFactor[Light]" Value="0.13"/>
+        <EffectArray Reference="Effect,ThrowSword2,AttributeFactor[Structure]" Value="0.13"/>
+        <EffectArray Reference="Effect,ThrowSword2,AttributeFactor[Summoned]" Value="0.13"/>
+        <EffectArray Operation="Multiply" Reference="Effect,ThrowSword2,Amount" Value="1.1"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="SliceAndDice">
+        <EffectArray Reference="Abil,SliceAndDice,SmartPriority" Value="1"/>
+        <EffectArray Operation="Subtract" Reference="Effect,SliceAndDice2,PeriodicPeriodArray[0]" Value="0.007000"/>
+        <EffectArray Reference="Abil,SliceAndDice,Cost[0].Cooldown.TimeUse" Value="0.100000"/>
+        <EffectArray Reference="Abil,SliceAndDice,Cost[0].Vital[Energy]" Value="14"/>
+        <EffectArray Reference="Effect,SliceAndDice,Amount" Value="7"/>
+        <EffectArray Reference="Effect,SliceAndDice,AttributeFactor[Hover]" Value="0.014"/>
+        <EffectArray Reference="Effect,SliceAndDice,AttributeFactor[Structure]" Value="0.014"/>
+        <EffectArray Reference="Effect,SliceAndDice,AttributeFactor[Heroic]" Value="0.014"/>
+        <EffectArray Reference="Effect,SliceAndDice,AttributeFactor[Summoned]" Value="0.014"/>
+        <EffectArray Reference="Effect,SliceAndDice,AttributeFactor[Biological]" Value="0.014"/>
+        <EffectArray Operation="Multiply" Reference="Effect,SliceAndDice,Amount" Value="1.07"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="FrenzyCrit">
+        <EffectArray Operation="Subtract" Reference="Abil,Frenzy2,Cost[0].Cooldown.TimeUse" Value="4.000000"/>
+        <EffectArray Reference="Effect,CriticalPoisonStrikes2,Amount" Value="15"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Hamstring">
+        <EffectArray Reference="Abil,Hamstring2,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,Hamstring2,Cost[0].Vital[Energy]" Value="7"/>
+        <EffectArray Reference="Effect,Hamstring6,Amount" Value="1.1"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Hamstring6,Amount" Value="1.11"/>
+        <MaxLevel value="30"/>
+    </CUpgrade>
+    <CUpgrade id="Smite">
+        <EffectArray Reference="Abil,Smite,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,Smite,Cost[0].Vital[Energy]" Value="11"/>
+        <EffectArray Reference="Effect,Smite3,Amount" Value="1.6"/>
+        <EffectArray Reference="Behavior,Smite,Duration" Value="0.100000"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Smite3,Amount" Value="1.14"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="InnerFire2">
+        <EffectArray Operation="Subtract" Reference="Abil,InnerFire,Cost[0].Cooldown.TimeUse" Value="2.000000"/>
+        <EffectArray Reference="Behavior,InnerFire,Modification.DamageTotalMultiplier[Melee]" Value="0.07"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="InnerFire3">
+        <EffectArray Reference="Behavior,InnerFire,Duration" Value="1.000000"/>
+        <EffectArray Reference="Behavior,InnerFire,Modification.LifeArmorBonus" Value="5"/>
+        <EffectArray Reference="Behavior,InnerFire,Modification.EnergyArmorBonus" Value="5"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="LifeDrain">
+        <EffectArray Reference="Abil,LifeDrain,Cost[0].Vital[Energy]" Value="9"/>
+        <EffectArray Reference="Effect,LifeDrain4,Amount" Value="3.6"/>
+        <EffectArray Reference="Abil,LifeDrain,SmartPriority" Value="1"/>
+        <EffectArray Operation="Multiply" Reference="Effect,LifeDrain4,Amount" Value="1.11"/>
+        <EffectArray Reference="Effect,LifeDrain4,LeechFraction[Life]" Value="0.02"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Bloodlust2">
+        <EffectArray Operation="Set" Reference="Effect,Bloodlust2,AreaArray[0].Radius" Value="3"/>
+        <EffectArray Reference="Abil,Bloodlust,Cost[0].Cooldown.TimeUse" Value="4.000000"/>
+        <EffectArray Operation="Set" Reference="Button,Bloodlust,Tooltip" Value="Button/Tooltip/Bloodlust2"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,Bloodlust2,Modification.AttackSpeedMultiplier" Value="0.12"/>
+        <EffectArray Operation="Multiply" Reference="Abil,Bloodlust,Cost[0].Vital[Energy]" Value="1.3"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Bloodlust3">
+        <EffectArray Reference="Behavior,Bloodlust2,Modification.RateMultiplierArray[Cooldown]" Value="0.2"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,Bloodlust2,Modification.AttackSpeedMultiplier" Value="0.1"/>
+        <EffectArray Operation="Set" Reference="Button,Bloodlust,Tooltip" Value="Button/Tooltip/Bloodlust3"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="CloakofFlames2">
+        <EffectArray Operation="Subtract" Reference="Behavior,CloakofFlames2,DamageResponse.Cost.Cooldown.TimeUse" Value="0.500000"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,CloakofFlames2,DamageResponse.ModifyFraction" Value="0.05"/>
+        <EffectArray Operation="Multiply" Reference="Effect,CloakofFlames6,Amount" Value="0.9"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="CloakofFlames3">
+        <EffectArray Reference="Behavior,CloakofFlames2,DamageResponse.Cost.Vital[Energy]" Value="2"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,CloakofFlames2,DamageResponse.ModifyFraction" Value="0.01"/>
+        <EffectArray Reference="Effect,CloakofFlames6,Amount" Value="4"/>
+        <EffectArray Operation="Multiply" Reference="Effect,CloakofFlames6,Amount" Value="1.13"/>
+        <EffectArray Reference="Behavior,CloakofFlames2,DamageResponse.Priority" Value="1"/>
+        <EffectArray Operation="Subtract" Reference="Effect,CloakofFlames,VitalArray[Energy].Change" Value="0.5"/>
+        <LeaderAlias value="PowerfulStrike"/>
+        <MaxLevel value="30"/>
+    </CUpgrade>
+    <CUpgrade id="DesecrateGround">
+        <EffectArray Reference="Abil,DesecratedGround,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,DesecratedGround,Cost[0].Vital[Energy]" Value="12"/>
+        <EffectArray Reference="Effect,DesecratedGround3,Amount" Value="1.4"/>
+        <EffectArray Operation="Multiply" Reference="Effect,DesecratedGround3,Amount" Value="1.115"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="DesecrateGround2">
+        <EffectArray Reference="Effect,DesecratedGround2,AreaArray[0].Radius" Value="0.7"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="HailStorm">
+        <EffectArray Reference="Abil,HailStorm,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,HailStorm,Cost[0].Vital[Energy]" Value="14"/>
+        <EffectArray Reference="Behavior,HailStorm2,DamageResponse.Chance" Value="0.005"/>
+        <EffectArray Reference="Behavior,HailStorm,Duration" Value="0.050000"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,HailStorm2,Modification.RateMultiplierArray[Cooldown]" Value="0.0024"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,HailStorm,Modification.MoveSpeedMultiplier" Value="0.005"/>
+        <EffectArray Reference="Abil,HailStorm,Cost[0].Cooldown.TimeUse" Value="0.050000"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,HailStorm2,Modification.AttackSpeedMultiplier" Value="0.005"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="FrostBolt2">
+        <EffectArray Operation="Multiply" Reference="Effect,FrostBolt,Amount" Value="1.15"/>
+        <EffectArray Operation="Multiply" Reference="Abil,FrostBolt,Cost[0].Vital[Energy]" Value="1.1"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="CloakofFlames">
+        <EffectArray Reference="Behavior,CloakofFlames2,DamageResponse.Cost.Cooldown.TimeUse" Value="1.000000"/>
+        <EffectArray Reference="Behavior,CloakofFlames2,DamageResponse.ModifyFraction" Value="0.15"/>
+        <EffectArray Operation="Multiply" Reference="Effect,CloakofFlames6,Amount" Value="1.5"/>
+        <EffectArray Reference="Behavior,CloakofFlames2,Modification.DamageDealtFraction[Spell]" Value="0.15"/>
+        <EffectArray Operation="Set" Reference="Button,CloakofFlamesOn,Tooltip" Value="Button/Tooltip/CloakofFlamesOn2"/>
+        <EffectArray Operation="Set" Reference="Button,CloakofFlamesOff,Tooltip" Value="Button/Tooltip/CloakofFlamesOff2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Empower">
+        <EffectArray Reference="Abil,Empower,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,Empower,Cost[0].Vital[Energy]" Value="13"/>
+        <EffectArray Reference="Behavior,Empower,Duration" Value="0.150000"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,Empower,DamageResponse.ModifyFraction" Value="0.005"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,Empower,Modification.DamageTotalMultiplier[Melee]" Value="0.01"/>
+        <EffectArray Reference="Behavior,Empower,Modification.DamageTotalMultiplier[Spell]" Value="0.01"/>
+        <EffectArray Reference="Behavior,Empower,Modification.DamageTakenFraction[Melee]" Value="0.0034"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="DeathTouch">
+        <EffectArray Reference="Abil,DeathTouch,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,DeathTouch,Cost[0].Vital[Energy]" Value="20"/>
+        <EffectArray Reference="Effect,DeathTouch2,Amount" Value="4"/>
+        <EffectArray Operation="Multiply" Reference="Effect,DeathTouch2,Amount" Value="1.14"/>
+        <EffectArray Reference="Abil,DeathTouch,Cost[0].Cooldown.TimeUse" Value="0.250000"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="LightningBall">
+        <EffectArray Reference="Abil,LightningBall,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,LightningBall,Cost[0].Vital[Energy]" Value="11"/>
+        <EffectArray Reference="Effect,LightningBall2,Amount" Value="2.1"/>
+        <EffectArray Operation="Multiply" Reference="Effect,LightningBall2,Amount" Value="1.09"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="InnerFire">
+        <EffectArray Reference="Abil,InnerFire,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,InnerFire,Cost[0].Vital[Energy]" Value="12"/>
+        <EffectArray Reference="Behavior,InnerFire,Duration" Value="0.300000"/>
+        <EffectArray Operation="Subtract" Reference="Abil,InnerFire,Cost[0].Cooldown.TimeUse" Value="0.200000"/>
+        <EffectArray Reference="Behavior,InnerFire,Modification.LifeArmorBonus" Value="1"/>
+        <EffectArray Reference="Behavior,InnerFire,Modification.DamageTotalMultiplier[Melee]" Value="0.005"/>
+        <EffectArray Reference="Behavior,InnerFire,Modification.EnergyArmorBonus" Value="1"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="LightningBall2">
+        <EffectArray Operation="Set" Reference="Unit,LightningBall,Mover" Value="LightningBallFast"/>
+        <EffectArray Operation="Multiply" Reference="Effect,LightningBall2,Amount" Value="2.75"/>
+        <EffectArray Operation="Subtract" Reference="Effect,LightningBall4,AreaArray[0].Radius" Value="0.2"/>
+        <EffectArray Operation="Subtract" Reference="Abil,LightningBall,Cost[0].Cooldown.TimeUse" Value="3.500000"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="LightningBall3">
+        <EffectArray Operation="Set" Reference="Unit,LightningBall,Mover" Value="LightningBallSlow"/>
+        <EffectArray Reference="Effect,LightningBall4,AreaArray[0].Radius" Value="0.2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Rejuvenate">
+        <EffectArray Reference="Abil,Rejuvenate,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,Rejuvenate,Cost[0].Vital[Energy]" Value="10"/>
+        <EffectArray Reference="Effect,Rejuvenate2,RechargeVitalRate" Value="5.000000"/>
+        <EffectArray Reference="Behavior,Rejuvenate,Modification.HealTakenAdditiveMultiplier" Value="0.01"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Rejuvenate2,RechargeVitalRate" Value="1.074200"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="BlinkSmash">
+        <EffectArray Reference="Abil,BlinkSmash2,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,BlinkSmash2,Cost[0].Vital[Energy]" Value="13"/>
+        <EffectArray Reference="Effect,BlinkSmash11,Amount" Value="11"/>
+        <EffectArray Reference="Behavior,BlinkSmash3,Duration" Value="0.100000"/>
+        <EffectArray Operation="Multiply" Reference="Effect,BlinkSmash11,Amount" Value="1.12"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="PhaseShift">
+        <EffectArray Reference="Abil,PhaseShift2,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,PhaseShift2,Cost[0].Vital[Energy]" Value="8"/>
+        <EffectArray Reference="Behavior,PhaseShift,DamageResponse.Chance" Value="0.005"/>
+        <EffectArray Reference="Behavior,PhaseShift,Duration" Value="0.100000"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="HolyAttacks">
+        <EffectArray Reference="Effect,HolyAttacks2,RechargeVitalRate" Value="3.101500"/>
+        <EffectArray Reference="Behavior,HolyAttacks,DamageResponse.Priority" Value="1"/>
+        <EffectArray Operation="Multiply" Reference="Effect,HolyAttacks2,RechargeVitalRate" Value="1.082000"/>
+        <EffectArray Reference="Weapon,HolyAttacks,Cost.Vital[Energy]" Value="1.2"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="SoulShift">
+        <EffectArray Reference="Abil,SoulShift,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,SoulShift,Cost[0].Vital[Energy]" Value="8"/>
+        <EffectArray Reference="Effect,SoulShift5,Amount" Value="7"/>
+        <EffectArray Operation="Multiply" Reference="Effect,SoulShift5,Amount" Value="1.105"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ClawFrenzy">
+        <EffectArray Reference="Abil,ClawFrenzy,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,ClawFrenzy,Cost[0].Vital[Energy]" Value="17"/>
+        <EffectArray Reference="Behavior,ClawFrenzy,Modification.AttackSpeedMultiplier" Value="0.011"/>
+        <EffectArray Reference="Behavior,ClawFrenzy,Modification.DamageTotalMultiplier[Melee]" Value="0.011"/>
+        <EffectArray Reference="Behavior,ClawFrenzy,Duration" Value="0.100000"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="FearWard">
+        <EffectArray Reference="Abil,FearWard,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,FearWard,Cost[0].Vital[Energy]" Value="18"/>
+        <EffectArray Reference="Behavior,FearWard,DamageResponse.ModifyFraction" Value="0.007"/>
+        <EffectArray Reference="Behavior,FearWard,Duration" Value="0.010000"/>
+        <EffectArray Reference="Abil,FearWard,Cost[0].Cooldown.TimeUse" Value="0.300000"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="FireArrow2">
+        <EffectArray Operation="Set" Reference="Effect,FireArrow,AreaArray[0].Radius" Value="0.7"/>
+        <EffectArray Operation="Multiply" Reference="Effect,FireArrow,Amount" Value="0.8"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Cyclone">
+        <EffectArray Reference="Abil,Cyclone2,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,Cyclone2,Cost[0].Vital[Energy]" Value="14"/>
+        <EffectArray Reference="Effect,Cyclone3,Amount" Value="7"/>
+        <EffectArray Reference="Behavior,Cyclone2,DamageResponse.Chance" Value="0.005"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Cyclone3,Amount" Value="1.1"/>
+        <EffectArray Reference="Abil,Cyclone2,Cost[0].Cooldown.TimeUse" Value="0.100000"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="BearTrap">
+        <EffectArray Reference="Abil,BearTrap,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,BearTrap,Cost[0].Vital[Energy]" Value="7"/>
+        <EffectArray Reference="Effect,BearTrap3,PeriodCount" Value="1"/>
+        <EffectArray Reference="Effect,BearTrap2,Amount" Value="14"/>
+        <EffectArray Reference="Behavior,BearTrap,Duration" Value="0.060000"/>
+        <EffectArray Operation="Multiply" Reference="Effect,BearTrap2,Amount" Value="1.125"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="RapidReload">
+        <EffectArray Reference="Abil,RapidReload,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,RapidReload,Cost[0].Vital[Energy]" Value="10"/>
+        <EffectArray Reference="Behavior,RapidReload,Modification.AttackSpeedMultiplier" Value="0.015"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,RapidReload,DamageResponse.Chance" Value="0.003"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Mend">
+        <EffectArray Reference="Abil,Mend,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,Mend,Cost[0].Vital[Energy]" Value="12"/>
+        <EffectArray Reference="Effect,Mend2,RechargeVitalRate" Value="3.000000"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Mend2,RechargeVitalRate" Value="1.105400"/>
+        <EffectArray Reference="Abil,Mend,Cost[0].Cooldown.TimeUse" Value="0.100000"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="SpitFire">
+        <EffectArray Reference="Abil,Spitfire,Cost[0].Vital[Energy]" Value="16"/>
+        <EffectArray Reference="Effect,Spitfire,Amount" Value="1.8"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Spitfire,Amount" Value="1.1"/>
+        <EffectArray Reference="Effect,Spitfire3,PeriodCount" Value="1"/>
+        <EffectArray Operation="Subtract" Reference="Effect,Spitfire3,PeriodicPeriodArray[0]" Value="0.000500"/>
+        <EffectArray Operation="Subtract" Reference="Effect,Spitfire3,PeriodicPeriodArray[1]" Value="0.001000"/>
+        <EffectArray Operation="Subtract" Reference="Effect,Spitfire3,PeriodicPeriodArray[2]" Value="0.001500"/>
+        <EffectArray Reference="Abil,Spitfire,SmartPriority" Value="1"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="StackCount">
+        <Flags index="UpgradeCheat" value="0"/>
+        <EffectArray Reference="Abil,Potion,Cost[0].Charge.CountMax" Value="1"/>
+        <EffectArray Reference="Abil,Potion,Cost[0].Charge.CountStart" Value="1"/>
+        <MaxLevel value="15"/>
+    </CUpgrade>
+    <CUpgrade id="SummonPet">
+        <EffectArray Operation="Set" Reference="Abil,SwordThrow,Activity"/>
+        <EffectArray Reference="Behavior,SummonPet,Modification.DamageDealtScaled[Melee]" Value="4"/>
+        <EffectArray Reference="Abil,SummonPet,SmartPriority" Value="1"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,SummonPet,Modification.DamageDealtScaled[Melee]" Value="1.115"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,SummonPet,Modification.DamageTakenFraction[Spell]" Value="0.0136"/>
+        <EffectArray Reference="Behavior,SummonPet,Modification.LifeArmorBonus" Value="3.1"/>
+        <EffectArray Reference="Behavior,SummonPet,Modification.VitalMaxArray[Life]" Value="75"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,SummonPet,Modification.VitalMaxArray[Life]" Value="1.09"/>
+        <EffectArray Reference="Behavior,SummonPet,Modification.VitalRegenArray[Life]" Value="1.101500"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,SummonPet,Modification.VitalRegenArray[Life]" Value="1.058500"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,SummonPet,Modification.DamageTakenFraction[Melee]" Value="0.005"/>
+        <EffectArray Reference="Behavior,SummonPet,Modification.AttackSpeedMultiplier" Value="0.025"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="DefensiveStance">
+        <EffectArray Reference="Behavior,DefensiveStance,Modification.VitalRegenArray[Energy]" Value="0.398400"/>
+        <EffectArray Reference="Effect,DefensiveStance2,Amount" Value="8"/>
+        <EffectArray Operation="Multiply" Reference="Effect,DefensiveStance2,Amount" Value="1.15"/>
+        <EffectArray Reference="Behavior,DefensiveStance,DamageResponse.Priority" Value="1"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,DefensiveStance,DamageResponse.Cost.Cooldown.TimeUse" Value="0.005000"/>
+        <EffectArray Reference="Behavior,DefensiveStance,DamageResponse.Chance" Value="0.005"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,DefensiveStance,DamageResponse.ModifyFraction" Value="0.005"/>
+        <EffectArray Reference="Behavior,DefensiveStance,Modification.DamageTotalMultiplier[Melee]" Value="0.005"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Charge2">
+        <EffectArray Operation="Subtract" Reference="Abil,Charge2,Cost[0].Cooldown.TimeUse" Value="0.100000"/>
+        <EffectArray Reference="Effect,Charge4,Amount" Value="6"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Charge4,Amount" Value="1.09"/>
+        <EffectArray Reference="Abil,Charge2,Cost[0].Vital[Energy]" Value="11"/>
+        <EffectArray Reference="Abil,Charge2,SmartPriority" Value="1"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Impale">
+        <EffectArray Reference="Abil,Impale2,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,Impale2,Cost[0].Vital[Energy]" Value="7"/>
+        <EffectArray Reference="Effect,Impale,Amount" Value="14"/>
+        <EffectArray Reference="Behavior,Impale,Duration" Value="0.070000"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Impale,Amount" Value="1.11"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Bloodlust">
+        <EffectArray Reference="Abil,Bloodlust,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,Bloodlust,Cost[0].Vital[Energy]" Value="12"/>
+        <EffectArray Reference="Behavior,Bloodlust2,Modification.AttackSpeedMultiplier" Value="0.01"/>
+        <EffectArray Reference="Abil,Bloodlust,Cost[0].Cooldown.TimeUse" Value="0.050000"/>
+        <EffectArray Reference="Behavior,Bloodlust2,Modification.VitalDamageLeechArray[Life].KindArray[Melee]" Value="0.005"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="FireArrow">
+        <EffectArray Reference="Effect,FireArrow,Amount" Value="2.2"/>
+        <EffectArray Reference="Behavior,FireArrow,DamageResponse.Cost.Vital[Energy]" Value="0.75"/>
+        <EffectArray Operation="Multiply" Reference="Effect,FireArrow,Amount" Value="1.1"/>
+        <EffectArray Reference="Behavior,FireArrow,DamageResponse.Priority" Value="1"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Impale2">
+        <EffectArray Reference="Behavior,Impale,Duration" Value="1.500000"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Kick2">
+        <EffectArray Reference="Effect,Kick2,Amount" Value="10"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Kick2,Amount" Value="1.2"/>
+        <EffectArray Operation="Set" Reference="Behavior,Kick,Modification.MoveSpeedMaximum" Value="2.500000"/>
+        <EffectArray Operation="Set" Reference="Behavior,Kick,Modification.MoveSpeedMinimum" Value="2.500000"/>
+        <EffectArray Reference="Abil,Kick,Cost[0].Cooldown.TimeUse" Value="2.000000"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Mark">
+        <EffectArray Reference="Abil,Mark,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,Mark,Cost[0].Vital[Energy]" Value="9"/>
+        <EffectArray Reference="Behavior,Mark,Duration" Value="0.250000"/>
+        <EffectArray Reference="Behavior,Mark,DamageResponse.ModifyFraction" Value="0.04"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Mark2">
+        <EffectArray Operation="Set" Reference="Behavior,Mark,DamageResponse.Kind[Spell]" Value="1"/>
+        <EffectArray Operation="Set" Reference="Button,Mark,Tooltip" Value="Button/Tooltip/Mark2"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,Mark,DamageResponse.ModifyFraction" Value="0.15"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="PowerfulStrike2">
+        <EffectArray Operation="Multiply" Reference="Effect,PowerfulStrike,Amount" Value="1.2"/>
+        <EffectArray Reference="Effect,PowerfulStrike,Amount" Value="25"/>
+        <EffectArray Operation="Divide" Reference="Behavior,PowerfulStrike,Duration" Value="5.000000"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="PowerfulStrike3">
+        <EffectArray Operation="Subtract" Reference="Abil,PowerfulStrike,Cost[0].Cooldown.TimeUse" Value="2.000000"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="BloodRage">
+        <EffectArray Reference="Abil,BloodRage,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,BloodRage,Cost[0].Vital[Energy]" Value="17"/>
+        <EffectArray Reference="Behavior,BloodRage,Modification.VitalDamageLeechArray[Life].KindArray[Melee]" Value="0.005"/>
+        <EffectArray Reference="Behavior,BloodRage,Modification.VitalMaxAdditiveMultiplierArray[Life]" Value="0.005"/>
+        <EffectArray Reference="Behavior,BloodRage,Modification.VitalRegenArray[Life]" Value="5.000000"/>
+        <EffectArray Reference="Behavior,BloodRage,Modification.VitalDamageLeechArray[Life].KindArray[Spell]" Value="0.005"/>
+        <EffectArray Reference="Abil,BloodRage,Cost[0].Cooldown.TimeUse" Value="0.100000"/>
+        <EffectArray Reference="Behavior,BloodRage,Modification.RateMultiplierArray[Cooldown]" Value="0.005"/>
+        <EffectArray Reference="Behavior,BloodRage,Duration" Value="0.100000"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,BloodRage,Modification.VitalRegenArray[Life]" Value="1.019500"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Avatar">
+        <EffectArray Reference="Abil,Avatar,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,Avatar,Cost[0].Vital[Energy]" Value="30"/>
+        <EffectArray Reference="Behavior,Avatar,Duration" Value="0.100000"/>
+        <EffectArray Reference="Behavior,Avatar,Modification.DamageDealtFraction[Melee]" Value="0.0065"/>
+        <EffectArray Reference="Behavior,Avatar,Modification.DamageDealtFraction[Spell]" Value="0.0065"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,Avatar,Modification.DamageTakenFraction[Melee]" Value="0.005"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,Avatar,Modification.DamageTakenFraction[Spell]" Value="0.005"/>
+        <EffectArray Reference="Behavior,Avatar,Modification.VitalMaxAdditiveMultiplierArray[Life]" Value="0.005"/>
+        <EffectArray Reference="Abil,Avatar,Cost[0].Cooldown.TimeUse" Value="0.600000"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ShieldingStrikes">
+        <EffectArray Operation="Subtract" Reference="Behavior,ShieldingStrikes,Modification.DamageTotalMultiplier[Melee]" Value="0.001"/>
+        <EffectArray Reference="Behavior,ShieldingStrikes2,DamageResponse.Priority" Value="1"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,ShieldingStrikes,Modification.DamageTotalMultiplier[Spell]" Value="0.001"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Shockwave">
+        <EffectArray Reference="Abil,Shockwave,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,Shockwave,Cost[0].Vital[Energy]" Value="9"/>
+        <EffectArray Reference="Effect,Shockwave,Amount" Value="9"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Shockwave,Amount" Value="1.105"/>
+        <EffectArray Operation="Subtract" Reference="Abil,Shockwave,Cost[0].Cooldown.TimeUse" Value="0.050000"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="RallyCry">
+        <EffectArray Reference="Abil,RallyCry,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,RallyCry,Cost[0].Vital[Energy]" Value="16"/>
+        <EffectArray Reference="Behavior,RallyCry,Duration" Value="0.200000"/>
+        <EffectArray Reference="Behavior,RallyCry,Modification.VitalRegenArray[Life]" Value="2.750000"/>
+        <EffectArray Reference="Behavior,RallyCry,Modification.VitalRegenArray[Energy]" Value="0.648400"/>
+        <EffectArray Reference="Behavior,RallyCry,Modification.DamageTotalMultiplier[Melee]" Value="0.003"/>
+        <EffectArray Reference="Abil,RallyCry,Cost[0].Cooldown.TimeUse" Value="0.500000"/>
+        <EffectArray Reference="Behavior,RallyCry,Modification.DamageTotalMultiplier[Spell]" Value="0.003"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,RallyCry,Modification.VitalRegenArray[Energy]" Value="1.011700"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,RallyCry,Modification.VitalRegenArray[Life]" Value="1.019500"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ShieldSlam2">
+        <EffectArray Reference="Effect,ShieldSlam3,Amount" Value="12"/>
+        <EffectArray Operation="Multiply" Reference="Effect,ShieldSlam3,Amount" Value="1.15"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ShieldSlam3">
+        <EffectArray Reference="Behavior,ShieldSlam,Duration" Value="0.500000"/>
+        <EffectArray Reference="Abil,ShieldSlam,Cost[0].Cooldown.TimeUse" Value="1.000000"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="StringofDaggers">
+        <EffectArray Reference="Abil,StringofDaggers,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,StringofDaggers,Cost[0].Vital[Energy]" Value="7"/>
+        <EffectArray Reference="Effect,StringofDaggers2,Amount" Value="12"/>
+        <EffectArray Operation="Multiply" Reference="Effect,StringofDaggers2,Amount" Value="1.09"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ShadowStep">
+        <EffectArray Reference="Abil,ShadowStep,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,ShadowStep,Cost[0].Vital[Energy]" Value="9"/>
+        <EffectArray Reference="Effect,ShadowStep6,Amount" Value="10"/>
+        <EffectArray Operation="Multiply" Reference="Effect,ShadowStep6,Amount" Value="1.11"/>
+        <EffectArray Reference="Behavior,ShadowStep2,DamageResponse.ModifyFraction" Value="0.005"/>
+        <EffectArray Reference="Behavior,ShadowStep2,Duration" Value="0.050000"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="SummonPet2">
+        <EffectArray Operation="Set" Reference="Button,SummonPet,Icon" Value="Assets\Textures\war3_btnwolf.dds"/>
+        <EffectArray Operation="Divide" Reference="Behavior,SummonPet,Modification.DamageDealtScaled[Melee]" Value="1.1"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,SummonPet,Modification.LifeArmorBonus" Value="4"/>
+        <EffectArray Operation="Divide" Reference="Behavior,SummonPet,Modification.VitalMaxArray[Life]" Value="1.15"/>
+        <EffectArray Operation="Set" Reference="Effect,SummonPet,SpawnUnit" Value="Whitewolf"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="SummonPet3">
+        <EffectArray Operation="Set" Reference="Button,SummonPet,Icon" Value="Assets\Textures\war3_btnfrostbear.dds"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,SummonPet,Modification.DamageDealtScaled[Melee]" Value="1.2"/>
+        <EffectArray Reference="Behavior,SummonPet,Modification.LifeArmorBonus" Value="4"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,SummonPet,Modification.VitalMaxArray[Life]" Value="1.2"/>
+        <EffectArray Operation="Set" Reference="Effect,SummonPet,SpawnUnit" Value="Polarbear"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,SummonPet,Modification.DamageTakenFraction[Spell]" Value="0.1"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="SummonPet4">
+        <EffectArray Operation="Set" Reference="Button,SummonPet,Icon" Value="Assets\Textures\war3_btnowlbear.dds"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,SummonPet,Modification.DamageDealtScaled[Melee]" Value="1.4"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,SummonPet,Modification.LifeArmorBonus" Value="2"/>
+        <EffectArray Operation="Divide" Reference="Behavior,SummonPet,Modification.VitalMaxArray[Life]" Value="1.1"/>
+        <EffectArray Operation="Set" Reference="Effect,SummonPet,SpawnUnit" Value="Berserkowlbear"/>
+        <EffectArray Operation="Multiply" Reference="Effect,PowerSwipe5,Amount" Value="4"/>
+        <EffectArray Reference="Behavior,PowerSwipe4,DamageResponse.Chance" Value="0.1"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="SummonPet5">
+        <EffectArray Operation="Set" Reference="Button,SummonPet,Icon" Value="Assets\Textures\war3_btnwendigo.dds"/>
+        <EffectArray Operation="Divide" Reference="Behavior,SummonPet,Modification.DamageDealtScaled[Melee]" Value="1.1"/>
+        <EffectArray Reference="Behavior,SummonPet,Modification.LifeArmorBonus" Value="6"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,SummonPet,Modification.VitalMaxArray[Life]" Value="1.35"/>
+        <EffectArray Operation="Set" Reference="Effect,SummonPet,SpawnUnit" Value="Wendigoshaman"/>
+        <EffectArray Operation="Subtract" Reference="Behavior,SummonPet,Modification.DamageTakenFraction[Spell]" Value="0.12"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Taunt2">
+        <EffectArray Reference="Behavior,Taunt2,Modification.DamageDealtFraction[Melee]" Value="0.05"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Taunt3">
+        <EffectArray Reference="Effect,Taunt3,AreaArray[0].Radius" Value="1"/>
+        <EffectArray Operation="Subtract" Reference="Abil,Taunt2,Cost[0].Cooldown.TimeUse" Value="3.000000"/>
+        <EffectArray Reference="Abil,Taunt2,Cost[0].Vital[Energy]" Value="25"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Whirl2">
+        <EffectArray Reference="Behavior,Whirl2,Duration" Value="2.500000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Whirl3">
+        <EffectArray Reference="Behavior,Whirl,Duration" Value="1.500000"/>
+        <EffectArray Reference="Behavior,Whirl,PeriodCount" Value="3"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="CalmBeforeTheStorm">
+        <EffectArray Reference="Behavior,CalmBeforeTheStorm2,Duration" Value="3.000000"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Windwalk">
+        <EffectArray Reference="Abil,Windwalk,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,Windwalk,Cost[0].Vital[Energy]" Value="9"/>
+        <EffectArray Reference="Behavior,Windwalk,Duration" Value="0.040000"/>
+        <EffectArray Reference="Behavior,Windwalk,Modification.MoveSpeedMultiplier" Value="0.01"/>
+        <EffectArray Reference="Behavior,Windwalk,DamageResponse.ModifyFraction" Value="0.12"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Taunt">
+        <EffectArray Reference="Abil,Taunt2,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,Taunt2,Cost[0].Vital[Energy]" Value="10"/>
+        <EffectArray Reference="Behavior,Taunt2,Duration" Value="0.150000"/>
+        <EffectArray Reference="Behavior,Taunt,Duration" Value="0.150000"/>
+        <EffectArray Reference="Behavior,Taunt2,Modification.VitalRegenArray[Life]" Value="4.500000"/>
+        <EffectArray Reference="Abil,Taunt2,Cost[0].Cooldown.TimeUse" Value="0.100000"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="PassiveDummy">
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="FrostBolt">
+        <EffectArray Reference="Abil,FrostBolt,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,FrostBolt,Cost[0].Vital[Energy]" Value="7"/>
+        <EffectArray Reference="Effect,FrostBolt,Amount" Value="11"/>
+        <EffectArray Operation="Multiply" Reference="Effect,FrostBolt,Amount" Value="1.1"/>
+        <EffectArray Reference="Abil,FrostBolt,Cost[0].Cooldown.TimeUse" Value="0.050000"/>
+        <EffectArray Reference="Behavior,FrostBolt,Duration" Value="0.150000"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="PowerfulStrike">
+        <EffectArray Reference="Abil,PowerfulStrike,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,PowerfulStrike,Cost[0].Vital[Energy]" Value="7"/>
+        <EffectArray Reference="Effect,PowerfulStrike,Amount" Value="12"/>
+        <EffectArray Operation="Multiply" Reference="Effect,PowerfulStrike,Amount" Value="1.11"/>
+        <MaxLevel value="30"/>
+    </CUpgrade>
+    <CUpgrade id="Frenzy">
+        <EffectArray Reference="Abil,Frenzy2,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,Frenzy2,Cost[0].Vital[Energy]" Value="8"/>
+        <EffectArray Reference="Behavior,Frenzy2,Duration" Value="0.100000"/>
+        <EffectArray Reference="Behavior,Frenzy2,Modification.AttackSpeedMultiplier" Value="0.01"/>
+        <EffectArray Reference="Behavior,Frenzy2,Modification.MoveSpeedMultiplier" Value="0.01"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="ShieldSlam">
+        <EffectArray Reference="Abil,ShieldSlam,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,ShieldSlam,Cost[0].Vital[Energy]" Value="8"/>
+        <EffectArray Reference="Effect,ShieldSlam3,Amount" Value="11"/>
+        <EffectArray Operation="Multiply" Reference="Effect,ShieldSlam3,Amount" Value="1.115"/>
+        <EffectArray Reference="Behavior,ShieldSlam,Duration" Value="0.050000"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Kick">
+        <EffectArray Reference="Abil,Kick,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,Kick,Cost[0].Vital[Energy]" Value="7"/>
+        <EffectArray Reference="Effect,Kick2,Amount" Value="10"/>
+        <EffectArray Operation="Multiply" Reference="Effect,Kick2,Amount" Value="1.1"/>
+        <EffectArray Reference="Behavior,Kick,Duration" Value="0.050000"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="FeignDeath">
+        <EffectArray Reference="Abil,FeignDeath,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,FeignDeath,Cost[0].Vital[Energy]" Value="6"/>
+        <EffectArray Reference="Behavior,FeignDeath,Duration" Value="0.050000"/>
+        <EffectArray Reference="Behavior,FeignDeath,Modification.RateMultiplierArray[Cooldown]" Value="0.03"/>
+        <EffectArray Reference="Behavior,FeignDeath,Modification.VitalRegenMultiplier[Energy]" Value="0.045"/>
+        <EffectArray Reference="Behavior,FeignDeath,Modification.VitalRegenMultiplier[Life]" Value="0.045"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Assassinate">
+        <EffectArray Reference="Abil,Assassinate,SmartPriority" Value="1"/>
+        <EffectArray Reference="Abil,Assassinate,Cost[0].Vital[Energy]" Value="13"/>
+        <EffectArray Reference="Behavior,Assassinate,DamageResponse.ModifyFraction" Value="0.04"/>
+        <EffectArray Reference="Behavior,Assassinate,Duration" Value="0.050000"/>
+        <EffectArray Reference="Behavior,Assassinate,Modification.MoveSpeedMultiplier" Value="0.01"/>
+        <MaxLevel value="30"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Windwalk2">
+        <EffectArray Reference="Behavior,Windwalk,Modification.DamageTotalMultiplier[Spell]" Value="0.25"/>
+        <EffectArray Operation="Multiply" Reference="Abil,Windwalk,Cost[0].Vital[Energy]" Value="1.25"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+    <CUpgrade id="Windwalk3">
+        <EffectArray Operation="Multiply" Reference="Behavior,Windwalk,Modification.MoveSpeedMultiplier" Value="0.75"/>
+        <EffectArray Operation="Multiply" Reference="Behavior,Windwalk,DamageResponse.ModifyFraction" Value="1.25"/>
+        <MaxLevel value="2"/>
+        <LeaderAlias value="PowerfulStrike"/>
+    </CUpgrade>
+</Catalog>

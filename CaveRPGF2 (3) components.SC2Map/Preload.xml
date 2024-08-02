@@ -1,0 +1,1355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Preload>
+<Asset path="assets\textures\decaldarkspacelines03_diffuse.lvl0" Type="Image"/>
+<Asset path="assets\textures\war3_btnmaskofdeath.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnelunesblessing.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnforceofnature.dds" Type="Image"/>
+<Asset path="assets\textures\battlestation_number_decals_diff_01.lvl0" Type="Image"/>
+<Asset path="assets\textures\war3_btnevasion.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnblizzard.dds" Type="Image"/>
+<Asset path="assets\textures\ui_battlenet_glue_collection_standarditemframe_hover.dds" Type="Image"/>
+<Asset path="assets\textures\sc2_ui_glues_icons_partyleader.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnmanarecharge.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnfire.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btntimberwolf.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnchaosblademaster.dds" Type="Image"/>
+<Asset path="assets\textures\ui_ingame_lotv_bossbarframe_fill.dds" Type="Image"/>
+<Asset path="assets\textures\sc2_ui_collection_skins_icon_add_hover.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnsteelarmor.dds" Type="Image"/>
+<Asset path="assets\textures\mist2.dds" Type="Image"/>
+<Asset path="assets\textures\btn-command-stop.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnstasistrap.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnambush.dds" Type="Image"/>
+<Asset path="assets\textures\war3_loading_screen_credits.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnghostmage.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnvampiricaura.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btncurse.dds" Type="Image"/>
+<Asset path="assets\textures\haven_grass_rocky_low.lvl0" Type="Image"/>
+<Asset path="assets\textures\war3_btnchaoswolfrider.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnorbofdarkness.dds" Type="Image"/>
+<Asset path="assets\textures\ui_arrowwhite.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnorcmeleeuptwo.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnplaguecloud.dds" Type="Image"/>
+<Asset path="assets\textures\ui_glues_icons_ladder_tier0_star.dds" Type="Image"/>
+<Asset path="assets\textures\decal_spray_0023_01.lvl0" Type="Image"/>
+<Asset path="assets\textures\battlestation_number_decals_diff_01.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnbloodelfpeasant.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnheal.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnfanofknives.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnimprovedbows.dds" Type="Image"/>
+<Asset path="assets\textures\decalspacelines03_diffuse.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btndwarvenlongrifle.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnvengeanceincarnate.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnreddragondevour.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnbash.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btndivineintervention.dds" Type="Image"/>
+<Asset path="assets\textures\war3_pasbtncorrosivebreath.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnentanglingroots.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnstoneform.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btndevotion.dds" Type="Image"/>
+<Asset path="assets\textures\kerriganupgradesetbackground.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btndeathanddecay.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btncritterchicken.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnfrostbolt.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnhowlofterror.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnrejuvenation.dds" Type="Image"/>
+<Asset path="assets\textures\wireframe-terran-civilianprisoner.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnthoriummelee.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btncritterrabbit.dds" Type="Image"/>
+<Asset path="assets\textures\ulnar_dirtnormal.lvl0" Type="Image"/>
+<Asset path="assets\textures\war3_btnupgraderegenerationaura.dds" Type="Image"/>
+<Asset path="assets\textures\decal_spray_0023_01.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnwalloffire.dds" Type="Image"/>
+<Asset path="assets\textures\decal_terran_0010_01.dds" Type="Image"/>
+<Asset path="assets\textures\ui_void_mission_soa_duration_bar.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnacidbomb.dds" Type="Image"/>
+<Asset path="assets\textures\ui_hots_icon_kerrigan_kitcheckmark_pink.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnsilence.dds" Type="Image"/>
+<Asset path="assets\textures\background_terran_0000_01.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnspiritlink.dds" Type="Image"/>
+<Asset path="assets\textures\haven_grass_rocky_low.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnfemaleelfvillager.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnbloodlust.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnshockwave.dds" Type="Image"/>
+<Asset path="assets\textures\btn-border-transportslot-empty.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btndrunkendodge.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnorb.dds" Type="Image"/>
+<Asset path="assets\textures\tyrador_concrete_cracked_low.lvl0" Type="Image"/>
+<Asset path="assets\textures\war3_btnherodemonhunter.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btndisenchant.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnusedsoulgem.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnguldanskull.dds" Type="Image"/>
+<Asset path="assets\textures\terrangroundtargetaoeui4_arrows1.lvl0" Type="Image"/>
+<Asset path="assets\textures\war3_btnmagiclariet.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btncloudoffog.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnorboflightning.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnthickfur.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnarcanitearchitecture.dds" Type="Image"/>
+<Asset path="assets\textures\ui_armoryconsole_frame_middle_center.dds" Type="Image"/>
+<Asset path="assets\textures\decal_zerg_0006_01.lvl0" Type="Image"/>
+<Asset path="assets\textures\war3_btnbonechimes.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnshamanmaster.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnfaeriefire.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnmanaflare.dds" Type="Image"/>
+<Asset path="assets\textures\decalspacelines03_diffuse.lvl0" Type="Image"/>
+<Asset path="assets\textures\ui_multiplayerload_avatarborder_platinum.dds" Type="Image"/>
+<Asset path="assets\textures\ui_battle_smallmetalframe.dds" Type="Image"/>
+<Asset path="assets\textures\ui_arrow1.lvl0" Type="Image"/>
+<Asset path="assets\textures\war3_btnfirebolt.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnreveal.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnbattleroar.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnreplenishmana.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnquillsprayoff.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnbootsofspeed.dds" Type="Image"/>
+<Asset path="assets\textures\decal_terran_0081_01.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnenchantedgemstone.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btninnerfire.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnseagiantpulverize.dds" Type="Image"/>
+<Asset path="assets\textures\ui_arrow1.dds" Type="Image"/>
+<Asset path="assets\textures\ulnar_dirtnormal.dds" Type="Image"/>
+<Asset path="assets\textures\castanarglass_diffuse.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnflare.dds" Type="Image"/>
+<Asset path="assets\textures\ui_hots_icon_kerrigan_kitcheckmark_blue.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btngryphonrider.dds" Type="Image"/>
+<Asset path="assets\textures\ui_multiplayerload_avatarborder_unranked.dds" Type="Image"/>
+<Asset path="assets\textures\border-protoss-transportslot-filled.dds" Type="Image"/>
+<Asset path="assets\textures\dynamicgrassaiurjunglesplat_diff.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btntornado.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnmarksmanship.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnbearblink.dds" Type="Image"/>
+<Asset path="assets\textures\ui_void_shared_progressbarfill.dds" Type="Image"/>
+<Asset path="minimapa.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnslippersofagility.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnspellbreakermagicdefend.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnanimalwartraining.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btngolemstormbolt.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnbearform.dds" Type="Image"/>
+<Asset path="assets\textures\decal_terran_0081_01.lvl0" Type="Image"/>
+<Asset path="assets\textures\war3_btnblink.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnpoisonarrow.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btntaunt.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnwendigo.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnboots.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnowlbear.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnchime.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnregenerationaura.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnreplay-speedup.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnpossession.dds" Type="Image"/>
+<Asset path="assets\textures\portrait_darktemplar_background.lvl0" Type="Image"/>
+<Asset path="assets\textures\ui_glues_icons_league_matchmaking_grandmaster.dds" Type="Image"/>
+<Asset path="assets\textures\ulaan_dirt_crackednormal.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btntranquility.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btndispelmagic.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btncontrolmagic.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btninvisibility.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnslow.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnshade.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnsnazzyscroll.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btncorpseexplode.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btndotmastertraining.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnfrostbear.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnunholyfrenzy.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnghoulfrenzy.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnmassteleport.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnultravision.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnmanadrain.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnneutralmanashield.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btndranaihut.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btndefend.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnwindwalkoff.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnhardenedskin.dds" Type="Image"/>
+<Asset path="assets\textures\ui_gamemenu_difficulty_glow.dds" Type="Image"/>
+<Asset path="assets\textures\decaldarkspacelines03_diffuse.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnchainlightning.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnsnazzyscrollpurple.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnunholystrength.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnorcrallypoint.dds" Type="Image"/>
+<Asset path="assets\textures\ulaan_dirt_crackednormal.lvl0" Type="Image"/>
+<Asset path="assets\textures\war3_btnarcanitemelee.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnrunedbracers.dds" Type="Image"/>
+<Asset path="assets\textures\ui_ingame_custommutators_selecteditem_remove_highlight.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnalbatross.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btndevourmagic.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnwispsplode.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnstampede.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnseaturtlegreen.dds" Type="Image"/>
+<Asset path="assets\textures\decal_terran_0010_01.lvl0" Type="Image"/>
+<Asset path="assets\textures\war3_pasbtnstatup.dds" Type="Image"/>
+<Asset path="assets\textures\terrangroundtargetaoeui4_arrows1.dds" Type="Image"/>
+<Asset path="assets\textures\ui_multiplayerload_avatarborder_silver.dds" Type="Image"/>
+<Asset path="assets\textures\kerriganupgradesetbackground.lvl0" Type="Image"/>
+<Asset path="assets\textures\war3_btnorbofslowness.dds" Type="Image"/>
+<Asset path="assets\textures\dynamicgrassaiurjunglesplat_diff.lvl0" Type="Image"/>
+<Asset path="assets\textures\war3_btnholybolt.dds" Type="Image"/>
+<Asset path="assets\textures\char_dirt_cracked_low.lvl0" Type="Image"/>
+<Asset path="assets\textures\war3_btnchemicalrage.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnflamingarrows.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnfragmentationbombs.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnspiritwalkermastertraining.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnupgrademoonglaive.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnfarsight.dds" Type="Image"/>
+<Asset path="assets\textures\korhal_platform_reentrycloudsbig.dds" Type="Image"/>
+<Asset path="assets\textures\war3_pasbtntrueshot.dds" Type="Image"/>
+<Asset path="assets\textures\portrait_darktemplar_background.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnhealingward.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnlifedrain.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnlightningshield.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btncriticalstrike.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnhellscream.dds" Type="Image"/>
+<Asset path="assets\textures\char_dirt_cracked_low.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnvorpalblades.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnfelguard.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnpandarenbrewmaster.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnbarkskin.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnantimagicshell.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnwhirlwind.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnphaseshift.dds" Type="Image"/>
+<Asset path="assets\textures\ui_glues_ladder_score_warningicon.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnscatterrockets.dds" Type="Image"/>
+<Asset path="assets\textures\mist2.lvl0" Type="Image"/>
+<Asset path="assets\textures\war3_btndefendstop.dds" Type="Image"/>
+<Asset path="assets\textures\ui_arrowwhite.lvl0" Type="Image"/>
+<Asset path="assets\textures\war3_btnmagicimmunity.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnavatar.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btntheblackarrow.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnstormbolt.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnreincarnation.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnriderlesshorse.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnsacrifice.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnbanish.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnlament.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnmilitia.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnarmorgolem.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btn3m1.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btndeathpact.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnheartofaszune.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnfeedback.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btndryaddispelmagic.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnpriestmaster.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnstarfall.dds" Type="Image"/>
+<Asset path="assets\textures\tyrador_concrete_cracked_low.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnwindwalkon.dds" Type="Image"/>
+<Asset path="assets\textures\war3_pasbtngyrocoptertruesight.dds" Type="Image"/>
+<Asset path="assets\textures\ui_multiplayerload_avatarborder_grandmaster.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btndustofappearance.dds" Type="Image"/>
+<Asset path="assets\textures\korhal_platform_reentrycloudsbig.lvl0" Type="Image"/>
+<Asset path="assets\textures\ui_glues_icons_ladder_tier_wings_gold_1.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnorcwarlock.dds" Type="Image"/>
+<Asset path="assets\textures\war3_pasbtnfrost.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnimmolationon.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnregenerate.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnthoriumranged.dds" Type="Image"/>
+<Asset path="assets\textures\aberrationportrait_static.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnbrilliance.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btngolemthunderclap.dds" Type="Image"/>
+<Asset path="assets\textures\ui_battle_frame_summary_metal_protoss.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnarcaniteranged.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnshadowmeld.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnunsummonbuilding.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnimprovedunholyarmor.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btndaggerofescape.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnsteelmelee.dds" Type="Image"/>
+<Asset path="assets\textures\background_terran_0000_01.lvl0" Type="Image"/>
+<Asset path="assets\textures\war3_btnseagiantwarstomp.dds" Type="Image"/>
+<Asset path="assets\textures\ui_minimap_icon_alert.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnberserkfortrolls.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnscrollofregeneration.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnsearingarrows.dds" Type="Image"/>
+<Asset path="assets\textures\castanarglass_diffuse.lvl0" Type="Image"/>
+<Asset path="assets\textures\war3_btnzombie.dds" Type="Image"/>
+<Asset path="assets\textures\decal_zerg_0006_01.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnthecaptain.dds" Type="Image"/>
+<Asset path="assets\textures\ui_mercenary_mercbuttonframe.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnnagaweaponup2.dds" Type="Image"/>
+<Asset path="assets\textures\smx3_ui_screen_collectionsbg_moon_spec.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnwisp.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btnenchantedcrows.dds" Type="Image"/>
+<Asset path="assets\textures\smx3_ui_screen_collectionsbg_moon_spec.lvl0" Type="Image"/>
+<Asset path="assets\textures\ui_ingame_help_techtree_questionmark.dds" Type="Image"/>
+<Asset path="assets\textures\war3_btntransmute.dds" Type="Image"/>
+<Actor id="SYSTEM_ActorConfig"/>
+<Actor id="ActorLightOmni"/>
+<Actor id="LightOmniBlue"/>
+<Actor id="LightOmniCyanLarge"/>
+<Actor id="LightOmniOrangeLarge"/>
+<Actor id="LightOmniPurpleLarge"/>
+<Actor id="LightOmniYellowLarge"/>
+<Actor id="AcidFalls" Variations="0,1"/>
+<Actor id="AcidSplash"/>
+<Actor id="AiurFoliage_Ex2" Variations="0"/>
+<Actor id="Aiur_ChiseledRock_Brown" Variations="0,1,2,3,4"/>
+<Actor id="Aiur_ChiseledRock_Brown_Large" Variations="0,1,2,3"/>
+<Actor id="Aiur_City_Weeds" Variations="0,1,4,5,6,7,8"/>
+<Actor id="Aiur_Fireflies" Variations="0,1"/>
+<Actor id="Aiur_GroundCover" Variations="0,1,2"/>
+<Actor id="Aiur_Plantlife" Variations="11,15"/>
+<Actor id="Aiur_Temple_Archway" Variations="1"/>
+<Actor id="Aiur_Temple_BrickGroup" Variations="0,1,3,4,7"/>
+<Actor id="Aiur_Temple_Inlay" Variations="0,1,2,3,4"/>
+<Actor id="Aiur_Temple_Inlay_PowerUP"/>
+<Actor id="Aiur_Temple_Ruins_Set" Variations="0,1"/>
+<Actor id="Aiur_Tree_Large" Variations="2"/>
+<Actor id="Aiur_Trees_Giant" Variations="0,1,2"/>
+<Actor id="Aiur_Trees_Log_Small" Variations="0,1,2,3"/>
+<Actor id="Aiur_Trees_Tall" Variations="2,3,6,7,8,10"/>
+<Actor id="Aiur_Vines_Cliff" Variations="1,3,4"/>
+<Actor id="ArthasIceCliff" Variations="0,1"/>
+<Actor id="Blast_Craters" Variations="0,1"/>
+<Actor id="Blast_Craters_Big" Variations="0,2,3"/>
+<Actor id="BonesYeti" Variations="0,1,2"/>
+<Actor id="BrokenRocks" Variations="0,1,2,3,4,5,6,7"/>
+<Actor id="BrokenRocksSmall" Variations="0,1,2,3,4,5"/>
+<Actor id="CharAcidAcidBurst"/>
+<Actor id="CharDuneRockGiant" Variations="2,4"/>
+<Actor id="CharDuneRockLarge" Variations="0,4,5,6,7,9,10,11,12"/>
+<Actor id="ChiseledRock" Variations="1,2,3"/>
+<Actor id="ChiseledRockEx1Large" Variations="0,1,2,3"/>
+<Actor id="CompoundMansion_Pillars" Variations="1"/>
+<Actor id="DOM_Fire_Large"/>
+<Actor id="DOM_Fire_Large_Long"/>
+<Actor id="DesertCaveEntrance"/>
+<Actor id="DesertRockGiant" Variations="0,1,3,4,5,7,8,9,10"/>
+<Actor id="Elsecaro_Bush1x1" Variations="0,1,2,3,4"/>
+<Actor id="Elsecaro_Bush2x2" Variations="0,1,2,3,4"/>
+<Actor id="Elsecaro_Bush4x4" Variations="1,2,3,4"/>
+<Actor id="Elsecaro_Curtain2x2" Variations="1,2,3,4"/>
+<Actor id="Elsecaro_Curtain4x4" Variations="0,3"/>
+<Actor id="Elsecaro_Foliage" Variations="0,1,2,3,4,5,6,7,8,10,11,13,14,15,16,17,18,19,20"/>
+<Actor id="Elsecaro_GroundCover" Variations="0,1,2,3,4,5"/>
+<Actor id="Elsecaro_Large_Rock" Variations="0,1,2,3,4,5,6,7"/>
+<Actor id="Elsecaro_Large_Rock_NoShadow" Variations="0,1,4,5"/>
+<Actor id="Elsecaro_Medium_Rock_Group" Variations="1,2,3,4,5,6"/>
+<Actor id="Elsecaro_Palmtree" Variations="0,1,3,4,5,7"/>
+<Actor id="Elsecaro_Palmtree_Wrecked" Variations="0,1,2,3,4,5,6,7"/>
+<Actor id="Elsecaro_SeaShell" Variations="0,1,2,6,8"/>
+<Actor id="Elsecaro_SeaShell_Group" Variations="0,1,2,3,4"/>
+<Actor id="Elsecaro_SeaShell_Terrain_Splat" Variations="0,2,3,4,5"/>
+<Actor id="Elsecaro_SeaWeeds" Variations="2,3,4,5"/>
+<Actor id="Elsecaro_SeaWeeds_Group" Variations="3"/>
+<Actor id="Elsecaro_Small_Rock" Variations="0,1,2,3,4,5"/>
+<Actor id="Elsecaro_Small_Rock_Group" Variations="0,1,2,3"/>
+<Actor id="Elsecaro_Tree" Variations="0,2,4,5,6,7"/>
+<Actor id="FishSchool"/>
+<Actor id="Fog_Aiur_Thick"/>
+<Actor id="Fog_Hazy"/>
+<Actor id="Fog_Ulnar"/>
+<Actor id="GenericBuildingRubble" Variations="3"/>
+<Actor id="Ground_Energy_Crack" Variations="0,1,2,3,4"/>
+<Actor id="GuideArrow"/>
+<Actor id="HeavySnowTree"/>
+<Actor id="IceBlock"/>
+<Actor id="IceCave" Variations="1"/>
+<Actor id="IceCliffDoodad" Variations="0,2,3,4"/>
+<Actor id="IceLake" Variations="0"/>
+<Actor id="IceMiscChunks" Variations="0,1,3,4,5,7"/>
+<Actor id="IceRockGiant" Variations="0,1,4,8,16,17"/>
+<Actor id="IceSpikes" Variations="0,1,2"/>
+<Actor id="IceWorldCrackingIce" Variations="0,1"/>
+<Actor id="IceWorldRock" Variations="0,1,2,3,4,5,6,8,9"/>
+<Actor id="IceWorldRockLarge" Variations="0,1,2,3,4,5,6,7"/>
+<Actor id="JarbanMinor_Blast_Craters_Big" Variations="4"/>
+<Actor id="JarbanMinor_BloodSmear" Variations="0,1"/>
+<Actor id="JarbanMinor_CaveEntrance" Variations="1"/>
+<Actor id="JarbanMinor_Grass" Variations="0,1,2,3,4,5,6,7"/>
+<Actor id="JarbanMinor_GroundCover" Variations="0,1,2,3"/>
+<Actor id="JarbanMinor_Large_Rock" Variations="0,1,2,3,5,6,7"/>
+<Actor id="JarbanMinor_Medium_Rock_Group" Variations="1,2,3,4,6,7"/>
+<Actor id="JarbanMinor_Plants" Variations="0,1,3"/>
+<Actor id="JarbanMinor_Small_Rock" Variations="0,1,3,4,5"/>
+<Actor id="JarbanMinor_Small_Rock_Group" Variations="0,1,2,3"/>
+<Actor id="JarbanMinor_TreeLarge" Variations="0,1,2"/>
+<Actor id="JarbanMinor_TreeStump"/>
+<Actor id="JarbanMinor_Vines_Cliff" Variations="1"/>
+<Actor id="KasaiFlies"/>
+<Actor id="LightningBolt"/>
+<Actor id="PandaItems"/>
+<Actor id="PowerSupplyWarfield"/>
+<Actor id="PurificationDesert_Blast_Splats" Variations="0,1,2"/>
+<Actor id="PurificationDesert_Small_Rock_Group" Variations="0,1,2,3"/>
+<Actor id="Purifier_Foliage" Variations="0,1,2,3,4,5,7,8,9"/>
+<Actor id="Purifier_Foliage_Clumps" Variations="1,2"/>
+<Actor id="Purifier_Trees_Giant" Variations="0,1,2"/>
+<Actor id="Purifier_Trees_Log" Variations="0,1,2,3"/>
+<Actor id="Purifier_Trees_Regular" Variations="0,1,3,4,5,7,8,9,10,11,12,14"/>
+<Actor id="Reentry_Fire"/>
+<Actor id="Rock_Cliff_Chunks" Variations="1"/>
+<Actor id="Shakuras_Energy_Fields" Variations="1,4"/>
+<Actor id="Shakuras_TallGrass" Variations="1,4,6"/>
+<Actor id="Shakuras_TallGrass_Windy" Variations="3,4"/>
+<Actor id="Slayn_Brambles" Variations="1,2"/>
+<Actor id="Slayn_Braziers" Variations="0"/>
+<Actor id="Slayn_BrickFloor"/>
+<Actor id="Slayn_CliffSpires" Variations="3"/>
+<Actor id="Slayn_RockCliffShort" Variations="0,1,2,3"/>
+<Actor id="Slayn_Stone_Bricks_Crumbled" Variations="0,1,3,4,5,6,7,8,9"/>
+<Actor id="Slayn_TallGrass" Variations="0,1,2,3,4,5,6,7"/>
+<Actor id="Slayn_Temple_Inlay" Variations="2,3,4,5"/>
+<Actor id="Slayn_Weeds" Variations="0,1,2,4,5,6,7,8,10"/>
+<Actor id="SmokeEmbersMedium"/>
+<Actor id="SmokePillar_Tall_Generic"/>
+<Actor id="SmokeStack_Fire_Constant_Burst_Lg"/>
+<Actor id="SmokeStack_Flame_Burst_2x2"/>
+<Actor id="SmokeStack_Smoke_Lg"/>
+<Actor id="SnowBase_Snow_Falling_Chunks"/>
+<Actor id="SnowDrifts" Variations="0,1,2"/>
+<Actor id="SnowRefinery_Cliff" Variations="0,2"/>
+<Actor id="SnowRefinery_FrozenWaterfalls" Variations="4"/>
+<Actor id="SnowRefinery_Natural_Brambles" Variations="0,1,2,3"/>
+<Actor id="SnowRefinery_TallRock" Variations="0,2,4,5,6"/>
+<Actor id="SnowTreeDead" Variations="0,1,2,4,5"/>
+<Actor id="SnowTrees" Variations="0,1,2,3,4,5,6"/>
+<Actor id="TarSludge"/>
+<Actor id="Tarsonis_Carpet" Variations="0,6"/>
+<Actor id="Tarsonis_Rubble" Variations="4,5"/>
+<Actor id="Tarsonis_SandDrift" Variations="0,2"/>
+<Actor id="UmojanLabCrates" Variations="4"/>
+<Actor id="UmojanLabElectricalArcs"/>
+<Actor id="UmojanLabTestTube" Variations="0,1"/>
+<Actor id="UnbuildableRocks" Variations="0,1,2,3,4,5,6,7"/>
+<Actor id="UnbuildableRocksSmall" Variations="0,1,2,3,4,5"/>
+<Actor id="Void_CliffRocks_Mass_A" Variations="0,1,2,3,4"/>
+<Actor id="Void_CliffRocks_Rubble" Variations="0,1,2"/>
+<Actor id="Void_CrackSplat" Variations="0,1,2,3,4,5"/>
+<Actor id="Void_GoldPiles" Variations="0,1,2,4"/>
+<Actor id="Void_Mist"/>
+<Actor id="VolcanicWeevil"/>
+<Actor id="WaterPuddle" Variations="1,2,4"/>
+<Actor id="WindEnergyDust"/>
+<Actor id="XelNaga_Cavern_CaveEntrance" Variations="0"/>
+<Actor id="XelNaga_Cavern_Rock_Cliffs" Variations="0,1,3"/>
+<Actor id="XelNaga_Caverns_Cave_Light" Variations="0,1"/>
+<Actor id="XelNaga_EnergyStreaks"/>
+<Actor id="XelNaga_GiantCrystalFloating" Variations="1"/>
+<Actor id="XelNaga_LargeCrate_Animating"/>
+<Actor id="XelNaga_PsionicStormCloud"/>
+<Actor id="ZergBonePileSmall" Variations="1,2"/>
+<Actor id="ZerusCave" Variations="0"/>
+<Actor id="ZerusCliffVines" Variations="0,1,2"/>
+<Actor id="ZerusGroundVines" Variations="0,1,2,3"/>
+<Actor id="ZerusLargeTree" Variations="0"/>
+<Actor id="ZerusLogBridge"/>
+<Actor id="ZerusPlant" Variations="0,1,2,6,12,15,16,18,19"/>
+<Actor id="ZerusPlantClusterLarge" Variations="1,2"/>
+<Actor id="ZerusRockCliffMedium" Variations="2"/>
+<Actor id="ZerusRockCliffShort" Variations="0,1,2,3"/>
+<Actor id="ZerusTallGrassCluster" Variations="0,1"/>
+<Actor id="ZerusWaterPlant" Variations="0,1,2,3,4,6,7,8,9,10"/>
+<Actor id="PathingBlocker1x1Doodad"/>
+<Actor id="PathingandSightBlocker1x1Doodad"/>
+<Actor id="AgriaFoliage" Variations="0,1,2,3,4,5"/>
+<Actor id="AgriaTree" Variations="0,1,2,3,4,5,6,7"/>
+<Actor id="AgriaUnderbrush" Variations="0,1,2,3"/>
+<Actor id="AiurTree" Variations="0,1,2,3,4,5,6,7"/>
+<Actor id="BelShirCanopyTreeIsland" Variations="2,3"/>
+<Actor id="BelShirFoliage" Variations="0,2,3,4,5"/>
+<Actor id="BelShirTree" Variations="0,2,3,4,5,6,7"/>
+<Actor id="Birds"/>
+<Actor id="BirdsTarsonis"/>
+<Actor id="BirdDriftSeeker"/>
+<Actor id="BirdHammerRay"/>
+<Actor id="BloodSplats" Variations="0,1,2,3,4,5"/>
+<Actor id="Brambles" Variations="0,1,2,3,4,5,6,7"/>
+<Actor id="Bush" Variations="0,1,2,3,4"/>
+<Actor id="CaveEntrance"/>
+<Actor id="ChainLinkFenceStraight" Variations="0,4"/>
+<Actor id="CharCrater" Variations="0"/>
+<Actor id="CharCrystal" Variations="0,1,2"/>
+<Actor id="CharCrystalHuge" Variations="0,1,2,3"/>
+<Actor id="CharFoliage" Variations="0,1,2,3,4,5"/>
+<Actor id="CharRock" Variations="0,1,2,3"/>
+<Actor id="CharRockLarge" Variations="0,1,2"/>
+<Actor id="CrystalHuge" Variations="0,1,2,3"/>
+<Actor id="CrystalLarge" Variations="0,1"/>
+<Actor id="DustStorms"/>
+<Actor id="FireMedium"/>
+<Actor id="FlySwarm"/>
+<Actor id="HavenFoliage" Variations="0,1,3"/>
+<Actor id="HavenTree" Variations="0,1,2,3,4,5,6,7"/>
+<Actor id="HavenUnderbrush" Variations="0,1,2,3"/>
+<Actor id="MarSaraBones" Variations="0,1,2,3,4"/>
+<Actor id="MarSaraCrack" Variations="0,1,2,3,4,5,6"/>
+<Actor id="MarSaraDirtPileSmall"/>
+<Actor id="MarSaraSkeletonLarge" Variations="0,1"/>
+<Actor id="MarSaraTreeDead" Variations="0,1,2,3,4,5"/>
+<Actor id="PlantsAlien" Variations="2,5,21"/>
+<Actor id="RainSprinkle"/>
+<Actor id="RedstoneFlameGeyser" Variations="1"/>
+<Actor id="Rock" Variations="0,2,3,4,5,6,7,8,9"/>
+<Actor id="RockTower" Variations="2"/>
+<Actor id="RockVolcanicGiant" Variations="0,1,2,3,4,5"/>
+<Actor id="RockWaterfall" Variations="0,1,5,6"/>
+<Actor id="RockGiant" Variations="2,14,15"/>
+<Actor id="RockFormationLarge" Variations="0,1,2,3,5"/>
+<Actor id="RockLarge" Variations="0,1,3,4,6,8,9,12,14,17,22"/>
+<Actor id="RockSmall" Variations="0,1,2,3,4,5,6,7,8,9,10"/>
+<Actor id="RubbleWall90" Variations="1,3,4,5"/>
+<Actor id="RubbleWallCorner" Variations="0,1"/>
+<Actor id="SmokePillarsTall"/>
+<Actor id="SpiresLarge" Variations="1,2,3"/>
+<Actor id="Sunrays"/>
+<Actor id="TarsonisFoliage" Variations="4"/>
+<Actor id="TarsonisTree" Variations="0,1,2,3,4,5,6,7"/>
+<Actor id="TempleCliffSection"/>
+<Actor id="TempleColumn" Variations="17"/>
+<Actor id="TempleStoneInlay"/>
+<Actor id="Tumbleweeds"/>
+<Actor id="VespeneTank" Variations="2"/>
+<Actor id="Vines" Variations="0,1,2,3,4,6"/>
+<Actor id="Waterfall"/>
+<Actor id="XilFoliage" Variations="1,2,3,4,5"/>
+<Actor id="AiurUnderbrush" Variations="0,1,2"/>
+<Actor id="BelShirUnderbrush" Variations="0,1,2,3"/>
+<Actor id="CharFallingRock"/>
+<Actor id="CreepCloud"/>
+<Actor id="HavenCurtain" Variations="0,1,2,3"/>
+<Actor id="MarSaraFoliage" Variations="0,1,3"/>
+<Actor id="MonlythFoliage" Variations="0,1,3"/>
+<Actor id="ShakurasFoliage" Variations="1,2,3,4,5"/>
+<Actor id="TyphonTree" Variations="0,1,2,3,4,5,6"/>
+<Actor id="ElectricalArcs"/>
+<Actor id="AnimalCorpse" Variations="0,6,7,8"/>
+<Actor id="AgriaShrub" Variations="0,1,2,3,4,5,6,7,8"/>
+<Actor id="BelShirAlienPlant" Variations="0,1,2,3,4"/>
+<Actor id="BelShirFlowers" Variations="0,1,2,3,4,5,6,7,8,9"/>
+<Actor id="AOgsGuardianStatueOfAszune"/>
+<Actor id="AObdBirds"/>
+<Actor id="AObrSkullBrazier"/>
+<Actor id="AOhsHollowStump"/>
+<Actor id="AOlgStraightLog"/>
+<Actor id="AOsrScorchedRemains" Variations="1"/>
+<Actor id="APbsBush"/>
+<Actor id="APmsMushrooms" Variations="0,1,2,3"/>
+<Actor id="APtvThornyVines" Variations="0,1,2,3,4,5"/>
+<Actor id="ARrkRocks" Variations="0,1,2,3,4,5,6,7,8,9"/>
+<Actor id="ASbrBlackRuinedRubble" Variations="0,1,2"/>
+<Actor id="ASblRuinedBlocks"/>
+<Actor id="ASwtWorldTree"/>
+<Actor id="AWfsFish"/>
+<Actor id="AWlpLilyPads"/>
+<Actor id="AWflFloatingLilyPads" Variations="0,1,2"/>
+<Actor id="AZrfRuinedShip"/>
+<Actor id="BOboBones" Variations="0,2,3,4,6,7,8,9"/>
+<Actor id="BOctTotem" Variations="0,1"/>
+<Actor id="BOttTotem" Variations="0,1"/>
+<Actor id="BRcrCrater" Variations="1"/>
+<Actor id="BRfsFissure" Variations="0"/>
+<Actor id="BRrkRocks" Variations="0,1,2,3,4,5,6,7,8,9"/>
+<Actor id="BRrpPillarOfRock" Variations="0,1,2"/>
+<Actor id="BRrsRockSpires" Variations="1,4,5"/>
+<Actor id="BRspSmallRockSpires" Variations="2"/>
+<Actor id="BRgsGeyser" Variations="1,2"/>
+<Actor id="BSrvRuinedCurvedWall"/>
+<Actor id="BSrwRuinedWall"/>
+<Actor id="COblBlightedMist"/>
+<Actor id="COhsHollowStump"/>
+<Actor id="COlgStraightLog"/>
+<Actor id="COdfDeadFish"/>
+<Actor id="CPmsMushrooms" Variations="0,1,2,3"/>
+<Actor id="CRfsFissure" Variations="0,1"/>
+<Actor id="CRrsRockSpires" Variations="0,2,3,4,5,6"/>
+<Actor id="CRrkRocks" Variations="0,1,2,4,5,6,7,8,9"/>
+<Actor id="CSbrBlackRuinedRubble" Variations="2"/>
+<Actor id="CSblRuinedBlocks"/>
+<Actor id="DOtpPileOfTreasure" Variations="0,1"/>
+<Actor id="DOjpPileOfJunk" Variations="0,1"/>
+<Actor id="DOcpChainPost"/>
+<Actor id="DOlcLavaCracks" Variations="0,1,2,3"/>
+<Actor id="DOcrChair"/>
+<Actor id="DObkBookshelf"/>
+<Actor id="DOkbLargeBookshelf"/>
+<Actor id="DObwLongBookshelf"/>
+<Actor id="DOtbTable"/>
+<Actor id="DOtcTableAndChair"/>
+<Actor id="DOttTortureTable"/>
+<Actor id="DOmcMineCart"/>
+<Actor id="DOmeEmptyMineCart"/>
+<Actor id="DOasStatueOfAzshara"/>
+<Actor id="DRrkRocks" Variations="0,1,2,3,4,5,6,7,8,9"/>
+<Actor id="DRstStalagmite" Variations="0,1,2"/>
+<Actor id="DSarArchway"/>
+<Actor id="DSp9BarredWall" Variations="0"/>
+<Actor id="GOlcLavaCracks" Variations="0,1,2,3"/>
+<Actor id="GPshBlueMushroom"/>
+<Actor id="GSp0BarredWall" Variations="0"/>
+<Actor id="IOstSkullTorch"/>
+<Actor id="IOsmSnowman"/>
+<Actor id="IOicIceyChair"/>
+<Actor id="IOchChair"/>
+<Actor id="IRgcGlacier" Variations="0,4,6,7,8"/>
+<Actor id="IRcyCrystal" Variations="0,1,6,7,8"/>
+<Actor id="IWbgSteamBubbles"/>
+<Actor id="JOgrGlowingRunes" Variations="0,1,2,3,4,5,6,7,8"/>
+<Actor id="JScoSingleColumnRuined"/>
+<Actor id="JScxSingleColumnRuined"/>
+<Actor id="KOdrRunes" Variations="1,3"/>
+<Actor id="LOarArcheryTarget"/>
+<Actor id="LOamArmorRack"/>
+<Actor id="LObzGlowingBrazier"/>
+<Actor id="LOceEmptyCage"/>
+<Actor id="LOflFlies"/>
+<Actor id="LOgrGrave"/>
+<Actor id="LOhbHay" Variations="0,1,2,3,4"/>
+<Actor id="LOchHayCart"/>
+<Actor id="LOcbBrokenHayCart"/>
+<Actor id="LOxxBrokenHayCartInfected"/>
+<Actor id="LOhcHayClump"/>
+<Actor id="LOshHeadOnSpear" Variations="1,2"/>
+<Actor id="LOhpHitchingPost"/>
+<Actor id="LOicImpaledCorpse" Variations="0,1"/>
+<Actor id="LOlpLanternPost" Variations="0,1"/>
+<Actor id="LOpgPeasantGrave" Variations="0,1,2"/>
+<Actor id="LOrbRibBones" Variations="0,2,3"/>
+<Actor id="LOrhHayInfected" Variations="1,2,3,4"/>
+<Actor id="LOspSignPost"/>
+<Actor id="LOscSittingCorpse"/>
+<Actor id="LOsmSmokeSmudge" Variations="0,1,2"/>
+<Actor id="LOthTorch"/>
+<Actor id="LOtzGlowingTorch"/>
+<Actor id="LOtrTrough" Variations="0"/>
+<Actor id="LOwbWheelbarrel"/>
+<Actor id="LOwrBrokenWheelbarrel"/>
+<Actor id="LOwpWeaponRack"/>
+<Actor id="LPcrCorn"/>
+<Actor id="LPfpFloatingLilyPads" Variations="0,1,2"/>
+<Actor id="LPlpLillyPad"/>
+<Actor id="LPrsRiverRushes" Variations="0,1,2,3"/>
+<Actor id="LPwbWheatBunch"/>
+<Actor id="LPcwScorchedGrain" Variations="1"/>
+<Actor id="LRrkRocks" Variations="0,1,2,3,4,5,6,7,8,9"/>
+<Actor id="LSbaBarn"/>
+<Actor id="LSsbScorchedBarn"/>
+<Actor id="LSsfScorchedFarm"/>
+<Actor id="LSgrGranary"/>
+<Actor id="LSgsScorchedGranary"/>
+<Actor id="LSraRockArchway"/>
+<Actor id="LSsiScorchedInn"/>
+<Actor id="LSstScorchedTower"/>
+<Actor id="LSwlWell"/>
+<Actor id="LSwmWindMill"/>
+<Actor id="NOboBones" Variations="1,3,6,9"/>
+<Actor id="NOflFence"/>
+<Actor id="NOgvStoneGrave"/>
+<Actor id="NOtbTombstone" Variations="0,1,2"/>
+<Actor id="NOfgFirePitWPig"/>
+<Actor id="NOftTrashedFirePit"/>
+<Actor id="NObtBats"/>
+<Actor id="NPthThornyVines" Variations="2"/>
+<Actor id="NRfsFissure" Variations="0"/>
+<Actor id="NRicIceClaws" Variations="4,6,8"/>
+<Actor id="NWfbFloatingBox"/>
+<Actor id="NWi2Iceberg"/>
+<Actor id="NWi3Iceberg"/>
+<Actor id="NWi4Iceberg"/>
+<Actor id="NWrdDestroyedRowboat"/>
+<Actor id="NWsdDestroyedShip"/>
+<Actor id="OOgrFlameGrate" Variations="1"/>
+<Actor id="OOsdStandard" Variations="0"/>
+<Actor id="ORrkRocks" Variations="0,1,3,4,7,8,9"/>
+<Actor id="ORrsRockSpires" Variations="0,1,2,3,4,5,6,8,9"/>
+<Actor id="ORfkFloatingRock" Variations="0,1,2,3"/>
+<Actor id="OSarRockArchway"/>
+<Actor id="OZspShimmeringPortal"/>
+<Actor id="VOflLongFence"/>
+<Actor id="VOalAngledLongFence"/>
+<Actor id="VOfsShortFence"/>
+<Actor id="XOcsPowerGenerator"/>
+<Actor id="XOclMagicalLantern"/>
+<Actor id="XOmrMagicalRunes" Variations="0,1,2"/>
+<Actor id="YObbLongBlueBanner"/>
+<Actor id="YOwbLongWhiteBanner"/>
+<Actor id="YObsStoneBench"/>
+<Actor id="YObwWoodBench"/>
+<Actor id="YOobObelisk"/>
+<Actor id="YOstStatue"/>
+<Actor id="YOksShieldlessStatue"/>
+<Actor id="YOtsTavernSign"/>
+<Actor id="YObgBobSGunsSign"/>
+<Actor id="YOtaTraceySArmorySign"/>
+<Actor id="YOecEmptyCrates" Variations="0,1,2"/>
+<Actor id="YOthThrone"/>
+<Actor id="YOlbLightningBolt"/>
+<Actor id="YOfbBlueFire"/>
+<Actor id="YOfsSmallFire"/>
+<Actor id="YOf1SideFireTrap"/>
+<Actor id="YOf2FireTrap"/>
+<Actor id="YOswSunWell"/>
+<Actor id="YOfrRuinedFountain"/>
+<Actor id="YPbsBush"/>
+<Actor id="YPppPottedPlant"/>
+<Actor id="YScsColumnSemiCircle"/>
+<Actor id="YSw0LowWall"/>
+<Actor id="YSllLanternWallEnd"/>
+<Actor id="YS12LargeCityBuilding"/>
+<Actor id="YSlxNoLanternWallEnd"/>
+<Actor id="ZObzRuinsBrazier" Variations="0,1"/>
+<Actor id="ZOstRuinsStatue" Variations="1"/>
+<Actor id="ZOsbRuinsBrokenStatue" Variations="1"/>
+<Actor id="ZOobRuinsObelisk" Variations="0"/>
+<Actor id="ZOrtRuinsThrone" Variations="0"/>
+<Actor id="ZOshShells" Variations="0,1,2,3,4,5,6,7,8,9"/>
+<Actor id="ZOrbRuinedTowerBase"/>
+<Actor id="ZOtbRuinedDoubleBase" Variations="1"/>
+<Actor id="ZOfpRuinsFirepot"/>
+<Actor id="ZOlsLibraryShelf" Variations="0,1,2"/>
+<Actor id="ZOtrTrash" Variations="0"/>
+<Actor id="ZObaBloodyAltar"/>
+<Actor id="ZPmsMushrooms" Variations="0,1,2,4,5"/>
+<Actor id="ZPvpVinyPlant" Variations="0,1,2,3"/>
+<Actor id="ZPfwFlowers" Variations="0,1,2,3,4,5,6,7,8,9,10,11"/>
+<Actor id="ZPshShrub" Variations="0,1,2,3,4,5,6,7,8,9,10"/>
+<Actor id="ZPlpLilypad" Variations="0,1,2"/>
+<Actor id="ZPruCatTail" Variations="0,1"/>
+<Actor id="ZRrkRocks" Variations="0,1,2,3,4,5,6,7,8,9"/>
+<Actor id="ZRrsRockSpires" Variations="0,1,2,3,6"/>
+<Actor id="ZRbdLargeRubble" Variations="1"/>
+<Actor id="ZSasArchway" Variations="1"/>
+<Actor id="ZSabRuinedArchway"/>
+<Actor id="ZWfsGreenFish"/>
+<Actor id="ZWsfSchoolOfFish"/>
+<Actor id="ZWswSeaweed" Variations="0,1,2,3,4"/>
+<Actor id="ZWbgBubbles"/>
+<Actor id="ZWclCoral" Variations="0,1,2,3,4,5,7,8"/>
+<Actor id="ZWcaCoralArch" Variations="0"/>
+<Actor id="ZZdtDemonicFootprints" Variations="0,1"/>
+<Actor id="ZZgrGulDanSRunes" Variations="0,2,3"/>
+<Actor id="ZZysEyeOfSargeras"/>
+<Actor id="TombstoneDLH"/>
+<Actor id="FacilityPowerCoreDeathDoodad"/>
+<Actor id="TerrainObjectCharDestructibleFissure"/>
+<Actor id="WaterDropsDoodad"/>
+<Actor id="CastanarStasisTubeWallDestroyed" Variations="4,5"/>
+<Actor id="OrbitalMegaDeathBeam_ImpactTrail_Steam"/>
+<Actor id="Aiur_ChiseledRock_Brown2"/>
+<Actor id="Vendor1"/>
+<Actor id="Vendor12"/>
+<Behavior id="AntiStun3"/>
+<Behavior id="ArmorReduced"/>
+<Behavior id="DogMode"/>
+<Behavior id="Champion"/>
+<Behavior id="Jackfish"/>
+<Behavior id="EnrageStunless"/>
+<Behavior id="HardcoreRaid"/>
+<Behavior id="Hardcore"/>
+<Behavior id="BossBonus"/>
+<Behavior id="SupremeusVisibility2"/>
+<Behavior id="WeaponDisabled"/>
+<Behavior id="Patreon2"/>
+<Behavior id="Beastmaster"/>
+<Behavior id="RaidBoss"/>
+<Behavior id="LegendaryMod"/>
+<Behavior id="Testers32"/>
+<Behavior id="Tutorial"/>
+<Behavior id="Tutorial2"/>
+<Behavior id="Tutorial3"/>
+<Behavior id="BrokenShield"/>
+<Behavior id="Boss"/>
+<Behavior id="SupremeusVisibility"/>
+<Behavior id="MentalCap"/>
+<Behavior id="EndGameBalloons2"/>
+<Behavior id="BlinkPhase3"/>
+<Behavior id="SnowmansWrath"/>
+<Behavior id="CreepReduction"/>
+<Behavior id="CreepCountReduction"/>
+<Behavior id="Heroic2"/>
+<Behavior id="SinglePlayer"/>
+<Behavior id="StunReduction5"/>
+<Behavior id="Wander3"/>
+<Behavior id="Damage2"/>
+<Behavior id="PocketFullofRocks"/>
+<Behavior id="InvasionConsolidate"/>
+<Behavior id="DodgeRanged"/>
+<Behavior id="Armor3"/>
+<Behavior id="Armor4"/>
+<Behavior id="Normal"/>
+<Behavior id="KillInvasion"/>
+<Behavior id="Swarm"/>
+<Behavior id="Heroic"/>
+<Behavior id="StunReduction3"/>
+<Behavior id="Teleport"/>
+<Behavior id="Escort"/>
+<Behavior id="DamageReduction2"/>
+<Behavior id="SpellDamageReduction"/>
+<Behavior id="LevelUp"/>
+<Behavior id="StackofPies"/>
+<Behavior id="Upgrade"/>
+<Behavior id="Talking"/>
+<Behavior id="QuestReward"/>
+<Behavior id="Uncontrollable"/>
+<Behavior id="Damage3"/>
+<Behavior id="Damage4"/>
+<Behavior id="LifeRegenerationBuff"/>
+<Behavior id="SpeedBuff4"/>
+<Behavior id="Invulnerable2"/>
+<Model id="Invisible"/>
+<Model id="DOM_Fire_Large"/>
+<Model id="Shakuras_Ash_Wind"/>
+<Model id="Shakuras_Storm_Weather_Effect"/>
+<Model id="SnowLight"/>
+<Model id="SnowWind"/>
+<Model id="DustStorms"/>
+<Model id="FireMedium"/>
+<Model id="FogMist"/>
+<Model id="RainEmitterLarge"/>
+<Model id="Sunrays"/>
+<Model id="MineralCrystalGlow"/>
+<Model id="KarassPsiStormImpact"/>
+<Model id="KerriganSearchFlashImpact"/>
+<Model id="ShadowCloudAddition1"/>
+<Model id="VoidHeroGlow"/>
+<Sound id="UI_GenericError"/>
+<Sound id="ZergMecha_Death_BloodRun"/>
+<Sound id="UI_LeaguePromotion_Gold_Impact"/>
+<Sound id="UI_Victory_All"/>
+<Sound id="UI_BnetToast"/>
+<Sound id="UI_ObjectiveComplete"/>
+<Sound id="MassTeleport"/>
+<Sound id="BeastiaryWhat"/>
+<Sound id="HeroDemonHunterMorphedReady"/>
+<Sound id="HarpyYesAttack"/>
+<Sound id="WolfWhat"/>
+<Sound id="VillagerKidWhat"/>
+<Sound id="ChatroomTimerTick"/>
+<Sound id="ItemReward"/>
+<Sound id="QuestLogModified"/>
+<Sound id="QuestCompleted"/>
+<Sound id="QuestFailed"/>
+<Sound id="QuestUpdate"/>
+<Sound id="WolfSound"/>
+<Sound id="HornOfCenariusSound"/>
+<Sound id="SargerasLaugh"/>
+<Sound id="TownHallCallToArms"/>
+<Sound id="ReceiveGold"/>
+<Sound id="War3Music_Credits"/>
+<Sound id="War3Music_Human2"/>
+<Sound id="War3Music_PH1"/>
+<Sound id="War3Music_PursuitTheme"/>
+<Sound id="DiabloSmall_voxRoar"/>
+<Sound id="Emitter_CrowdCheering"/>
+<Sound id="DestructibleDebris6x6_Explosion"/>
+<Sound id="MurlocAggro"/>
+<Sound id="Yagdra_VoxRoar"/>
+<Sound id="Zurvan_SpellARoar"/>
+<Sound id="Event_BoxAlert"/>
+<Sound id="LOTV_Music_Stinger_Victory_0122"/>
+<Sound id="Event_EarthquakeRumble"/>
+<Sound id="ArtifactUlnarB_Crystal_Orange_StandWorkStart_A"/>
+<Terrain id="AgriaEx1"/>
+<Unit id="PathingBlocker1x1"/>
+<Unit id="AncientofloreUprooted"/>
+<Unit id="AncientofwindUprooted"/>
+<Unit id="AncientofwondersUprooted"/>
+<Unit id="TreeoflifeUprooted"/>
+<Unit id="AncientprotectorUprooted"/>
+<Unit id="CorruptedancientofwarUprooted"/>
+<Unit id="Corruptedancientprotector"/>
+<Unit id="CorruptedtreeofagesUprooted"/>
+<Unit id="Druidoftheclawmorphed"/>
+<Unit id="Druidoftheclaw"/>
+<Unit id="Druidofthetalonmorphed"/>
+<Unit id="Druidofthetalon"/>
+<Unit id="Peon"/>
+<Unit id="Spiritwalkermorph"/>
+<Unit id="Headhunter"/>
+<Unit id="Trollbatrider"/>
+<Unit id="Shaman"/>
+<Unit id="Witchdoctor"/>
+<Unit id="Humanbarracks"/>
+<Unit id="Blacksmith"/>
+<Unit id="Altarofkings"/>
+<Unit id="Arcanesanctum"/>
+<Unit id="Arcanevault"/>
+<Unit id="Archmage"/>
+<Unit id="Bloodmage"/>
+<Unit id="Peasant"/>
+<Unit id="Mortarteam"/>
+<Unit id="Priest"/>
+<Unit id="Sorceress"/>
+<Unit id="Spellbreaker"/>
+<Unit id="Footman"/>
+<Unit id="Rifleman"/>
+<Unit id="Gryphonrider"/>
+<Unit id="Dragonhawk"/>
+<Unit id="Dryad"/>
+<Unit id="Mountaingiant"/>
+<Unit id="Archer"/>
+<Unit id="Huntress"/>
+<Unit id="Hippogryph"/>
+<Unit id="Faeriedragon"/>
+<Unit id="Warden"/>
+<Unit id="Chimaera"/>
+<Unit id="Wisp"/>
+<Unit id="Lich"/>
+<Unit id="Cryptlord"/>
+<Unit id="Frostwyrm"/>
+<Unit id="Cryptfiend"/>
+<Unit id="Gargoyle"/>
+<Unit id="Meatwagon"/>
+<Unit id="Abomination"/>
+<Unit id="Obsidianstatue"/>
+<Unit id="Necromancer"/>
+<Unit id="Draeneivindicator"/>
+<Unit id="Draeneistalker"/>
+<Unit id="Draeneisalamander"/>
+<Unit id="Felstalker"/>
+<Unit id="Infernal"/>
+<Unit id="Doomguard"/>
+<Unit id="Reddragon"/>
+<Unit id="Highelvenarcher"/>
+<Unit id="Siren"/>
+<Unit id="Nagacoutl"/>
+<Unit id="Nagamyrmidon"/>
+<Unit id="Snapdragon"/>
+<Unit id="Campaignturtle"/>
+<Unit id="Murgulslave"/>
+<Unit id="AvatarofVengeance"/>
+<Unit id="Forceofnature"/>
+<Unit id="Riddenhippogryph"/>
+<Unit id="SpiritofVengeance"/>
+<Unit id="Spiritwolf1"/>
+<Unit id="Rockgolem"/>
+<Unit id="Reddrake"/>
+<Unit id="Militia"/>
+<Unit id="War3Phoenix"/>
+<Unit id="Guardtower"/>
+<Unit id="Carrionscarab1"/>
+<Unit id="Shade"/>
+<Unit id="Skeletonwarrior"/>
+<Unit id="Skeletalmage"/>
+<Unit id="Beastmaster"/>
+<Unit id="Pandarenbrewmaster"/>
+<Unit id="Firelord"/>
+<Unit id="Summoner"/>
+<Unit id="Barbedarachnathid"/>
+<Unit id="Warriorarachnathid"/>
+<Unit id="Earthborerarachnathid"/>
+<Unit id="Overlordarachnathid"/>
+<Unit id="Bandit"/>
+<Unit id="Assassin"/>
+<Unit id="Banditlord"/>
+<Unit id="Bluedragonspawnapprentice"/>
+<Unit id="Bluedragonspawnwarrior"/>
+<Unit id="Bluedragonspawnoverseer"/>
+<Unit id="Centaurarcher"/>
+<Unit id="Centaurdrudge"/>
+<Unit id="Centaurkhan"/>
+<Unit id="Spidercrab"/>
+<Unit id="Darktroll"/>
+<Unit id="Darktrollshadowpriest"/>
+<Unit id="Darktrolltrapper"/>
+<Unit id="Draeneidisciple"/>
+<Unit id="Reddragonwhelp"/>
+<Unit id="Blackdrake"/>
+<Unit id="Bronzedragonwhelp"/>
+<Unit id="Bronzedrake"/>
+<Unit id="Bronzedragon"/>
+<Unit id="Greendragonwhelp"/>
+<Unit id="Greendrake"/>
+<Unit id="Azuredragonwhelp"/>
+<Unit id="Azuredragon"/>
+<Unit id="Netherdrake"/>
+<Unit id="Netherdragon"/>
+<Unit id="Reefelemental"/>
+<Unit id="Enragedelemental"/>
+<Unit id="Corruptedent"/>
+<Unit id="Poisonent"/>
+<Unit id="Eredarsorceror"/>
+<Unit id="Eredardiabolist"/>
+<Unit id="Eredarwarlock"/>
+<Unit id="Facelessoneterror"/>
+<Unit id="Bloodfiend"/>
+<Unit id="War3Overlord"/>
+<Unit id="Purplefelstalker"/>
+<Unit id="Felravager"/>
+<Unit id="Foresttrollhighpriest"/>
+<Unit id="Foresttrollking"/>
+<Unit id="Furbolg"/>
+<Unit id="Furbolgshaman"/>
+<Unit id="Furbolgpanda"/>
+<Unit id="Furbolgtracker"/>
+<Unit id="Furbolgancient"/>
+<Unit id="War3Ghost"/>
+<Unit id="Seagiant"/>
+<Unit id="Spiderblack"/>
+<Unit id="Forestspider"/>
+<Unit id="Broodmother"/>
+<Unit id="Gnollpoacher"/>
+<Unit id="Gnoll3"/>
+<Unit id="Gnollking"/>
+<Unit id="Mudgolem"/>
+<Unit id="Granitegolem"/>
+<Unit id="Battlegolem"/>
+<Unit id="Harpyrogue"/>
+<Unit id="Harpywitch"/>
+<Unit id="Harpyqueen"/>
+<Unit id="Fallenpriest"/>
+<Unit id="Heretic"/>
+<Unit id="Hydrahatchling"/>
+<Unit id="Elderhydra"/>
+<Unit id="Icetrollhighpriest"/>
+<Unit id="Infernalcontraption"/>
+<Unit id="Koboldgeomancer"/>
+<Unit id="Kobolttunneler"/>
+<Unit id="Lightninglizard"/>
+<Unit id="Thunderlizard"/>
+<Unit id="Lobstrokkprawn"/>
+<Unit id="Lobstrokktidecaller"/>
+<Unit id="Lobstrokktidallord"/>
+<Unit id="Magnataurreaver"/>
+<Unit id="Diremammoth"/>
+<Unit id="Murgulsnarecaster"/>
+<Unit id="Murloctiderunner"/>
+<Unit id="Nerubianwarrior"/>
+<Unit id="Nerubianspiderlord"/>
+<Unit id="Nerubianqueen"/>
+<Unit id="Ogre1"/>
+<Unit id="Ogremagi"/>
+<Unit id="Ogre2"/>
+<Unit id="Ogrelord"/>
+<Unit id="Owlbear"/>
+<Unit id="Enragedowlbear"/>
+<Unit id="Polarfurbolg"/>
+<Unit id="Polarfurbolgshaman"/>
+<Unit id="Quillboar"/>
+<Unit id="Razormanescout"/>
+<Unit id="Razormanemedicineman"/>
+<Unit id="Revenantoftheseas"/>
+<Unit id="Lightningrevenant"/>
+<Unit id="Icerevenant"/>
+<Unit id="Revenantofthedepths"/>
+<Unit id="Salamanderhatchling"/>
+<Unit id="Salamander"/>
+<Unit id="Satyrtrickster"/>
+<Unit id="Skeletalorc"/>
+<Unit id="Skeletalorcchampion"/>
+<Unit id="Sludgeflinger"/>
+<Unit id="Sludgemonstrosity"/>
+<Unit id="Stormreaverapprentice"/>
+<Unit id="Stormreavernecrolyte"/>
+<Unit id="Stormreaverwarlock"/>
+<Unit id="Viletemptress"/>
+<Unit id="Seaturtlehatchling"/>
+<Unit id="Dragonturtle"/>
+<Unit id="Tuskarrfighter"/>
+<Unit id="Tuskarrspearman"/>
+<Unit id="Unbrokendarkhunter"/>
+<Unit id="Lesservoidwalker"/>
+<Unit id="Voidwalker"/>
+<Unit id="Eldervoidwalker"/>
+<Unit id="Ancientwendigo"/>
+<Unit id="Timberwolf"/>
+<Unit id="Giantwhitewolf"/>
+<Unit id="Giantwolf"/>
+<Unit id="Whitedirewolf"/>
+<Unit id="Direwolf"/>
+<Unit id="Skeletalarcher"/>
+<Unit id="Skeletalmarksman"/>
+<Unit id="Dalaranreject"/>
+<Unit id="Dalaranmutant"/>
+<Unit id="Giantskeleton"/>
+<Unit id="Junglestalker"/>
+<Unit id="Spiritpig"/>
+<Unit id="Stonemaulogre"/>
+<Unit id="Stonemaulwarchief"/>
+<Unit id="Goblinlandmine"/>
+<Unit id="Fleshgolem"/>
+<Unit id="Chicken"/>
+<Unit id="Duneworm"/>
+<Unit id="Felboar"/>
+<Unit id="Frog"/>
+<Unit id="Skink"/>
+<Unit id="Snowyowl"/>
+<Unit id="Deer"/>
+<Unit id="Skeleton"/>
+<Unit id="Murlochut1"/>
+<Unit id="Amphibioussheep"/>
+<Unit id="Grizzlybear1"/>
+<Unit id="Wareagle1"/>
+<Unit id="Tentacle"/>
+<Unit id="Goblinshredder"/>
+<Unit id="Lavaspawn"/>
+<Unit id="Quillbeast1"/>
+<Unit id="Villagerkid"/>
+<Unit id="Villagerwoman"/>
+<Unit id="Villagerman2"/>
+<Unit id="Villagerman"/>
+<Unit id="Corruptedmoonwell"/>
+<Unit id="Circleofpower"/>
+<Unit id="Chaplain"/>
+<Unit id="Hydromancer"/>
+<Unit id="Illidandemonform"/>
+<Unit id="Illidan"/>
+<Unit id="Malfurion"/>
+<Unit id="Tyrande"/>
+<Unit id="Admiralproudmoore"/>
+<Unit id="Arthaswithfrostmourne"/>
+<Unit id="Jaina"/>
+<Unit id="Lordgarithos"/>
+<Unit id="Uther"/>
+<Unit id="Sylvanuswindrunner"/>
+<Unit id="Magtheridon"/>
+<Unit id="Mannoroth"/>
+<Unit id="Guldan"/>
+<Unit id="Possessedgromhellscream"/>
+<Unit id="Kelthuzadlich"/>
+<Unit id="Tichondrius"/>
+<Unit id="Archimonde"/>
+<Unit id="Ghostlyarchmage"/>
+<Unit id="Nightelfrunner"/>
+<Unit id="Bloodelfwagon"/>
+<Unit id="Thecaptain"/>
+<Unit id="Packhorse"/>
+<Unit id="Bloodelfengineer"/>
+<Unit id="Bloodelflieutenant"/>
+<Unit id="Chaoswarlock"/>
+<Unit id="Highelvenfemale"/>
+<Unit id="Bloodelfworker"/>
+<Unit id="Medivh"/>
+<Unit id="Nightelfassassin"/>
+<Unit id="Watcher"/>
+<Unit id="Kotobeastnorider"/>
+<Unit id="Spiritwyvern"/>
+<Unit id="Chaoswarlord"/>
+<Unit id="Riderlesswyvern"/>
+<Unit id="Airbarge"/>
+<Unit id="Kelthuzadnecro"/>
+<Unit id="Sylvanusbanshee"/>
+<Unit id="Arcaneobservatory"/>
+<Unit id="Dragonbuilding"/>
+<Unit id="Fruitstand"/>
+<Unit id="Gemstoneobelisk"/>
+<Unit id="Highelfbarracks"/>
+<Unit id="Cenarius"/>
+<Unit id="Margoth"/>
+<Unit id="XTmpDalaranMagicalPen"/>
+<Unit id="OTspShimmeringPortal"/>
+<Unit id="ThunderLizardEgg"/>
+<Unit id="FireworksBlue"/>
+<Unit id="FireworksRed"/>
+<Unit id="FireworksYellow"/>
+<Unit id="ShinyDust"/>
+<Unit id="EnchantedStone"/>
+<Unit id="GiantSeed2"/>
+<Unit id="SalivaSample"/>
+<Unit id="MurlocTrash"/>
+<Unit id="ConcentratedAcid"/>
+<Unit id="HairBead"/>
+<Unit id="GoldOre"/>
+<Unit id="CaptainRigby"/>
+<Unit id="CasterPantsTheHonorable"/>
+<Unit id="Aspect"/>
+<Unit id="RageyMcTankerton"/>
+<Unit id="Lucy"/>
+<Unit id="Drakk2"/>
+<Unit id="DummyCaster"/>
+<Unit id="Orimis"/>
+<Unit id="Molly"/>
+<Unit id="FinalPortal"/>
+<Unit id="TimmyDoom"/>
+<Unit id="Winkie3"/>
+<Unit id="SnowMan"/>
+<Unit id="SmoothStone"/>
+<Unit id="Stick"/>
+<Unit id="IceBlock"/>
+<Unit id="DarkPedestal"/>
+<Unit id="GiantSeed"/>
+<Unit id="EmptyVial2"/>
+<Unit id="PureSnow"/>
+<Unit id="Smiv"/>
+<Unit id="VolcanicRock"/>
+<Unit id="Soul2"/>
+<Unit id="PowerCore2"/>
+<Unit id="OrmisMiningPick"/>
+<Unit id="HermitKraag"/>
+<Unit id="FadingSpirit"/>
+<Unit id="Timmy2"/>
+<Unit id="Timmy3"/>
+<Unit id="Timmy4"/>
+<Unit id="Timmy5"/>
+<Unit id="Duneworm2"/>
+<Unit id="TarElemental"/>
+<Unit id="StrawDummy"/>
+<Unit id="Beastiary2"/>
+<Unit id="Drakk"/>
+<Unit id="Mikku"/>
+<Unit id="Winkie2"/>
+<Unit id="Winkie"/>
+<Unit id="WaterSample"/>
+<Unit id="MysticSteward"/>
+<Unit id="BeastMaster"/>
+<Unit id="TheCollector"/>
+<Unit id="RangersSteward"/>
+<Unit id="WarriorsSteward"/>
+<Unit id="Sign"/>
+<Unit id="Rikkit"/>
+<Unit id="Portal"/>
+<Unit id="CaptainZeke"/>
+<Unit id="Cluckers"/>
+<Unit id="Spike"/>
+<Unit id="Eggbert"/>
+<Unit id="Crate2"/>
+<Unit id="Timmy"/>
+<Unit id="WanderingBeast"/>
+<Unit id="TrainedStag"/>
+<Unit id="Grain"/>
+<Unit id="DeadKarl"/>
+<Unit id="OldMarv"/>
+<Unit id="CactusFlower"/>
+<Unit id="Discharge"/>
+<Upgrade id="PowerfulStrike"/>
+<Upgrade id="Charge5"/>
+<Upgrade id="Smash"/>
+<Upgrade id="BrillianceAura"/>
+<Upgrade id="Blessing"/>
+<Upgrade id="Hamstring"/>
+<Upgrade id="DesecrateGround3"/>
+<Upgrade id="NaturesBlessing"/>
+<Upgrade id="Tranquility"/>
+<Upgrade id="Sunwell"/>
+<Upgrade id="StaticBarrier"/>
+<Upgrade id="EnergyBlasts"/>
+<Upgrade id="CrushingOrb"/>
+<Upgrade id="VoidOrb"/>
+<Upgrade id="TimeWarp"/>
+<Upgrade id="DoomRoots"/>
+<Upgrade id="Flamestrike"/>
+<Upgrade id="ShadowOrb"/>
+<Upgrade id="ShadowBlast"/>
+<Upgrade id="StormStrike"/>
+<Upgrade id="FireWall"/>
+<Upgrade id="PutridBreath"/>
+<Upgrade id="BearTrap2"/>
+<Upgrade id="Invigorate"/>
+<Upgrade id="TimeTrance"/>
+<Upgrade id="LifeBloom"/>
+<Upgrade id="FlyOver"/>
+<Upgrade id="HamstringTrap"/>
+<Upgrade id="BlindingBolts"/>
+<Upgrade id="BattleHeal"/>
+<Upgrade id="DrillPeck"/>
+<Upgrade id="TerrifyingRoar"/>
+<Upgrade id="StormBolt"/>
+<Upgrade id="QuicknessAura"/>
+<Upgrade id="FaerieFire"/>
+<Upgrade id="RainofArrows"/>
+<Upgrade id="SunlightArrows"/>
+<Upgrade id="GreatArrow"/>
+<Upgrade id="LeapofFaith"/>
+<Upgrade id="SharedSteelAura"/>
+<Upgrade id="ChargeThrough"/>
+<Upgrade id="Coagulate"/>
+<Upgrade id="Focus"/>
+<Upgrade id="HardenedSkin"/>
+<Upgrade id="Leap2"/>
+<Upgrade id="BloodFeast"/>
+<Upgrade id="EchoingRoar"/>
+<Upgrade id="Headbutt"/>
+<Upgrade id="ShadowForm"/>
+<Upgrade id="DuskWalk"/>
+<Upgrade id="Slash"/>
+<Upgrade id="EmpoweringTaunt"/>
+<Upgrade id="DarkArrows"/>
+<Upgrade id="Thrash"/>
+<Upgrade id="HurlBlade"/>
+<Upgrade id="Whirl"/>
+<Upgrade id="Shiv"/>
+<Upgrade id="GravityBomb"/>
+<Upgrade id="Conflagration"/>
+<Upgrade id="ConcentrationAura"/>
+<Upgrade id="MagicEnhancedAttacks"/>
+<Upgrade id="MeteorStorm"/>
+<Upgrade id="HolyFire"/>
+<Upgrade id="HolyLight"/>
+<Upgrade id="DivineShield"/>
+<Upgrade id="SlowTime"/>
+<Upgrade id="Mend2"/>
+<Upgrade id="Rejuvenate2"/>
+<Upgrade id="Sprites"/>
+<Upgrade id="ForcePush"/>
+<Upgrade id="Jynx"/>
+<Upgrade id="Leap"/>
+<Upgrade id="CompanionAura"/>
+<Upgrade id="CritEnergy"/>
+<Upgrade id="BloodDrinkerAura"/>
+<Upgrade id="Headshot"/>
+<Upgrade id="Gust"/>
+<Upgrade id="Mark3"/>
+<Upgrade id="RallyCry2"/>
+<Upgrade id="RallyCry3"/>
+<Upgrade id="LayofHands"/>
+<Upgrade id="Fly"/>
+<Upgrade id="ShieldSlam4"/>
+<Upgrade id="BlindingLance"/>
+<Upgrade id="ConcussionShell"/>
+<Upgrade id="ShoulderRam"/>
+<Upgrade id="ThrowSword"/>
+<Upgrade id="SliceAndDice"/>
+<Upgrade id="FrenzyCrit"/>
+<Upgrade id="Smite"/>
+<Upgrade id="InnerFire2"/>
+<Upgrade id="InnerFire3"/>
+<Upgrade id="LifeDrain"/>
+<Upgrade id="Bloodlust2"/>
+<Upgrade id="Bloodlust3"/>
+<Upgrade id="CloakofFlames2"/>
+<Upgrade id="CloakofFlames3"/>
+<Upgrade id="DesecrateGround"/>
+<Upgrade id="DesecrateGround2"/>
+<Upgrade id="HailStorm"/>
+<Upgrade id="FrostBolt2"/>
+<Upgrade id="CloakofFlames"/>
+<Upgrade id="Empower"/>
+<Upgrade id="DeathTouch"/>
+<Upgrade id="LightningBall"/>
+<Upgrade id="InnerFire"/>
+<Upgrade id="LightningBall2"/>
+<Upgrade id="LightningBall3"/>
+<Upgrade id="Rejuvenate"/>
+<Upgrade id="BlinkSmash"/>
+<Upgrade id="PhaseShift"/>
+<Upgrade id="HolyAttacks"/>
+<Upgrade id="SoulShift"/>
+<Upgrade id="ClawFrenzy"/>
+<Upgrade id="FearWard"/>
+<Upgrade id="FireArrow2"/>
+<Upgrade id="Cyclone"/>
+<Upgrade id="BearTrap"/>
+<Upgrade id="RapidReload"/>
+<Upgrade id="Mend"/>
+<Upgrade id="SpitFire"/>
+<Upgrade id="SummonPet"/>
+<Upgrade id="DefensiveStance"/>
+<Upgrade id="Charge2"/>
+<Upgrade id="Impale"/>
+<Upgrade id="Bloodlust"/>
+<Upgrade id="FireArrow"/>
+<Upgrade id="Impale2"/>
+<Upgrade id="Kick2"/>
+<Upgrade id="Mark"/>
+<Upgrade id="Mark2"/>
+<Upgrade id="PowerfulStrike2"/>
+<Upgrade id="PowerfulStrike3"/>
+<Upgrade id="BloodRage"/>
+<Upgrade id="Avatar"/>
+<Upgrade id="ShieldingStrikes"/>
+<Upgrade id="Shockwave"/>
+<Upgrade id="RallyCry"/>
+<Upgrade id="ShieldSlam2"/>
+<Upgrade id="ShieldSlam3"/>
+<Upgrade id="StringofDaggers"/>
+<Upgrade id="ShadowStep"/>
+<Upgrade id="SummonPet2"/>
+<Upgrade id="SummonPet3"/>
+<Upgrade id="SummonPet4"/>
+<Upgrade id="SummonPet5"/>
+<Upgrade id="Taunt2"/>
+<Upgrade id="Taunt3"/>
+<Upgrade id="Windwalk"/>
+<Upgrade id="Taunt"/>
+<Upgrade id="PassiveDummy"/>
+<Upgrade id="FrostBolt"/>
+<Upgrade id="Frenzy"/>
+<Upgrade id="ShieldSlam"/>
+<Upgrade id="Kick"/>
+<Upgrade id="FeignDeath"/>
+<Upgrade id="Assassinate"/>
+</Preload>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BankList>
+    <Bank Name="TheCaveRPGA1" Player="1"/>
+    <Bank Name="TheCaveRPGA1" Player="2"/>
+    <Bank Name="TheCaveRPGA1" Player="3"/>
+    <Bank Name="TheCaveRPGA1" Player="4"/>
+    <Bank Name="TheCaveRPGA1" Player="5"/>
+    <Bank Name="TheCaveRPGA1" Player="6"/>
+    <Bank Name="TheCaveRPGA1" Player="7"/>
+    <Bank Name="TheCaveRPGA1" Player="8"/>
+    <Bank Name="TheCaveRPGA1" Player="9"/>
+    <Bank Name="TheCaveRPGA1" Player="10"/>
+    <Bank Name="TheCaveRPG" Player="1"/>
+    <Bank Name="TheCaveRPG" Player="2"/>
+    <Bank Name="TheCaveRPG" Player="3"/>
+    <Bank Name="TheCaveRPG" Player="4"/>
+    <Bank Name="TheCaveRPG" Player="5"/>
+    <Bank Name="TheCaveRPG" Player="6"/>
+    <Bank Name="TheCaveRPG" Player="7"/>
+    <Bank Name="TheCaveRPG" Player="8"/>
+    <Bank Name="TheCaveRPG" Player="9"/>
+    <Bank Name="TheCaveRPG" Player="10"/>
+</BankList>

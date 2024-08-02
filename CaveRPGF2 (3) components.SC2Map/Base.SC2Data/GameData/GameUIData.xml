@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Catalog>
+    <CGameUI id="Dflt">
+        <LoadingScreenHelpIntro index="0" removed="1"/>
+        <LoadingScreenHelpIntro index="1" removed="1"/>
+        <LoadingScreenHelpIntro index="2" removed="1"/>
+        <LoadingScreenHelp index="0" removed="1"/>
+        <LoadingScreenHelp index="1" removed="1"/>
+        <LoadingScreenHelp index="2" removed="1"/>
+        <LoadingScreenHelp index="3" removed="1"/>
+        <LoadingScreenHelp index="4" removed="1"/>
+        <LoadingScreenHelp index="5" removed="1"/>
+        <LoadingScreenHelp index="6" removed="1"/>
+        <LoadingScreenHelp index="7" removed="1"/>
+        <LoadingScreenHelp index="8" removed="1"/>
+        <LoadingScreenHelp index="9" removed="1"/>
+        <LoadingScreenHelp index="10" removed="1"/>
+        <LoadingScreenHelp index="11" removed="1"/>
+        <LoadingScreenHelp index="12" removed="1"/>
+        <LoadingScreenHelp index="13" removed="1"/>
+        <LoadingScreenHelp index="14" removed="1"/>
+        <LoadingScreenHelp index="15" removed="1"/>
+        <LoadingScreenHelp index="16" removed="1"/>
+        <LoadingScreenHelp index="17" removed="1"/>
+        <LoadingScreenHelp index="18" removed="1"/>
+        <LoadingScreenHelp index="19" removed="1"/>
+        <LoadingScreenHelp index="20" removed="1"/>
+        <LoadingScreenHelp index="21" removed="1"/>
+        <LoadingScreenHelp index="22" removed="1"/>
+        <LoadingScreenHelp index="23" removed="1"/>
+        <LoadingScreenHelp index="24" removed="1"/>
+        <LoadingScreenHelp index="25" removed="1"/>
+        <LoadingScreenHelp index="26" removed="1"/>
+        <LoadingScreenHelp index="27" removed="1"/>
+        <LoadingScreenHelp index="28" removed="1"/>
+        <LoadingScreenHelp index="29" removed="1"/>
+        <LoadingScreenHelp index="30" removed="1"/>
+        <LoadingScreenHelp index="31" removed="1"/>
+        <LoadingScreenHelp index="32" removed="1"/>
+        <LoadingScreenHelp index="33" removed="1"/>
+        <LoadingScreenHelp index="34" removed="1"/>
+        <LoadingScreenHelp index="35" removed="1"/>
+        <LoadingScreenHelp index="36" removed="1"/>
+        <LoadingScreenHelp index="37" removed="1"/>
+        <LoadingScreenHelp index="38" removed="1"/>
+        <LoadingScreenHelp index="39" removed="1"/>
+        <LoadingScreenHelp index="40" removed="1"/>
+        <LoadingScreenHelp index="41" removed="1"/>
+        <LoadingScreenHelp index="42" removed="1"/>
+        <LoadingScreenHelp index="43" removed="1"/>
+        <LoadingScreenHelp index="44" removed="1"/>
+        <LoadingScreenHelp index="45" removed="1"/>
+        <LoadingScreenHelp index="46" removed="1"/>
+        <LoadingScreenHelp index="47" removed="1"/>
+        <LoadingScreenHelp index="48" removed="1"/>
+        <LoadingScreenHelp index="49" removed="1"/>
+        <LoadingScreenHelp index="50" removed="1"/>
+        <LoadingScreenHelp index="51" removed="1"/>
+        <LoadingScreenHelp index="52" removed="1"/>
+        <LoadingScreenHelp index="53" removed="1"/>
+        <LoadingScreenHelp index="54" removed="1"/>
+        <LoadingScreenHelp index="55" removed="1"/>
+        <LoadingScreenHelp index="56" removed="1"/>
+        <LoadingScreenHelp index="57" removed="1"/>
+        <LoadingScreenHelp index="58" removed="1"/>
+        <LoadingScreenHelp index="59" removed="1"/>
+        <LoadingScreenHelp index="60" removed="1"/>
+        <LoadingScreenHelp index="61" removed="1"/>
+        <HotkeyInfoArray index="FPS" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="Music" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="Sound" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="PTT" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="DisplayMode" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ChatAll" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ChatAllies" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ChatCancel" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ChatDefault" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ChatIndividual" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ChatRecipient" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ChatSend" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="DialogDismiss" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="MenuAchievements" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="MenuGame" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="MenuMessages" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="MenuHelp" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="MenuSocial" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="LeaderNone" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="LeaderResources" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="LeaderIncome" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="LeaderSpending" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="LeaderUnits" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="LeaderStructures" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="LeaderUnitsLost" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="LeaderProduction" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="LeaderUpgrades" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="LeaderArmy" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="LeaderAPM" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="LeaderCPM" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ObserveAllPlayers" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ObserveAutoCamera" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ObserveClearSelection" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ObservePlayer0" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ObservePlayer1" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ObservePlayer2" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ObservePlayer3" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ObservePlayer4" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ObservePlayer5" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ObservePlayer6" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ObservePlayer7" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ObservePlayer8" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ObservePlayer9" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ObservePlayer10" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ObservePlayer11" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ObservePlayer12" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ObservePlayer13" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ObservePlayer14" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ObservePlayer15" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ObservePreview" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ObserveSelected" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ObserveStatusBars" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ObserveZoomCameraLevel1" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ObserveZoomCameraLevel2" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="NamePanel" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="StatPanelResources" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="StatPanelArmySupply" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="StatPanelUnitsLost" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="StatPanelAPM" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="StatPanelCPM" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ToggleVersusModeSides" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ToggleWorldPanel" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ConversationSkipOne" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="CinematicSkip" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="AICommunication" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="AIArmy" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="AIScout" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="AIDetect" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="AIExpand" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="AIBuild" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="AIClearAll" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="AIDelete" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="AIExit" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="AICancel" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="AlertRecall" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ArmySelect" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="CameraCenter" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="CameraFollow" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="CameraMoveUp" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="CameraMoveDown" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="CameraMoveLeft" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="CameraMoveRight" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="CameraTurnLeft" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="CameraTurnRight" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="CameraZoomFirst" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="CameraZoomLast" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="CameraZoomNext" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="CameraZoomPrev" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="CameraPush" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="CommanderAbility0" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="CommanderAbility1" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="CommanderAbility2" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="CommanderAbility3" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupAppend0" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupAppend1" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupAppend2" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupAppend3" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupAppend4" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupAppend5" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupAppend6" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupAppend7" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupAppend8" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupAppend9" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupAppendAndSteal0" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupAppendAndSteal1" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupAppendAndSteal2" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupAppendAndSteal3" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupAppendAndSteal4" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupAppendAndSteal5" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupAppendAndSteal6" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupAppendAndSteal7" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupAppendAndSteal8" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupAppendAndSteal9" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupAssign0" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupAssign1" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupAssign2" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupAssign3" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupAssign4" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupAssign5" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupAssign6" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupAssign7" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupAssign8" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupAssign9" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupAssignAndSteal0" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupAssignAndSteal1" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupAssignAndSteal2" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupAssignAndSteal3" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupAssignAndSteal4" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupAssignAndSteal5" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupAssignAndSteal6" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupAssignAndSteal7" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupAssignAndSteal8" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupAssignAndSteal9" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupRecall0" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupRecall1" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupRecall2" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupRecall3" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupRecall4" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupRecall5" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupRecall6" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupRecall7" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupRecall8" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ControlGroupRecall9" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="GameSpeedDec" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="GameSpeedInc" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="GameTooltipsOn" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="HeroSelect0" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="HeroSelect1" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="HeroSelect2" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="HeroSelect3" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="HeroSelect4" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="HeroSelect5" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="IdleWorker" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="InventoryButtonAlt0" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="InventoryButtonAlt1" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="InventoryButtonAlt2" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="InventoryButtonAlt3" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="InventoryButtonAlt4" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="InventoryButtonAlt5" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="InventoryButtonAlt6" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="InventoryButtonAlt7" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="InventoryButtonUse0" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="InventoryButtonUse1" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="InventoryButtonUse2" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="InventoryButtonUse3" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="InventoryButtonUse4" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="InventoryButtonUse5" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="InventoryButtonUse6" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="InventoryButtonUse7" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="MinimapColors" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="MinimapPing" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="MinimapTargetingView" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="MinimapNormalView" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="MinimapTerrain" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="PauseGame" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="Ping" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="QuickPing" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="QuickSave" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ReplayPlayPause" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ReplayRestart" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ReplaySkipBack" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ReplaySkipNext" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ReplaySpeedDec" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ReplaySpeedInc" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ReplayStop" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="ReplayHide" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="Screenshot" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="SelectionCancelDrag" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="Selection" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="SmartCommand" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="StatusAll" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="StatusOwner" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="StatusAlly" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="StatusEnemy" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="SubgroupNext" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="SubgroupPrev" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="TargetCancel" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="TargetChoose" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="TeamResources" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="TownCamera" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="WarpIn" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="CommandButton00" Category="" Name=""/>
+        <HotkeyInfoArray index="CommandButton01" Category="" Name=""/>
+        <HotkeyInfoArray index="CommandButton02" Category="" Name=""/>
+        <HotkeyInfoArray index="CommandButton03" Category="" Name=""/>
+        <HotkeyInfoArray index="CommandButton04" Category="" Name=""/>
+        <HotkeyInfoArray index="CommandButton05" Category="" Name=""/>
+        <HotkeyInfoArray index="CommandButton06" Category="" Name=""/>
+        <HotkeyInfoArray index="CommandButton07" Category="" Name=""/>
+        <HotkeyInfoArray index="CommandButton08" Category="" Name=""/>
+        <HotkeyInfoArray index="CommandButton09" Category="" Name=""/>
+        <HotkeyInfoArray index="CommandButton10" Category="" Name=""/>
+        <HotkeyInfoArray index="CommandButton11" Category="" Name=""/>
+        <HotkeyInfoArray index="CommandButton12" Category="" Name=""/>
+        <HotkeyInfoArray index="CommandButton13" Category="" Name=""/>
+        <HotkeyInfoArray index="CommandButton14" Category="" Name=""/>
+        <HotkeyInfoArray index="CameraSave0" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="CameraSave1" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="CameraSave2" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="CameraSave3" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="CameraSave4" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="CameraSave5" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="CameraSave6" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="CameraSave7" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="CameraView0" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="CameraView1" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="CameraView2" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="CameraView3" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="CameraView4" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="CameraView5" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="CameraView6" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="CameraView7" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="UIEditorToggle" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="UIEditorReload" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="UIEditorSaveSelected" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="UIEditorSaveAll" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="UIEditorUndo" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="UIEditorRedo" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="UIEditorDeselect" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="UIEditorShowInfoTooltip" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="UIEditorToggleVisible" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="UIEditorHoverControls" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="UIEditorLockInfoTooltip" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="UIEditorOutlineAnchors" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="UIEditorIncreaseGridSpacing" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="UIEditorDecreaseGridSpacing" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="UIEditorToggleStateGroupOverlay" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="UIEditorSize720x406" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="UIEditorSize800x600" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="UIEditorSize1024x768" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="UIEditorSize1280x1024" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="UIEditorSize1280x960" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="UIEditorSize1280x720" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="UIEditorSize1680x1050" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="UIEditorSize1400x1050" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="UIEditorSize1920x1200" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="UIEditorSize1920x1080" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="UIEditorSize1600x1200" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="UIEditorSize2048x1536" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="UIEditorSize2560x1600" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="UIEditorSize2560x2048" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="UIEditorSize4096x2560" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="UIEditorSize4096x2304" Category="" Name="" Tooltip=""/>
+        <HotkeyInfoArray index="UIEditorSize4096x3072" Category="" Name="" Tooltip=""/>
+        <HelpControlCategories index="0" removed="1"/>
+        <HelpControlCategories index="1" removed="1"/>
+        <HelpControlCategories index="2" removed="1"/>
+        <HelpControlCategories index="3" removed="1"/>
+        <HelpControlCategories index="4" removed="1"/>
+        <HelpControlCategories index="5" removed="1"/>
+        <HelpControls index="0" removed="1"/>
+        <HelpControls index="1" removed="1"/>
+        <HelpControls index="2" removed="1"/>
+        <HelpControls index="3" removed="1"/>
+        <HelpControls index="4" removed="1"/>
+        <HelpControls index="5" removed="1"/>
+        <HelpControls index="6" removed="1"/>
+        <HelpControls index="7" removed="1"/>
+        <HelpControls index="8" removed="1"/>
+        <HelpControls index="9" removed="1"/>
+        <HelpControls index="10" removed="1"/>
+        <HelpControls index="11" removed="1"/>
+        <HelpControls index="12" removed="1"/>
+        <HelpControls index="13" removed="1"/>
+        <HelpControls index="14" removed="1"/>
+        <HelpControls index="15" removed="1"/>
+        <HelpControls index="16" removed="1"/>
+        <HelpControls index="17" removed="1"/>
+        <HelpControls index="18" removed="1"/>
+        <HelpControls index="19" removed="1"/>
+        <HelpControls index="20" removed="1"/>
+        <HelpControls index="21" removed="1"/>
+        <HelpControls index="22" removed="1"/>
+        <HelpControls index="23" removed="1"/>
+        <HelpControls index="24" removed="1"/>
+        <HelpControls index="25" removed="1"/>
+        <HelpControls index="26" removed="1"/>
+        <HelpControls index="27" removed="1"/>
+        <HelpControls index="28" removed="1"/>
+        <HelpControls index="29" removed="1"/>
+        <HelpControls index="30" removed="1"/>
+        <HelpControls index="31" removed="1"/>
+        <HelpControls index="32" removed="1"/>
+        <HelpControls index="33" removed="1"/>
+        <HelpControls index="34" removed="1"/>
+        <HelpControls index="35" removed="1"/>
+        <HelpGameMechanics index="0" removed="1"/>
+        <HelpGameMechanics index="1" removed="1"/>
+        <HelpGameMechanics index="2" removed="1"/>
+        <HelpGameMechanics index="3" removed="1"/>
+        <HelpGameMechanics index="4" removed="1"/>
+        <HelpGameMechanics index="5" removed="1"/>
+        <HelpGameMechanics index="6" removed="1"/>
+        <HelpGameMechanics index="7" removed="1"/>
+        <HelpGameMechanics index="8" removed="1"/>
+        <HelpTechTitle value=""/>
+        <HelpHiddenInGlue value="0"/>
+        <HelpTechTreeSuffix value=""/>
+    </CGameUI>
+</Catalog>

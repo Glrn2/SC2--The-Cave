@@ -1,0 +1,4782 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Regions>
+    <region id="1">
+        <name value="Respawn - Farmer&apos;s Plot"/>
+        <color value="255,128,128,128"/>
+        <shape type="circle">
+            <center value="89.797,133.407"/>
+            <radius value="1.048"/>
+        </shape>
+    </region>
+    <region id="2">
+        <name value="R - Farmer&apos;s Plot (1-3)"/>
+        <color value="255,128,255,0"/>
+        <shape type="rect">
+            <quad value="86.2897,130.1108,96.6665,136.294"/>
+        </shape>
+        <shape type="diamond">
+            <center value="95.8596,133.9614"/>
+            <width value="5"/>
+            <height value="9.2644"/>
+        </shape>
+        <shape type="rect">
+            <quad value="89.444,135.1516,94.121,138.3845"/>
+        </shape>
+        <shape type="rect">
+            <quad value="98.7824,126.9316,100.672,132.4643"/>
+        </shape>
+        <shape type="rect">
+            <quad value="88.175,118.8996,100.6726,130.3947"/>
+        </shape>
+        <shape type="rect">
+            <quad value="95.6271,116.3596,112.5102,123.0895"/>
+        </shape>
+        <shape type="rect">
+            <quad value="90.2702,114.2753,96.8005,120.4648"/>
+        </shape>
+        <shape type="rect">
+            <quad value="94.908,111.3266,109.8603,118.0424"/>
+        </shape>
+        <shape type="rect">
+            <quad value="91.2058,104.3076,109.8457,114.5644"/>
+        </shape>
+        <shape type="rect">
+            <quad value="108.474,103.5312,112.397,111.8605"/>
+        </shape>
+        <shape type="rect">
+            <quad value="98.5998,103.4416,108.5954,105.0224"/>
+        </shape>
+        <shape type="rect">
+            <quad value="109.348,111.729,110.6247,116.4035"/>
+        </shape>
+        <shape type="rect">
+            <quad value="108.558,101.4614,112.3581,103.6562"/>
+        </shape>
+        <shape type="rect">
+            <quad value="106.9101,102.288,108.7893,103.67"/>
+        </shape>
+        <shape type="rect">
+            <quad value="85.2705,131.569,86.336,131.819"/>
+        </shape>
+        <shape type="rect">
+            <quad value="100.0732,102.5344,103.0368,103.5"/>
+        </shape>
+    </region>
+    <region id="3">
+        <name value="R - Abandoned Fields (3-5)"/>
+        <color value="255,255,255,0"/>
+        <shape type="rect">
+            <quad value="91.2414,98.5097,98.569,104.2968"/>
+        </shape>
+        <shape type="rect">
+            <quad value="98.4777,88.9704,111.8371,103.4143"/>
+        </shape>
+        <shape type="rect">
+            <quad value="96.653,86.4946,103.6394,89.279"/>
+        </shape>
+        <shape type="rect">
+            <quad value="80.9714,87.0292,98.6582,98.838"/>
+        </shape>
+        <shape type="rect">
+            <quad value="70.1301,97.9013,91.8085,104.342"/>
+        </shape>
+        <shape type="rect">
+            <quad value="103.2214,87.4091,110.513,90.005"/>
+        </shape>
+        <shape type="rect">
+            <quad value="78.779,88.6828,81.8012,98.9675"/>
+        </shape>
+        <shape type="rect">
+            <quad value="77.9558,92.5356,79.299,100.2866"/>
+        </shape>
+        <shape type="rect">
+            <quad value="77.0747,94.7465,78.485,99.495"/>
+        </shape>
+        <shape type="rect">
+            <quad value="70.136,96.9416,77.5214,102.5703"/>
+        </shape>
+        <shape type="rect">
+            <quad value="69.1096,98.3903,70.7224,106.195"/>
+        </shape>
+        <shape type="rect">
+            <quad value="68.1791,101.3376,69.7863,109.9252"/>
+        </shape>
+        <shape type="rect">
+            <quad value="68.9094,103.3344,73.072,109.9956"/>
+        </shape>
+        <shape type="diamond">
+            <center value="72.41,111.079"/>
+            <width value="14.4636"/>
+            <height value="4.346"/>
+        </shape>
+        <shape type="rect">
+            <quad value="89.3374,104.113,91.1557,114.2736"/>
+        </shape>
+        <shape type="rect">
+            <quad value="86.9187,113.7631,90.2302,118.8872"/>
+        </shape>
+        <shape type="rect">
+            <quad value="82.999,116.9497,88.1462,119.8381"/>
+        </shape>
+        <shape type="rect">
+            <quad value="75.3828,116.1281,83.164,119.3386"/>
+        </shape>
+        <shape type="rect">
+            <quad value="76.2824,102.9162,89.6413,116.442"/>
+        </shape>
+        <shape type="rect">
+            <quad value="82.4611,114.7912,87.9423,117.605"/>
+        </shape>
+        <shape type="rect">
+            <quad value="72.1926,102.009,77.3505,112.7583"/>
+        </shape>
+        <shape type="rect">
+            <quad value="80.1162,119.1926,83.0954,121.1787"/>
+        </shape>
+        <shape type="rect">
+            <negative/>
+            <quad value="100.0888,102.4604,103.1445,103.49"/>
+        </shape>
+        <shape type="rect">
+            <negative/>
+            <quad value="108.6423,101.0593,112.1093,103.6513"/>
+        </shape>
+        <shape type="rect">
+            <negative/>
+            <quad value="106.925,102.1491,108.7778,103.5002"/>
+        </shape>
+        <shape type="rect">
+            <quad value="110.5031,88.2524,114.4497,89.4045"/>
+        </shape>
+        <shape type="rect">
+            <quad value="63.8627,107.073,66.1828,107.7416"/>
+        </shape>
+    </region>
+    <region id="6">
+        <name value="R - Kings Forest (6-8)"/>
+        <color value="255,0,121,0"/>
+        <shape type="rect">
+            <quad value="81.6665,145.316,95.8154,152.3281"/>
+        </shape>
+        <shape type="rect">
+            <quad value="95.5781,144.992,100.1625,151.0678"/>
+        </shape>
+        <shape type="rect">
+            <quad value="99.5063,141.6938,114.557,151.7355"/>
+        </shape>
+        <shape type="rect">
+            <quad value="88.9291,138.7666,114.4887,146.4726"/>
+        </shape>
+        <shape type="diamond">
+            <center value="101.4111,139.2102"/>
+            <width value="10.1391"/>
+            <height value="8.8615"/>
+        </shape>
+        <shape type="rect">
+            <quad value="100.6186,123.1762,112.4311,133.5952"/>
+        </shape>
+        <shape type="rect">
+            <quad value="100.9931,131.63,114.5312,140.5034"/>
+        </shape>
+        <shape type="rect">
+            <quad value="113.221,128.0478,115.43,137.8635"/>
+        </shape>
+        <shape type="rect">
+            <quad value="110.1464,127.5134,113.5012,132.8247"/>
+        </shape>
+        <shape type="rect">
+            <quad value="76.0861,145.2336,81.8203,159.325"/>
+        </shape>
+        <shape type="rect">
+            <quad value="61.5678,128.3405,86.196,146.7272"/>
+        </shape>
+        <shape type="rect">
+            <quad value="85.1323,136.7021,89.2888,145.802"/>
+        </shape>
+        <shape type="rect">
+            <quad value="74.8591,119.4948,82.8886,126.6477"/>
+        </shape>
+        <shape type="rect">
+            <quad value="82.6545,119.907,88.1271,126.5698"/>
+        </shape>
+        <shape type="rect">
+            <quad value="63.063,126.5888,88.1062,130.1762"/>
+        </shape>
+        <shape type="diamond">
+            <center value="67.025,114.9968"/>
+            <width value="14.8212"/>
+            <height value="8.3837"/>
+        </shape>
+        <shape type="rect">
+            <quad value="57.119,112.459,70.138,126.719"/>
+        </shape>
+        <shape type="rect">
+            <quad value="69.9895,117.4284,75.2114,126.6564"/>
+        </shape>
+        <shape type="rect">
+            <quad value="61.4616,126.2836,63.186,137.8518"/>
+        </shape>
+        <shape type="rect">
+            <quad value="56.0393,122.2888,63.053,126.777"/>
+        </shape>
+        <shape type="rect">
+            <quad value="51.1347,118.5004,57.9504,123.438"/>
+        </shape>
+        <shape type="rect">
+            <quad value="50.3176,112.194,57.8764,118.5415"/>
+        </shape>
+        <shape type="rect">
+            <quad value="51.4001,106.2604,56.1245,112.5212"/>
+        </shape>
+        <shape type="rect">
+            <quad value="55.5986,107.067,64.44,112.8198"/>
+        </shape>
+        <shape type="rect">
+            <quad value="57.547,156.1713,77.8176,163.8957"/>
+        </shape>
+        <shape type="rect">
+            <quad value="57.9787,145.2646,61.8041,150.3132"/>
+        </shape>
+        <shape type="rect">
+            <quad value="59.125,141.588,62.1884,145.8012"/>
+        </shape>
+        <shape type="rect">
+            <quad value="60.0742,136.7285,63.2297,141.7795"/>
+        </shape>
+        <shape type="rect">
+            <quad value="59.2788,145.2368,77.7482,161.7421"/>
+        </shape>
+        <shape type="diamond">
+            <center value="78.3137,159.5698"/>
+            <width value="4.5676"/>
+            <height value="7.5"/>
+        </shape>
+        <shape type="rect">
+            <quad value="58.6945,105.742,63.3872,107.4262"/>
+        </shape>
+        <shape type="rect">
+            <quad value="71.9492,163.798,75.2221,165.192"/>
+        </shape>
+        <shape type="rect">
+            <negative/>
+            <quad value="79.9836,119.4655,83.1242,121.2053"/>
+        </shape>
+        <shape type="rect">
+            <quad value="82.193,125.1552,88.1391,127.2822"/>
+        </shape>
+        <shape type="rect">
+            <quad value="115.2985,129.1865,118.348,130.049"/>
+        </shape>
+        <shape type="rect">
+            <quad value="56.6083,103.782,56.9995,107.163"/>
+        </shape>
+        <shape type="rect">
+            <quad value="111.6823,121.3928,112.1628,123.38"/>
+        </shape>
+        <shape type="rect">
+            <quad value="49.6435,113.4196,50.5227,118.2297"/>
+        </shape>
+        <shape type="rect">
+            <quad value="47.9387,117.6655,49.9465,118.0786"/>
+        </shape>
+    </region>
+    <region id="7">
+        <name value="R - Dark Forest (11-12)"/>
+        <color value="255,128,64,0"/>
+        <shape type="rect">
+            <quad value="56.153,102.171,66.2097,107.0146"/>
+        </shape>
+        <shape type="diamond">
+            <center value="65.9597,105.2924"/>
+            <width value="2.57"/>
+            <height value="3.3847"/>
+        </shape>
+        <shape type="rect">
+            <quad value="56.1701,100.733,68.0456,104.9794"/>
+        </shape>
+        <shape type="rect">
+            <quad value="56.1643,97.8757,69.0046,101.312"/>
+        </shape>
+        <shape type="rect">
+            <quad value="56.5146,94.613,70.0302,98.368"/>
+        </shape>
+        <shape type="rect">
+            <quad value="56.6105,91.3908,76.9624,96.9011"/>
+        </shape>
+        <shape type="rect">
+            <quad value="75.5251,91.4663,77.8356,94.7597"/>
+        </shape>
+        <shape type="rect">
+            <quad value="57.3261,88.978,78.6606,92.5644"/>
+        </shape>
+        <shape type="rect">
+            <quad value="60.284,82.8571,78.6828,89.2968"/>
+        </shape>
+        <shape type="rect">
+            <quad value="77.5771,82.915,80.838,88.6738"/>
+        </shape>
+        <shape type="rect">
+            <quad value="62.3916,77.4157,80.8061,83.3796"/>
+        </shape>
+        <shape type="rect">
+            <quad value="71.4355,75.1604,84.3947,78.44"/>
+        </shape>
+        <shape type="rect">
+            <quad value="80.6225,75.5266,96.5554,87.071"/>
+        </shape>
+        <shape type="rect">
+            <quad value="91.0961,73.8813,97.3063,76.3581"/>
+        </shape>
+        <shape type="rect">
+            <quad value="96.4216,74.6257,103.6423,86.502"/>
+        </shape>
+        <shape type="rect">
+            <quad value="103.6032,75.5134,117.3637,87.3325"/>
+        </shape>
+        <shape type="rect">
+            <quad value="110.5434,86.2656,114.6743,88.2788"/>
+        </shape>
+        <shape type="rect">
+            <quad value="116.1494,73.2236,118.185,78.089"/>
+        </shape>
+        <shape type="rect">
+            <quad value="112.0678,73.096,116.4768,76.0407"/>
+        </shape>
+        <shape type="rect">
+            <quad value="110.0532,74.5961,112.3247,76.3374"/>
+        </shape>
+        <shape type="rect">
+            <quad value="63.3903,106.6694,65.6433,108.5693"/>
+        </shape>
+        <shape type="rect">
+            <negative/>
+            <quad value="58.6826,105.8105,63.4606,107.028"/>
+        </shape>
+        <shape type="rect">
+            <quad value="118.1,76.0771,119.4794,76.4235"/>
+        </shape>
+        <shape type="rect">
+            <quad value="115.2668,72.4914,115.98,73.1518"/>
+        </shape>
+        <shape type="rect">
+            <quad value="54.5971,105.022,56.258,105.7917"/>
+        </shape>
+    </region>
+    <region id="9">
+        <name value="R - The Ledge(12-14)"/>
+        <color value="255,255,255,0"/>
+        <shape type="rect">
+            <quad value="46.1552,142.4567,57.9648,148.382"/>
+        </shape>
+        <shape type="rect">
+            <quad value="46.9997,148.0126,54.631,150.0834"/>
+        </shape>
+        <shape type="rect">
+            <quad value="56.038,126.8286,61.2321,135.7934"/>
+        </shape>
+        <shape type="rect">
+            <quad value="58.6804,135.3581,60.9855,140.8295"/>
+        </shape>
+        <shape type="rect">
+            <quad value="57.4514,139.9152,59.6462,145.2045"/>
+        </shape>
+        <shape type="rect">
+            <quad value="44.0151,140.816,46.2575,146.8244"/>
+        </shape>
+        <shape type="rect">
+            <quad value="42.5185,138.9443,44.278,143.8586"/>
+        </shape>
+        <shape type="rect">
+            <quad value="40.8188,133.643,43.4472,140.9816"/>
+        </shape>
+        <shape type="rect">
+            <quad value="37.3237,130.9255,40.963,135.0488"/>
+        </shape>
+        <shape type="rect">
+            <quad value="34.4377,112.6713,49.8088,127.589"/>
+        </shape>
+        <shape type="rect">
+            <quad value="49.1713,119.224,51.1611,127.625"/>
+        </shape>
+        <shape type="rect">
+            <quad value="50.8942,123.5493,56.1313,127.6291"/>
+        </shape>
+        <shape type="rect">
+            <quad value="35.9523,130.6428,37.9533,133.8747"/>
+        </shape>
+        <shape type="rect">
+            <quad value="34.5122,127.2097,36.262,132.8215"/>
+        </shape>
+        <shape type="rect">
+            <quad value="32.4218,106.5351,34.9802,129.2053"/>
+        </shape>
+        <shape type="rect">
+            <quad value="30.647,107.0295,32.762,118.0788"/>
+        </shape>
+        <shape type="rect">
+            <quad value="33.3618,104.492,35.1052,107.151"/>
+        </shape>
+        <shape type="rect">
+            <quad value="34.7753,88.7795,36.8237,105.1145"/>
+        </shape>
+        <shape type="rect">
+            <quad value="48.0947,103.1335,51.533,112.2187"/>
+        </shape>
+        <shape type="rect">
+            <quad value="46.9748,111.905,50.7695,113.3635"/>
+        </shape>
+        <shape type="rect">
+            <quad value="46.8776,98.6733,56.2055,104.6855"/>
+        </shape>
+        <shape type="rect">
+            <quad value="51.0104,103.7536,52.7077,106.6733"/>
+        </shape>
+        <shape type="rect">
+            <quad value="51.8554,103.9685,55.922,105.6435"/>
+        </shape>
+        <shape type="rect">
+            <quad value="58.6186,68.8627,62.651,83.1784"/>
+        </shape>
+        <shape type="rect">
+            <quad value="55.5866,82.897,60.157,89.123"/>
+        </shape>
+        <shape type="rect">
+            <quad value="51.7412,88.2258,57.0288,98.809"/>
+        </shape>
+        <shape type="rect">
+            <quad value="47.361,66.6948,52.0688,67.9123"/>
+        </shape>
+        <shape type="rect">
+            <quad value="50.8344,65.3317,57.2031,66.9746"/>
+        </shape>
+        <shape type="rect">
+            <quad value="51.9492,64.2004,55.887,65.3876"/>
+        </shape>
+        <shape type="rect">
+            <quad value="56.0202,66.3835,57.7832,69.7526"/>
+        </shape>
+        <shape type="rect">
+            <quad value="57.3015,67.7553,59.2504,70.396"/>
+        </shape>
+        <shape type="rect">
+            <quad value="44.8747,68.9565,47.694,79.3801"/>
+        </shape>
+        <shape type="rect">
+            <quad value="46.033,68.2075,48.6767,69.4252"/>
+        </shape>
+        <shape type="rect">
+            <quad value="46.6303,67.2431,49.305,68.745"/>
+        </shape>
+        <shape type="diamond">
+            <center value="39.0534,87.4375"/>
+            <width value="2.4196"/>
+            <height value="6.2995"/>
+        </shape>
+        <shape type="rect">
+            <quad value="40.4377,84.5947,44.6193,86.2666"/>
+        </shape>
+        <shape type="rect">
+            <quad value="42.8544,78.934,45.8305,84.8044"/>
+        </shape>
+        <shape type="rect">
+            <quad value="43.0395,127.1252,59.2873,142.9406"/>
+        </shape>
+        <shape type="rect">
+            <quad value="35.7485,124.789,43.7478,134.3098"/>
+        </shape>
+        <shape type="rect">
+            <quad value="34.6484,89.449,52.3308,112.8281"/>
+        </shape>
+        <shape type="rect">
+            <quad value="45.125,72.429,58.702,89.7934"/>
+        </shape>
+        <shape type="rect">
+            <quad value="38.7236,84.645,45.7211,94.0732"/>
+        </shape>
+        <shape type="rect">
+            <quad value="47.5356,66.8574,58.9047,72.9138"/>
+        </shape>
+        <shape type="rect">
+            <quad value="45.4858,150.0227,48.8303,150.6186"/>
+        </shape>
+        <shape type="rect">
+            <quad value="62.4423,72.8591,63.4357,77.35"/>
+        </shape>
+        <shape type="rect">
+            <quad value="48.2211,149.881,48.8007,151.341"/>
+        </shape>
+        <shape type="rect">
+            <quad value="28.0793,111.4733,30.798,112.5327"/>
+        </shape>
+        <shape type="rect">
+            <quad value="53.065,62.537,54.3752,64.37"/>
+        </shape>
+        <shape type="rect">
+            <quad value="62.5351,76.9731,65.5144,77.5205"/>
+        </shape>
+    </region>
+    <region id="10">
+        <name value="Q World&apos;s End Keep Kick 1"/>
+        <color value="255,128,128,128"/>
+        <shape type="rect">
+            <quad value="109.6286,112.5014,111.1284,116.0012"/>
+        </shape>
+    </region>
+    <region id="11">
+        <name value="Q World&apos;s End Keep Kick 2"/>
+        <color value="255,128,128,128"/>
+        <shape type="rect">
+            <quad value="108.1835,113.9196,108.6833,114.4194"/>
+        </shape>
+    </region>
+    <region id="12">
+        <name value="Q Abandoned Fields K1"/>
+        <color value="255,128,128,128"/>
+        <shape type="rect">
+            <quad value="99.8061,101.7392,103.306,103.239"/>
+        </shape>
+    </region>
+    <region id="13">
+        <name value="Q Abandoned Fields K2"/>
+        <color value="255,128,128,128"/>
+        <shape type="rect">
+            <quad value="101.2482,105.4748,101.748,105.9746"/>
+        </shape>
+    </region>
+    <region id="14">
+        <name value="Vendor - Trainer"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="114.003,116.9768"/>
+            <radius value="0.4"/>
+        </shape>
+    </region>
+    <region id="15">
+        <name value="Vendor - Innkeeper"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="113.7275,122.4238"/>
+            <radius value="0.4"/>
+        </shape>
+    </region>
+    <region id="16">
+        <name value="Vendor - Army"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="122.166,124.721"/>
+            <radius value="0.4"/>
+        </shape>
+    </region>
+    <region id="17">
+        <name value="Vendor - Bank"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="127.9604,124.9733"/>
+            <radius value="0.4"/>
+        </shape>
+    </region>
+    <region id="18">
+        <name value="Vendor - Alchemy"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="129.963,114.0812"/>
+            <radius value="0.4"/>
+        </shape>
+    </region>
+    <region id="19">
+        <name value="Vendor - Blacksmith"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="122.4875,120.5351"/>
+            <radius value="0.4"/>
+        </shape>
+    </region>
+    <region id="20">
+        <name value="R - Arid Hills (14-17)"/>
+        <color value="255,211,123,3"/>
+        <shape type="rect">
+            <quad value="115.979,162.5485,139.6303,172.5485"/>
+        </shape>
+        <shape type="rect">
+            <quad value="114.61,168.516,116.0407,172.5556"/>
+        </shape>
+        <shape type="rect">
+            <quad value="116.0126,160.6748,117.6491,162.6745"/>
+        </shape>
+        <shape type="rect">
+            <quad value="125.8386,152.4411,141.4477,157.2033"/>
+        </shape>
+        <shape type="rect">
+            <quad value="138.809,147.8205,152.3222,172.2397"/>
+        </shape>
+        <shape type="rect">
+            <quad value="125.008,156.7312,140.6171,162.7312"/>
+        </shape>
+        <shape type="rect">
+            <quad value="149.5307,167.4306,153.348,173.4257"/>
+        </shape>
+        <shape type="rect">
+            <quad value="149.5808,173.2302,151.3056,175.2641"/>
+        </shape>
+        <shape type="rect">
+            <quad value="137.2353,171.8564,149.6657,175.8034"/>
+        </shape>
+        <shape type="rect">
+            <quad value="149.5957,158.743,153.4204,163.5993"/>
+        </shape>
+        <shape type="rect">
+            <quad value="151.7023,162.3364,155.1823,167.7722"/>
+        </shape>
+        <shape type="rect">
+            <quad value="125.9941,149.888,141,152.4377"/>
+        </shape>
+        <shape type="rect">
+            <quad value="126.0434,129.0356,149.1445,150.0703"/>
+        </shape>
+        <shape type="rect">
+            <quad value="148.8303,135.8793,153.2553,157.2866"/>
+        </shape>
+        <shape type="rect">
+            <quad value="150.1254,156.4558,155.0908,159.3071"/>
+        </shape>
+        <shape type="rect">
+            <quad value="127.881,127.0207,149.2026,129.1796"/>
+        </shape>
+        <shape type="rect">
+            <quad value="132.028,118.2495,149.0922,127.0498"/>
+        </shape>
+        <shape type="diamond">
+            <center value="149.8662,134.5422"/>
+            <width value="8.0432"/>
+            <height value="2.994"/>
+        </shape>
+        <shape type="rect">
+            <quad value="115.3608,164.2583,116.046,168.7011"/>
+        </shape>
+        <shape type="rect">
+            <quad value="113.2453,171.2634,114.7004,171.609"/>
+        </shape>
+        <shape type="rect">
+            <quad value="132.1838,115.1984,132.669,118.2695"/>
+        </shape>
+        <shape type="rect">
+            <quad value="134.841,116.76,139.3637,118.491"/>
+        </shape>
+        <shape type="rect">
+            <quad value="125.8452,151.0275,140.7448,154.502"/>
+        </shape>
+        <shape type="rect">
+            <quad value="136.3107,173.1013,137.2404,176.936"/>
+        </shape>
+        <shape type="rect">
+            <quad value="152.8828,155.8295,156.7458,156.563"/>
+        </shape>
+    </region>
+    <region id="22">
+        <name value="R - Marshlands (19-21)"/>
+        <color value="255,64,128,128"/>
+        <shape type="rect">
+            <quad value="132.0915,88.4577,164.898,118.2897"/>
+        </shape>
+        <shape type="rect">
+            <quad value="133.5068,81.613,145.031,91.6406"/>
+        </shape>
+        <shape type="rect">
+            <quad value="135.3454,76.2375,145.6428,82.2187"/>
+        </shape>
+        <shape type="rect">
+            <quad value="145.1257,76.0183,153.5808,80.083"/>
+        </shape>
+        <shape type="rect">
+            <quad value="160.3845,70.9074,166.5217,74.8095"/>
+        </shape>
+        <shape type="rect">
+            <quad value="150.6982,74.5944,164.9062,92.0122"/>
+        </shape>
+        <shape type="rect">
+            <quad value="165.9611,73.4584,168.8735,79.3295"/>
+        </shape>
+        <shape type="rect">
+            <quad value="166.268,72.3366,168.283,74.3176"/>
+        </shape>
+        <shape type="rect">
+            <quad value="148.1745,73.775,161.3183,76.9157"/>
+        </shape>
+        <shape type="rect">
+            <quad value="164.3046,79.1115,168.6242,81.1184"/>
+        </shape>
+        <shape type="rect">
+            <quad value="164.561,74.3557,166.8696,79.6254"/>
+        </shape>
+        <shape type="rect">
+            <quad value="164.598,80.9558,167.051,84.4226"/>
+        </shape>
+        <shape type="rect">
+            <quad value="164.4836,83.9467,166.1423,85.3916"/>
+        </shape>
+        <shape type="rect">
+            <quad value="164.216,96.9184,166.2443,103.8483"/>
+        </shape>
+        <shape type="rect">
+            <quad value="165.4184,98.2045,167.4467,105.1345"/>
+        </shape>
+        <shape type="rect">
+            <quad value="167.242,98.959,169.2702,105.889"/>
+        </shape>
+        <shape type="rect">
+            <quad value="168.5026,99.269,173.2143,105.039"/>
+        </shape>
+        <shape type="rect">
+            <quad value="170.8842,103.3608,173.629,106.7844"/>
+        </shape>
+        <shape type="rect">
+            <quad value="155.678,125.3098,160.0676,127.0297"/>
+        </shape>
+        <shape type="rect">
+            <quad value="151.9602,124.3835,156.3498,126.1035"/>
+        </shape>
+        <shape type="rect">
+            <quad value="148.9865,124.2597,153.3762,125.9797"/>
+        </shape>
+        <shape type="rect">
+            <quad value="148.1762,117.9912,152.566,119.7111"/>
+        </shape>
+        <shape type="rect">
+            <quad value="148.7985,119.3308,151.2165,124.558"/>
+        </shape>
+        <shape type="rect">
+            <quad value="169.4514,123.6208,173.841,125.3408"/>
+        </shape>
+        <shape type="rect">
+            <quad value="166.5024,124.913,170.892,126.633"/>
+        </shape>
+        <shape type="rect">
+            <quad value="162.6914,126.1564,167.081,127.8764"/>
+        </shape>
+        <shape type="rect">
+            <quad value="158.7536,126.1833,163.1433,127.9033"/>
+        </shape>
+        <shape type="rect">
+            <quad value="164.181,103.7172,173.1267,115.8051"/>
+        </shape>
+        <shape type="rect">
+            <quad value="170.0915,115.476,174.7175,124.0854"/>
+        </shape>
+        <shape type="rect">
+            <quad value="163.443,114.973,170.4262,126.4284"/>
+        </shape>
+        <shape type="rect">
+            <quad value="155.953,117.639,163.6826,126.3835"/>
+        </shape>
+        <shape type="rect">
+            <quad value="150.9768,117.1396,156.3847,124.6606"/>
+        </shape>
+        <shape type="rect">
+            <quad value="142.9594,79.147,152.1154,90.3808"/>
+        </shape>
+        <shape type="rect">
+            <negative/>
+            <quad value="134.8642,116.7431,139.377,118.51"/>
+        </shape>
+        <shape type="rect">
+            <quad value="149.223,125.709,149.473,131.2478"/>
+        </shape>
+        <shape type="rect">
+            <quad value="172.823,103.2707,176.8784,103.5207"/>
+        </shape>
+        <shape type="rect">
+            <quad value="151.0227,69.705,151.2727,74.2651"/>
+        </shape>
+        <shape type="rect">
+            <quad value="129.8264,96.5114,132.1682,97.0686"/>
+        </shape>
+    </region>
+    <region id="23">
+        <name value="R - Troll&apos;s Forest (21-22)"/>
+        <color value="255,128,255,0"/>
+        <shape type="rect">
+            <quad value="97.0566,64.7187,103.1816,74.6303"/>
+        </shape>
+        <shape type="rect">
+            <quad value="90.9545,64.0224,97.0795,73.934"/>
+        </shape>
+        <shape type="rect">
+            <quad value="84.98,65.711,91.105,75.6225"/>
+        </shape>
+        <shape type="rect">
+            <quad value="78.9587,65.2946,85.0837,75.2062"/>
+        </shape>
+        <shape type="rect">
+            <quad value="84.347,74.8381,85.2014,75.5397"/>
+        </shape>
+        <shape type="rect">
+            <quad value="72.9064,65.3056,79.0314,75.2172"/>
+        </shape>
+        <shape type="rect">
+            <quad value="62.5051,67.4958,68.6301,77.4074"/>
+        </shape>
+        <shape type="rect">
+            <quad value="65.2434,67.5366,71.3684,77.4482"/>
+        </shape>
+        <shape type="rect">
+            <quad value="68.7631,65.259,74.8881,75.1706"/>
+        </shape>
+        <shape type="diamond">
+            <center value="59.5502,63.9531"/>
+            <width value="8"/>
+            <height value="6.5168"/>
+        </shape>
+        <shape type="rect">
+            <quad value="60.2746,63.786,63.1787,69.077"/>
+        </shape>
+        <shape type="rect">
+            <quad value="54.5944,55.0131,59.0397,63.1784"/>
+        </shape>
+        <shape type="rect">
+            <quad value="55.3984,53.467,60.19,55.4736"/>
+        </shape>
+        <shape type="rect">
+            <quad value="56.4794,51.5322,61.271,53.5388"/>
+        </shape>
+        <shape type="rect">
+            <quad value="60.4396,51.0502,65.2312,53.057"/>
+        </shape>
+        <shape type="rect">
+            <quad value="63.2963,49.7695,73.0004,53.8234"/>
+        </shape>
+        <shape type="rect">
+            <quad value="66.8986,48.5712,73.3046,50.6293"/>
+        </shape>
+        <shape type="rect">
+            <quad value="68.3188,47.5588,74.7248,49.617"/>
+        </shape>
+        <shape type="rect">
+            <quad value="69.8466,46.8288,76.2526,48.887"/>
+        </shape>
+        <shape type="rect">
+            <quad value="70.8427,45.07,77.2487,47.1281"/>
+        </shape>
+        <shape type="rect">
+            <quad value="70.904,43.0922,77.31,45.1503"/>
+        </shape>
+        <shape type="rect">
+            <quad value="70.7153,41.198,77.1213,43.256"/>
+        </shape>
+        <shape type="rect">
+            <quad value="70.6462,39.1787,77.0522,41.2368"/>
+        </shape>
+        <shape type="rect">
+            <quad value="76.717,39.6772,88.1147,47.3073"/>
+        </shape>
+        <shape type="rect">
+            <quad value="58.2011,52.679,78.2817,66.0825"/>
+        </shape>
+        <shape type="rect">
+            <quad value="62.341,63.8217,69.3461,68.1474"/>
+        </shape>
+        <shape type="rect">
+            <quad value="71.985,46.6518,91.3884,53.443"/>
+        </shape>
+        <shape type="rect">
+            <quad value="77.6552,52.0485,102.5754,65.8696"/>
+        </shape>
+        <shape type="rect">
+            <quad value="91.1611,49.3918,104.1032,52.4003"/>
+        </shape>
+        <shape type="rect">
+            <quad value="87.5427,42.9655,91.138,46.8564"/>
+        </shape>
+        <shape type="rect">
+            <quad value="87.7314,40.9245,90.198,43.1647"/>
+        </shape>
+        <shape type="rect">
+            <quad value="90.4406,47.2211,94.0373,49.517"/>
+        </shape>
+        <shape type="rect">
+            <quad value="102.2214,57.1718,105.062,62.208"/>
+        </shape>
+        <shape type="rect">
+            <quad value="100.901,52.1752,103.7414,57.2114"/>
+        </shape>
+        <shape type="rect">
+            <quad value="102.2001,62.0412,105.0407,67.0773"/>
+        </shape>
+        <shape type="rect">
+            <quad value="104.6323,57.1198,107.0415,59.2121"/>
+        </shape>
+        <shape type="rect">
+            <negative/>
+            <quad value="101.7575,68.1733,103.5854,74.026"/>
+        </shape>
+        <shape type="rect">
+            <quad value="51.9345,62.97,54.918,63.8251"/>
+        </shape>
+        <shape type="rect">
+            <quad value="71.7084,37.7038,72.4804,39.2607"/>
+        </shape>
+    </region>
+    <region id="24">
+        <name value="Invasion - The Pit Spawn (???)"/>
+        <color value="255,128,128,128"/>
+        <shape type="rect">
+            <quad value="120.0024,158.3381,123.4035,159.338"/>
+        </shape>
+    </region>
+    <region id="25">
+        <name value="Invasion - Worlds End Keep Beacon"/>
+        <color value="255,128,128,128"/>
+        <shape type="rect">
+            <quad value="117.8896,114.415,119.8894,116.4147"/>
+        </shape>
+    </region>
+    <region id="26">
+        <name value="Invasion - Worlds End Army Spawn"/>
+        <color value="255,128,128,128"/>
+        <shape type="rect">
+            <quad value="123.004,125.5986,124.157,126.3046"/>
+        </shape>
+    </region>
+    <region id="4">
+        <name value="R - The Pit (???)"/>
+        <color value="255,128,128,128"/>
+        <shape type="rect">
+            <quad value="115.474,148.2502,124.8757,152.1894"/>
+        </shape>
+        <shape type="rect">
+            <quad value="116.018,151.1948,124.4711,156.9023"/>
+        </shape>
+        <shape type="rect">
+            <quad value="123.8188,149.5847,125.9245,156.726"/>
+        </shape>
+        <shape type="rect">
+            <quad value="117.9084,156.6921,125.2026,162.2998"/>
+        </shape>
+        <shape type="rect">
+            <quad value="115.485,140.2,125.9807,150.4672"/>
+        </shape>
+        <shape type="rect">
+            <quad value="118.6638,162.2355,124.4265,163.3923"/>
+        </shape>
+        <shape type="rect">
+            <quad value="115.459,134.1171,125.975,140.416"/>
+        </shape>
+        <shape type="rect">
+            <quad value="115.6003,129.3317,116.7346,134.2302"/>
+        </shape>
+        <shape type="rect">
+            <quad value="120.126,162.907,120.634,164.2717"/>
+        </shape>
+        <shape type="rect">
+            <quad value="114.1525,138.6513,115.588,139.543"/>
+        </shape>
+        <shape type="rect">
+            <quad value="125.741,138.5307,127.1762,139.4223"/>
+        </shape>
+    </region>
+    <region id="27">
+        <name value="Q Highlands - Escort 1"/>
+        <color value="255,192,192,192"/>
+        <shape type="circle">
+            <center value="108.6284,155.884"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="28">
+        <name value="Q Highlands - Escort 2"/>
+        <color value="255,192,192,192"/>
+        <shape type="circle">
+            <center value="56.1105,176.5498"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="29">
+        <name value="Q Highlands - Escort 3"/>
+        <color value="255,192,192,192"/>
+        <shape type="circle">
+            <center value="84.0988,161.9548"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="31">
+        <name value="Q Highlands - Escort Start"/>
+        <color value="255,192,192,192"/>
+        <shape type="circle">
+            <center value="86.0837,155.4367"/>
+            <radius value="0.8332"/>
+        </shape>
+    </region>
+    <region id="32">
+        <name value="Q Highlands - Escort End"/>
+        <color value="255,192,192,192"/>
+        <shape type="circle">
+            <center value="89.8403,156.7856"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="33">
+        <name value="Portal - World&apos;s End"/>
+        <color value="255,128,128,128"/>
+        <shape type="circle">
+            <center value="125.0266,113.2272"/>
+            <radius value="0.6015"/>
+        </shape>
+    </region>
+    <region id="35">
+        <name value="D1 - Secret Grotto Start"/>
+        <color value="255,0,255,0"/>
+        <shape type="circle">
+            <center value="12.0566,249.279"/>
+            <radius value="1"/>
+        </shape>
+    </region>
+    <region id="36">
+        <name value="D1 - Secret Grotto Finish"/>
+        <color value="255,0,255,0"/>
+        <shape type="circle">
+            <center value="30.84,207.064"/>
+            <radius value="1"/>
+        </shape>
+    </region>
+    <region id="30">
+        <name value="Respawn - World&apos;s End"/>
+        <color value="255,128,128,128"/>
+        <shape type="rect">
+            <quad value="124.683,110.2954,125.9914,111.6816"/>
+        </shape>
+    </region>
+    <region id="8">
+        <name value="R - Highlands (8-10)"/>
+        <color value="255,128,128,0"/>
+        <shape type="rect">
+            <quad value="81.9255,152.4343,96.1987,177.7387"/>
+        </shape>
+        <shape type="diamond">
+            <center value="80.93,163.201"/>
+            <width value="4.0195"/>
+            <height value="9.0783"/>
+        </shape>
+        <shape type="rect">
+            <quad value="41.3427,163.9177,77.6782,170.2612"/>
+        </shape>
+        <shape type="rect">
+            <quad value="41.672,160.8781,57.498,164.533"/>
+        </shape>
+        <shape type="rect">
+            <quad value="42.1611,158.6032,57.5068,161.043"/>
+        </shape>
+        <shape type="rect">
+            <quad value="44.7133,154.0236,57.699,158.741"/>
+        </shape>
+        <shape type="rect">
+            <quad value="56.7895,150.3015,59.1962,156.083"/>
+        </shape>
+        <shape type="rect">
+            <quad value="53.923,149.35,57.8776,155.2426"/>
+        </shape>
+        <shape type="rect">
+            <quad value="53.048,150.5012,54.2846,154.7014"/>
+        </shape>
+        <shape type="rect">
+            <quad value="50.9934,151.6418,53.532,154.8227"/>
+        </shape>
+        <shape type="rect">
+            <quad value="44.8681,151.6535,51.4548,154.051"/>
+        </shape>
+        <shape type="rect">
+            <quad value="45.5302,150.5517,49.322,152.5988"/>
+        </shape>
+        <shape type="rect">
+            <quad value="75.3283,164.5944,82.8776,178.5134"/>
+        </shape>
+        <shape type="rect">
+            <quad value="49.6867,169.6318,81.0051,180.0651"/>
+        </shape>
+        <shape type="rect">
+            <quad value="46.1408,169.5922,49.9304,178.3386"/>
+        </shape>
+        <shape type="rect">
+            <quad value="44.2097,169.6416,46.4902,177.0356"/>
+        </shape>
+        <shape type="rect">
+            <quad value="42.5844,169.73,44.5327,174.077"/>
+        </shape>
+        <shape type="rect">
+            <quad value="95.1291,177.669,110.1835,178.8427"/>
+        </shape>
+        <shape type="rect">
+            <quad value="96.529,178.7551,109.5214,180.9672"/>
+        </shape>
+        <shape type="rect">
+            <quad value="96.0332,169.3842,110.9396,177.738"/>
+        </shape>
+        <shape type="rect">
+            <quad value="96.0295,151.7116,116.0292,161.683"/>
+        </shape>
+        <shape type="rect">
+            <quad value="96.0283,161.658,115.9665,168.6643"/>
+        </shape>
+        <shape type="rect">
+            <quad value="96.0515,168.4968,114.6735,171.5393"/>
+        </shape>
+        <shape type="rect">
+            <quad value="48.9106,150.109,54.0654,151.9382"/>
+        </shape>
+        <shape type="rect">
+            <quad value="54.6406,148.3374,57.8618,149.4436"/>
+        </shape>
+        <shape type="rect">
+            <quad value="115.9973,156.9475,117.6547,160.6374"/>
+        </shape>
+        <shape type="rect">
+            <quad value="117.491,160.5107,119.12,161.129"/>
+        </shape>
+        <shape type="rect">
+            <quad value="58.4973,146.7893,59.1994,150.3791"/>
+        </shape>
+        <shape type="rect">
+            <quad value="40.656,166.582,41.4736,168.3847"/>
+        </shape>
+        <shape type="rect">
+            <quad value="98.3303,180.9101,99.967,181.5908"/>
+        </shape>
+        <shape type="rect">
+            <negative/>
+            <quad value="71.8542,163.8435,75.3874,165.3435"/>
+        </shape>
+    </region>
+    <region id="21">
+        <name value="R - Cesspool (16-18)"/>
+        <color value="255,0,64,0"/>
+        <shape type="rect">
+            <quad value="111.8623,89.1723,130.862,105.172"/>
+        </shape>
+        <shape type="rect">
+            <quad value="127.7358,80.3393,132.2448,91.8027"/>
+        </shape>
+        <shape type="rect">
+            <quad value="129.976,84.7495,133.2114,87.4128"/>
+        </shape>
+        <shape type="rect">
+            <quad value="129.5612,98.8286,132.1301,105.0541"/>
+        </shape>
+        <shape type="rect">
+            <quad value="113.127,88.1904,118.285,89.347"/>
+        </shape>
+        <shape type="rect">
+            <quad value="114.4565,87.2768,118.3732,88.4958"/>
+        </shape>
+        <shape type="rect">
+            <quad value="117.3466,77.9804,120.2666,87.5786"/>
+        </shape>
+        <shape type="rect">
+            <quad value="118.6235,72.1418,120.3696,78.1367"/>
+        </shape>
+        <shape type="rect">
+            <quad value="112.252,71.5808,119.3264,73.1936"/>
+        </shape>
+        <shape type="rect">
+            <quad value="108.2827,71.7121,112.4018,74.6235"/>
+        </shape>
+        <shape type="rect">
+            <quad value="103.3254,67.6997,109.9443,75.384"/>
+        </shape>
+        <shape type="rect">
+            <quad value="104.7143,64.2995,108.2734,68.4458"/>
+        </shape>
+        <shape type="rect">
+            <quad value="103.671,66.828,105.5925,68.8242"/>
+        </shape>
+        <shape type="rect">
+            <quad value="118.273,86.822,121.488,89.7922"/>
+        </shape>
+        <shape type="rect">
+            <quad value="120.0886,57.0461,128.6926,90.3315"/>
+        </shape>
+        <shape type="rect">
+            <quad value="105.0886,57.1752,120.6137,72.2773"/>
+        </shape>
+        <shape type="rect">
+            <quad value="128.4365,69.7316,139.6933,76.9328"/>
+        </shape>
+        <shape type="rect">
+            <quad value="128.2888,75.6601,134.4311,80.7524"/>
+        </shape>
+        <shape type="rect">
+            <quad value="134.9863,69.8852,147.4477,76.205"/>
+        </shape>
+        <shape type="rect">
+            <quad value="146.3032,64.4338,150.933,73.4577"/>
+        </shape>
+        <shape type="rect">
+            <quad value="124.2363,56.971,146.6093,70.4682"/>
+        </shape>
+        <shape type="rect">
+            <quad value="145.242,57.0241,151.091,65.241"/>
+        </shape>
+        <shape type="rect">
+            <quad value="110.208,55.0708,121.036,58.2778"/>
+        </shape>
+        <shape type="rect">
+            <quad value="148.961,57.0664,152.9606,63.0661"/>
+        </shape>
+        <shape type="rect">
+            <quad value="142.6857,55.1066,151.4855,58.604"/>
+        </shape>
+        <shape type="rect">
+            <quad value="101.7846,68.4238,103.4577,72.9211"/>
+        </shape>
+        <shape type="rect">
+            <negative/>
+            <quad value="111.6674,101.584,113.3608,105.3137"/>
+        </shape>
+        <shape type="rect">
+            <quad value="120.6074,52.9462,121.033,55.886"/>
+        </shape>
+        <shape type="rect">
+            <quad value="150.5341,72.998,154.534,73.2978"/>
+        </shape>
+        <shape type="rect">
+            <quad value="100.4973,74.0515,104.1547,74.573"/>
+        </shape>
+        <shape type="rect">
+            <quad value="113.475,105.048,113.725,106.3332"/>
+        </shape>
+        <shape type="rect">
+            <negative/>
+            <quad value="138.687,76.194,139.834,77.031"/>
+        </shape>
+    </region>
+    <region id="5">
+        <name value="R - World&apos;s End Keep (???)"/>
+        <color value="255,255,255,255"/>
+        <shape type="rect">
+            <quad value="115.627,126.6406,127.961,129.1118"/>
+        </shape>
+        <shape type="rect">
+            <quad value="112.4775,105.0803,132.1174,127.1191"/>
+        </shape>
+        <shape type="rect">
+            <quad value="109.8808,112.1296,112.5886,116.2792"/>
+        </shape>
+        <shape type="rect">
+            <negative/>
+            <quad value="108.7084,112.583,110.7082,115.7656"/>
+        </shape>
+        <shape type="rect">
+            <quad value="116.9104,127.4597,126.395,134.089"/>
+        </shape>
+        <shape type="rect">
+            <quad value="125.675,133.9362,126.3874,137.6474"/>
+        </shape>
+        <shape type="rect">
+            <quad value="116.6953,133.8,117.5168,136.2895"/>
+        </shape>
+        <shape type="rect">
+            <quad value="108.1994,116.2307,112.5,116.5505"/>
+        </shape>
+    </region>
+    <region id="38">
+        <name value="Q Swamp - Escort Start"/>
+        <color value="255,192,192,192"/>
+        <shape type="circle">
+            <center value="163.3681,98.5703"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="37">
+        <name value="Q Swamp - Escort 1"/>
+        <color value="255,192,192,192"/>
+        <shape type="circle">
+            <center value="140.8288,89.8793"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="39">
+        <name value="Q Swamp - Escort 2"/>
+        <color value="255,192,192,192"/>
+        <shape type="circle">
+            <center value="145.4333,61.4604"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="40">
+        <name value="Q Swamp - Escort 3"/>
+        <color value="255,192,192,192"/>
+        <shape type="circle">
+            <center value="118.2932,64.2727"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="41">
+        <name value="Q Swamp - Escort 4"/>
+        <color value="255,192,192,192"/>
+        <shape type="circle">
+            <center value="123.93,91.8933"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="42">
+        <name value="Q Swamp - Escort End"/>
+        <color value="255,192,192,192"/>
+        <shape type="circle">
+            <center value="128.223,101.4016"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="43">
+        <name value="Portal - Cesspool"/>
+        <color value="255,128,128,128"/>
+        <shape type="circle">
+            <center value="127.518,102.714"/>
+            <radius value="0.6015"/>
+        </shape>
+    </region>
+    <region id="44">
+        <name value="Respawn - Cesspool"/>
+        <color value="255,128,128,128"/>
+        <shape type="circle">
+            <center value="129.5656,102.3693"/>
+            <radius value="0.6015"/>
+        </shape>
+    </region>
+    <region id="45">
+        <name value="Portal - Highlands"/>
+        <color value="255,128,128,128"/>
+        <shape type="circle">
+            <center value="82.7536,155.7695"/>
+            <radius value="0.6015"/>
+        </shape>
+    </region>
+    <region id="46">
+        <name value="Respawn - Highlands"/>
+        <color value="255,128,128,128"/>
+        <shape type="circle">
+            <center value="84.514,154.6752"/>
+            <radius value="0.6015"/>
+        </shape>
+    </region>
+    <region id="34">
+        <name value="D1 - Secret Grotto (15-20)"/>
+        <color value="255,0,128,0"/>
+        <shape type="rect">
+            <quad value="3.1972,201.5883,36.4177,254.332"/>
+        </shape>
+        <shape type="rect">
+            <quad value="36.2331,201.6408,39.775,225.2653"/>
+        </shape>
+        <shape type="rect">
+            <quad value="0.0046,251.992,4.0046,255.9916"/>
+        </shape>
+        <shape type="rect">
+            <negative/>
+            <quad value="36.52,223.2475,40.0563,225.3437"/>
+        </shape>
+        <shape type="rect">
+            <negative/>
+            <quad value="38.5537,206.6965,40.2626,210.3466"/>
+        </shape>
+    </region>
+    <region id="47">
+        <name value="D1 - Secret Grotto Leave"/>
+        <color value="255,0,255,0"/>
+        <shape type="circle">
+            <center value="8.6687,249.3334"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="56">
+        <name value="D1 - Secret Grotto Enter"/>
+        <color value="255,0,255,0"/>
+        <shape type="circle">
+            <center value="153.1496,165.2121"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="57">
+        <name value="D1 - Secret Grotto Exit"/>
+        <color value="255,0,255,0"/>
+        <shape type="circle">
+            <center value="151.2097,165.5742"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="48">
+        <name value="Survival - Arena"/>
+        <color value="255,192,192,192"/>
+        <shape type="rect">
+            <quad value="123.7133,25.9753,131.4133,29.1848"/>
+        </shape>
+        <shape type="rect">
+            <quad value="121.109,23.6132,131.841,26.2917"/>
+        </shape>
+        <shape type="rect">
+            <quad value="119.5678,14.5874,133.197,24.6601"/>
+        </shape>
+        <shape type="rect">
+            <quad value="119.2392,6.9104,131.7846,15.044"/>
+        </shape>
+        <shape type="rect">
+            <quad value="120.5515,1.6782,132.9067,10.678"/>
+        </shape>
+        <shape type="rect">
+            <quad value="118.3103,1.6672,136.2314,2.2678"/>
+        </shape>
+        <shape type="rect">
+            <quad value="121.2463,25.9426,124.1464,27.0197"/>
+        </shape>
+        <shape type="rect">
+            <quad value="119.1467,7.147,120.0605,21.315"/>
+        </shape>
+    </region>
+    <region id="49">
+        <name value="Survival - Start"/>
+        <color value="255,128,128,128"/>
+        <shape type="circle">
+            <center value="130.899,8.2888"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="50">
+        <name value="Survival - Spawn 1"/>
+        <color value="255,128,128,128"/>
+        <shape type="circle">
+            <center value="127.7346,26.0273"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="51">
+        <name value="D0 - Purgatory Cavern Enter"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="165.062,32.27"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="52">
+        <name value="Vendor - Beastiary"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="129.5175,119.3361"/>
+            <radius value="0.4"/>
+        </shape>
+    </region>
+    <region id="53">
+        <name value="Vendor - PvP"/>
+        <color value="255,128,128,128"/>
+        <shape type="circle">
+            <center value="129.172,108.516"/>
+            <radius value="0.4"/>
+        </shape>
+    </region>
+    <region id="54">
+        <name value="Survival - Spawn 2"/>
+        <color value="255,128,128,128"/>
+        <shape type="circle">
+            <center value="121.098,18.9965"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="55">
+        <name value="Survival - Spawn 3"/>
+        <color value="255,128,128,128"/>
+        <shape type="circle">
+            <center value="131.0815,22.5231"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="58">
+        <name value="D2 - Troll&apos;s Forest (Cont.) (23-26)"/>
+        <color value="255,128,255,128"/>
+        <shape type="rect">
+            <quad value="117.2834,236.787,164.4003,254.6064"/>
+        </shape>
+        <shape type="rect">
+            <quad value="137.4943,220.6975,164.0703,237.6975"/>
+        </shape>
+        <shape type="rect">
+            <quad value="151.8991,218.1906,161.624,221.224"/>
+        </shape>
+        <shape type="rect">
+            <quad value="163.789,219.2258,176.3515,237.4174"/>
+        </shape>
+        <shape type="rect">
+            <quad value="174.4218,227.9252,179.4428,237.7045"/>
+        </shape>
+        <shape type="rect">
+            <quad value="176.0541,218.334,180.6723,228.2756"/>
+        </shape>
+        <shape type="rect">
+            <quad value="180.1345,222.2348,182.617,228.4582"/>
+        </shape>
+        <shape type="rect">
+            <quad value="173.676,218.626,176.4313,219.8051"/>
+        </shape>
+        <shape type="rect">
+            <quad value="130.3623,220.4677,137.9084,237.8093"/>
+        </shape>
+        <shape type="rect">
+            <quad value="132.5898,218.6484,139.281,221.247"/>
+        </shape>
+        <shape type="rect">
+            <quad value="144.0673,218.6408,153.2324,220.948"/>
+        </shape>
+        <shape type="rect">
+            <quad value="119.7502,235.1416,130.6826,237.8518"/>
+        </shape>
+        <shape type="rect">
+            <quad value="114.904,237.0683,117.9038,251.068"/>
+        </shape>
+        <shape type="rect">
+            <negative/>
+            <quad value="137.7692,217.9514,145.857,220.388"/>
+        </shape>
+        <shape type="rect">
+            <negative/>
+            <quad value="139.5285,219.9916,144.3334,222.2775"/>
+        </shape>
+        <shape type="diamond">
+            <negative/>
+            <center value="131.3596,220.0913"/>
+            <width value="2.484"/>
+            <height value="8.6916"/>
+        </shape>
+        <shape type="rect">
+            <negative/>
+            <quad value="130.0046,227.8322,131.037,234.1877"/>
+        </shape>
+        <shape type="rect">
+            <negative/>
+            <quad value="124.2646,234.6606,127.201,236.105"/>
+        </shape>
+        <shape type="rect">
+            <negative/>
+            <quad value="118.5644,235.0454,121.2148,236.6525"/>
+        </shape>
+        <shape type="rect">
+            <negative/>
+            <quad value="114.1506,245.9421,116.2255,251.2687"/>
+        </shape>
+    </region>
+    <region id="59">
+        <name value="D2 - Troll&apos;s Forest (Cont.) Start"/>
+        <color value="255,0,255,0"/>
+        <shape type="circle">
+            <center value="159.5083,247.4157"/>
+            <radius value="1"/>
+        </shape>
+    </region>
+    <region id="60">
+        <name value="D2 - Troll&apos;s Forest (Cont.) Finish"/>
+        <color value="255,0,255,0"/>
+        <shape type="circle">
+            <center value="118.9353,246.8728"/>
+            <radius value="1"/>
+        </shape>
+    </region>
+    <region id="61">
+        <name value="D2 - Troll&apos;s Forest (Cont.) Leave"/>
+        <color value="255,0,255,0"/>
+        <shape type="circle">
+            <center value="161.7565,249.282"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="62">
+        <name value="D2 - Troll&apos;s Forest (Cont.) Enter"/>
+        <color value="255,0,255,0"/>
+        <shape type="circle">
+            <center value="73.6381,41.4575"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="63">
+        <name value="D2 - Troll&apos;s Forest (Cont.) Exit"/>
+        <color value="255,0,255,0"/>
+        <shape type="circle">
+            <center value="75.6406,41.5832"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="64">
+        <name value="R - Oasis (22-24)"/>
+        <color value="255,255,255,128"/>
+        <shape type="rect">
+            <quad value="149.5136,126.1416,155.5935,132.3466"/>
+        </shape>
+        <shape type="rect">
+            <quad value="155.4321,127.742,176.517,131.7968"/>
+        </shape>
+        <shape type="rect">
+            <quad value="171.6984,125.345,176.5205,128.188"/>
+        </shape>
+        <shape type="rect">
+            <quad value="174.7683,102.923,178.91,125.8781"/>
+        </shape>
+        <shape type="rect">
+            <quad value="173.1997,106.6953,175.0285,115.3393"/>
+        </shape>
+        <shape type="diamond">
+            <center value="153.2702,132.7397"/>
+            <width value="5.5747"/>
+            <height value="4.3232"/>
+        </shape>
+        <shape type="rect">
+            <quad value="153.2607,132.7268,157.2575,153.5695"/>
+        </shape>
+        <shape type="rect">
+            <quad value="156.7536,138.1174,206.8974,153.7751"/>
+        </shape>
+        <shape type="rect">
+            <quad value="154.999,133.6313,208.7841,138.824"/>
+        </shape>
+        <shape type="rect">
+            <quad value="154.7817,130.0864,208.549,134.2731"/>
+        </shape>
+        <shape type="rect">
+            <quad value="188.6616,129.257,203.275,130.3935"/>
+        </shape>
+        <shape type="rect">
+            <quad value="188.6887,127.982,197.0307,129.504"/>
+        </shape>
+        <shape type="rect">
+            <quad value="188.0766,120.644,191.212,128.0253"/>
+        </shape>
+        <shape type="rect">
+            <quad value="189.7553,108.9067,192.6381,121.352"/>
+        </shape>
+        <shape type="rect">
+            <quad value="189.7534,107.194,191.7861,109.4726"/>
+        </shape>
+        <shape type="rect">
+            <quad value="203.1894,128.1975,207.4504,130.3508"/>
+        </shape>
+        <shape type="rect">
+            <quad value="206.802,138.6855,208.059,139.7573"/>
+        </shape>
+        <shape type="rect">
+            <quad value="186.9143,103.6452,191.2744,107.8574"/>
+        </shape>
+        <shape type="rect">
+            <quad value="182.5393,105.4167,187.382,107.856"/>
+        </shape>
+        <shape type="rect">
+            <quad value="178.5852,103.59,182.2973,106.6435"/>
+        </shape>
+        <shape type="rect">
+            <quad value="181.1223,103.9726,183.2502,107.3315"/>
+        </shape>
+        <shape type="rect">
+            <quad value="176.1464,120.5886,189.0327,131.633"/>
+        </shape>
+        <shape type="rect">
+            <quad value="178.5893,106.0578,190.9226,121.415"/>
+        </shape>
+        <shape type="rect">
+            <quad value="153.4006,153.2861,206.9636,155.0622"/>
+        </shape>
+        <shape type="rect">
+            <quad value="173.115,100.707,174.1223,107.7067"/>
+        </shape>
+        <shape type="rect">
+            <quad value="206.605,154.4233,207.0983,159.5485"/>
+        </shape>
+        <shape type="rect">
+            <quad value="206.7907,158.4594,211.5795,159.9975"/>
+        </shape>
+    </region>
+    <region id="65">
+        <name value="R - Sandy Waste (30-31)"/>
+        <color value="255,128,128,64"/>
+        <shape type="rect">
+            <quad value="208.1086,159.0698,225.1533,165.3083"/>
+        </shape>
+        <shape type="rect">
+            <quad value="208.9113,164.9484,225.0893,172.5627"/>
+        </shape>
+        <shape type="rect">
+            <quad value="210.092,172.5151,225.0266,173.8161"/>
+        </shape>
+        <shape type="rect">
+            <quad value="211.1313,173.492,225.242,179.4204"/>
+        </shape>
+        <shape type="rect">
+            <quad value="212.7873,178.637,224.0515,186.3698"/>
+        </shape>
+        <shape type="rect">
+            <quad value="212.134,184.104,214.721,187.1723"/>
+        </shape>
+        <shape type="rect">
+            <quad value="210.5666,185.7841,213.1958,187.671"/>
+        </shape>
+        <shape type="rect">
+            <quad value="222.9714,175.0122,232.5903,186.3173"/>
+        </shape>
+        <shape type="rect">
+            <quad value="227.496,185.6171,231.6943,199.4631"/>
+        </shape>
+        <shape type="rect">
+            <quad value="223.47,185.795,227.6682,199.6408"/>
+        </shape>
+        <shape type="rect">
+            <quad value="222.4433,198.9621,225.5817,201.3041"/>
+        </shape>
+        <shape type="rect">
+            <quad value="221.8857,200.792,224.2875,202.2397"/>
+        </shape>
+        <shape type="rect">
+            <quad value="211.445,186.1074,224.5544,201.1701"/>
+        </shape>
+        <shape type="rect">
+            <quad value="221.1457,201.8591,223.6076,206.7888"/>
+        </shape>
+        <shape type="rect">
+            <quad value="214.3835,200.8366,222.6667,206.616"/>
+        </shape>
+        <shape type="rect">
+            <quad value="214.3325,206.4423,222.7358,207.7868"/>
+        </shape>
+        <shape type="rect">
+            <quad value="205.111,204.425,214.703,205.9057"/>
+        </shape>
+        <shape type="rect">
+            <quad value="202.5678,200.8742,215.2426,205.499"/>
+        </shape>
+        <shape type="rect">
+            <quad value="203.3198,205.251,205.616,207.4333"/>
+        </shape>
+        <shape type="rect">
+            <quad value="192.3286,203.8093,204.4516,207.4074"/>
+        </shape>
+        <shape type="rect">
+            <quad value="191.264,196.743,194.8454,204.0268"/>
+        </shape>
+        <shape type="rect">
+            <quad value="188.404,196.662,191.7167,201.6154"/>
+        </shape>
+        <shape type="rect">
+            <quad value="176.29,196.6672,189.2426,199.591"/>
+        </shape>
+        <shape type="rect">
+            <quad value="194.0617,186.6396,211.6958,204.0546"/>
+        </shape>
+        <shape type="rect">
+            <quad value="196.48,184.9763,203.743,187.1032"/>
+        </shape>
+        <shape type="rect">
+            <quad value="176.2902,186.7182,194.2475,196.9372"/>
+        </shape>
+        <shape type="rect">
+            <quad value="178.5461,170.8952,189.546,187.405"/>
+        </shape>
+        <shape type="rect">
+            <quad value="188.8156,184.8232,191.3906,187.367"/>
+        </shape>
+        <shape type="rect">
+            <quad value="188.9733,172.1994,191.1472,179.6992"/>
+        </shape>
+        <shape type="rect">
+            <quad value="175.3071,182.9638,177.0822,196.3093"/>
+        </shape>
+        <shape type="rect">
+            <quad value="177.0024,178.7668,179.1582,186.8681"/>
+        </shape>
+        <shape type="rect">
+            <quad value="174.706,183.254,175.698,195.702"/>
+        </shape>
+        <shape type="rect">
+            <quad value="206.7822,154.379,207.937,158.7541"/>
+        </shape>
+        <shape type="rect">
+            <quad value="232.2395,184.4943,235.4191,184.8518"/>
+        </shape>
+        <shape type="rect">
+            <quad value="193.012,207.0554,193.262,210.982"/>
+        </shape>
+        <shape type="rect">
+            <quad value="171.351,198.655,176.7912,198.905"/>
+        </shape>
+    </region>
+    <region id="68">
+        <name value="R - Coast (26-28)"/>
+        <color value="255,255,255,0"/>
+        <shape type="rect">
+            <quad value="153.8916,158.928,157.1198,163.7465"/>
+        </shape>
+        <shape type="rect">
+            <quad value="154.4763,163.7268,157.065,169.379"/>
+        </shape>
+        <shape type="rect">
+            <quad value="153.0498,167.864,157.0742,175.2712"/>
+        </shape>
+        <shape type="rect">
+            <quad value="151.3056,173.6652,157.066,176.7307"/>
+        </shape>
+        <shape type="rect">
+            <quad value="149.5478,175.5063,157.2658,178.1232"/>
+        </shape>
+        <shape type="rect">
+            <quad value="137.288,176.0532,149.6162,182.3305"/>
+        </shape>
+        <shape type="rect">
+            <quad value="139.7797,182.1875,152.7978,185.2912"/>
+        </shape>
+        <shape type="rect">
+            <quad value="143.1523,184.2612,149.0905,197.0285"/>
+        </shape>
+        <shape type="rect">
+            <quad value="144.7448,196.1806,176.7563,198.8535"/>
+        </shape>
+        <shape type="rect">
+            <quad value="153.4182,155.3112,207.0734,160.4238"/>
+        </shape>
+        <shape type="rect">
+            <quad value="188.8698,164.5571,193.6472,172.848"/>
+        </shape>
+        <shape type="rect">
+            <quad value="206.7915,165.0488,208.8427,172.793"/>
+        </shape>
+        <shape type="rect">
+            <quad value="204.39,160.138,208.0507,165.8334"/>
+        </shape>
+        <shape type="rect">
+            <quad value="190.7697,172.5646,196.169,180.641"/>
+        </shape>
+        <shape type="rect">
+            <quad value="189.041,179.0708,193.1401,184.7705"/>
+        </shape>
+        <shape type="rect">
+            <quad value="190.1425,184.3894,194.409,185.815"/>
+        </shape>
+        <shape type="rect">
+            <quad value="191.1132,185.735,196.6953,187.064"/>
+        </shape>
+        <shape type="rect">
+            <quad value="193.7553,184.0476,197.5585,186.323"/>
+        </shape>
+        <shape type="rect">
+            <quad value="192.197,179.8605,196.7653,184.6215"/>
+        </shape>
+        <shape type="rect">
+            <quad value="196.5314,182.8918,204.4707,185.2573"/>
+        </shape>
+        <shape type="rect">
+            <quad value="195.5595,172.5512,209.3156,183.0712"/>
+        </shape>
+        <shape type="rect">
+            <quad value="202.6562,184.8886,210.6953,186.9648"/>
+        </shape>
+        <shape type="rect">
+            <quad value="209.7075,183.304,212.6655,186.019"/>
+        </shape>
+        <shape type="rect">
+            <quad value="210.1755,179.354,213.053,183.581"/>
+        </shape>
+        <shape type="rect">
+            <quad value="204.0092,182.8952,211.1525,185.1545"/>
+        </shape>
+        <shape type="rect">
+            <quad value="208.7993,179.3784,210.3781,183.3906"/>
+        </shape>
+        <shape type="rect">
+            <quad value="209.0827,173.614,211.2954,179.5224"/>
+        </shape>
+        <shape type="rect">
+            <quad value="207.9025,172.5056,210.1762,173.89"/>
+        </shape>
+        <shape type="rect">
+            <quad value="171.9804,169.8146,179.0068,179.0695"/>
+        </shape>
+        <shape type="rect">
+            <quad value="172.9067,166.583,189.6752,171.2546"/>
+        </shape>
+        <shape type="rect">
+            <quad value="172.3103,182.2651,175.2595,196.608"/>
+        </shape>
+        <shape type="rect">
+            <quad value="172.3603,178.3347,177.1584,183.1921"/>
+        </shape>
+        <shape type="rect">
+            <quad value="174.179,194.671,176.3325,196.4753"/>
+        </shape>
+        <shape type="rect">
+            <quad value="147.7885,176.5156,173.836,196.6457"/>
+        </shape>
+        <shape type="rect">
+            <quad value="155.838,159.4445,176.6545,177.6022"/>
+        </shape>
+        <shape type="rect">
+            <quad value="174.0366,159.5437,207.0095,168.7475"/>
+        </shape>
+        <shape type="rect">
+            <quad value="192.7331,168.1455,207.2148,173.6193"/>
+        </shape>
+        <shape type="rect">
+            <quad value="205.7844,153.1691,206.5876,156.9702"/>
+        </shape>
+        <shape type="rect">
+            <quad value="206.3857,158.9145,214.3256,159.8164"/>
+        </shape>
+        <shape type="rect">
+            <quad value="149.0268,198.5495,149.2768,202.1103"/>
+        </shape>
+        <shape type="rect">
+            <quad value="135.5844,175.7976,137.458,176.4924"/>
+        </shape>
+        <shape type="rect">
+            <negative/>
+            <quad value="211.0002,184.7543,213.0002,186.2543"/>
+        </shape>
+    </region>
+    <region id="66">
+        <name value="R - Mountain Pass (24-27)"/>
+        <color value="255,192,192,192"/>
+        <shape type="rect">
+            <quad value="134.3405,176.3002,137.2636,187.1113"/>
+        </shape>
+        <shape type="rect">
+            <quad value="114.48,176.3183,137.188,184.2255"/>
+        </shape>
+        <shape type="rect">
+            <quad value="136.837,182.1157,139.85,186.74"/>
+        </shape>
+        <shape type="rect">
+            <quad value="114.5917,172.3437,136.2492,176.5722"/>
+        </shape>
+        <shape type="rect">
+            <quad value="110.8728,171.5092,114.725,177.867"/>
+        </shape>
+        <shape type="rect">
+            <quad value="110.1213,177.7011,115.1667,180.463"/>
+        </shape>
+        <shape type="rect">
+            <quad value="109.4255,178.8395,115.1733,183.5251"/>
+        </shape>
+        <shape type="rect">
+            <quad value="96.3752,180.7968,109.6384,183.3664"/>
+        </shape>
+        <shape type="rect">
+            <quad value="93.526,178.8977,96.4477,183.3542"/>
+        </shape>
+        <shape type="rect">
+            <quad value="84.0808,177.768,95.0505,185.7133"/>
+        </shape>
+        <shape type="rect">
+            <quad value="85.1638,185.4934,95.0886,188.9343"/>
+        </shape>
+        <shape type="rect">
+            <quad value="86.7158,188.6713,94.991,194.5683"/>
+        </shape>
+        <shape type="rect">
+            <quad value="89.8771,193.492,94.9785,194.8791"/>
+        </shape>
+        <shape type="rect">
+            <quad value="90.6057,194.8112,95.007,195.554"/>
+        </shape>
+        <shape type="rect">
+            <quad value="91.5485,195.4501,95.1081,196.6977"/>
+        </shape>
+        <shape type="rect">
+            <quad value="92.568,196.6755,95.0273,197.7014"/>
+        </shape>
+        <shape type="rect">
+            <quad value="93.4824,197.598,95.0642,200.6245"/>
+        </shape>
+        <shape type="rect">
+            <quad value="94.7216,183.2087,138.6928,197.7084"/>
+        </shape>
+        <shape type="rect">
+            <quad value="116.6528,197.5158,124.668,200.102"/>
+        </shape>
+        <shape type="rect">
+            <quad value="118.556,199.3186,124.5183,200.704"/>
+        </shape>
+        <shape type="rect">
+            <quad value="123.9091,197.1645,138.6306,198.9765"/>
+        </shape>
+        <shape type="rect">
+            <quad value="105.909,198.0788,107.0673,199.9812"/>
+        </shape>
+        <shape type="rect">
+            <quad value="106.868,197.6191,119.8691,199.0837"/>
+        </shape>
+        <shape type="rect">
+            <quad value="94.5368,200.3967,97.432,201.6037"/>
+        </shape>
+        <shape type="rect">
+            <quad value="95.5075,201.585,104.002,202.7756"/>
+        </shape>
+        <shape type="rect">
+            <quad value="103.48,200.0058,105.1252,202.4296"/>
+        </shape>
+        <shape type="rect">
+            <quad value="104.6535,199.1152,106.6843,201.0793"/>
+        </shape>
+        <shape type="rect">
+            <quad value="97.184,199.9558,104.1743,201.6452"/>
+        </shape>
+        <shape type="rect">
+            <quad value="94.6791,196.7526,106.5366,200.7092"/>
+        </shape>
+        <shape type="rect">
+            <quad value="106.0146,196.7543,107.1003,198.5642"/>
+        </shape>
+        <shape type="rect">
+            <quad value="139.4611,184.8146,143.6062,187.2097"/>
+        </shape>
+        <shape type="rect">
+            <quad value="138.2358,186.6318,143.2248,196.9648"/>
+        </shape>
+        <shape type="rect">
+            <quad value="114.29,170.1105,114.6235,171.7807"/>
+        </shape>
+        <shape type="rect">
+            <quad value="142.9252,185.9694,145.1528,186.2194"/>
+        </shape>
+        <shape type="rect">
+            <quad value="80.916,179.3732,84.2463,179.6232"/>
+        </shape>
+    </region>
+    <region id="67">
+        <name value="R - Scorched Lands (27-29)"/>
+        <color value="255,255,128,0"/>
+        <shape type="rect">
+            <quad value="80.791,178.4973,84.0158,186.326"/>
+        </shape>
+        <shape type="rect">
+            <quad value="80.0168,186.3225,84.9494,196.1645"/>
+        </shape>
+        <shape type="rect">
+            <quad value="80.1638,196.092,84.2243,196.824"/>
+        </shape>
+        <shape type="rect">
+            <quad value="80.5827,196.789,83.0195,201.9753"/>
+        </shape>
+        <shape type="rect">
+            <quad value="76.5874,200.7905,80.6872,202.9611"/>
+        </shape>
+        <shape type="rect">
+            <quad value="72.4228,200.9167,76.6643,204.604"/>
+        </shape>
+        <shape type="rect">
+            <quad value="76.106,202.6184,79.7277,204.0708"/>
+        </shape>
+        <shape type="rect">
+            <quad value="49.4841,179.9877,81.0141,184.2485"/>
+        </shape>
+        <shape type="rect">
+            <quad value="43.9787,178.4663,49.6555,184.2832"/>
+        </shape>
+        <shape type="rect">
+            <quad value="43.8823,177.107,46.0595,178.5395"/>
+        </shape>
+        <shape type="rect">
+            <quad value="41.1723,174.1437,44.1445,184.2336"/>
+        </shape>
+        <shape type="rect">
+            <quad value="40.7382,170.4101,42.454,184.2224"/>
+        </shape>
+        <shape type="rect">
+            <quad value="29.148,167.1901,41.2138,184.1806"/>
+        </shape>
+        <shape type="rect">
+            <quad value="26.877,167.647,29.2214,184.1672"/>
+        </shape>
+        <shape type="rect">
+            <quad value="23.9787,170.9284,27.069,184.2336"/>
+        </shape>
+        <shape type="rect">
+            <quad value="23.7595,183.9846,26.4423,198.367"/>
+        </shape>
+        <shape type="rect">
+            <quad value="25.0393,198.3107,41.0146,201.5388"/>
+        </shape>
+        <shape type="rect">
+            <quad value="39.6337,200.6313,48.7666,204.2238"/>
+        </shape>
+        <shape type="rect">
+            <quad value="46.417,202.6418,55.876,206.6611"/>
+        </shape>
+        <shape type="rect">
+            <quad value="55.1904,200.214,73.5478,203.9436"/>
+        </shape>
+        <shape type="rect">
+            <quad value="25.956,168.704,27.2368,170.3017"/>
+        </shape>
+        <shape type="rect">
+            <quad value="24.7722,170.1264,27.411,170.997"/>
+        </shape>
+        <shape type="rect">
+            <quad value="47.6228,199.631,56.7416,202.8288"/>
+        </shape>
+        <shape type="rect">
+            <quad value="39.8322,182.858,81.1142,201.7902"/>
+        </shape>
+        <shape type="rect">
+            <quad value="25.4514,183.2148,40.2934,199.1418"/>
+        </shape>
+        <shape type="rect">
+            <quad value="84.6586,194.1635,87.9611,194.5468"/>
+        </shape>
+        <shape type="rect">
+            <quad value="21.3925,186.8654,23.9804,187.41"/>
+        </shape>
+        <shape type="rect">
+            <quad value="40.3625,165.304,40.7075,167.3872"/>
+        </shape>
+        <shape type="rect">
+            <quad value="39.7292,203.6823,40.258,206.317"/>
+        </shape>
+        <shape type="rect">
+            <negative/>
+            <quad value="59.1552,203.251,70.7292,204.2568"/>
+        </shape>
+    </region>
+    <region id="69">
+        <name value="R - Ancient Forest (30-32)"/>
+        <color value="255,0,64,0"/>
+        <shape type="rect">
+            <quad value="3.1828,198.453,24.9526,201.688"/>
+        </shape>
+        <shape type="rect">
+            <quad value="2.796,165.7563,23.679,198.7226"/>
+        </shape>
+        <shape type="diamond">
+            <center value="25.2055,167.588"/>
+            <width value="3.57"/>
+            <height value="7.0505"/>
+        </shape>
+        <shape type="rect">
+            <quad value="23.5163,163.8176,41.1738,167.1037"/>
+        </shape>
+        <shape type="rect">
+            <quad value="23.538,160.5761,41.623,163.8315"/>
+        </shape>
+        <shape type="rect">
+            <quad value="23.5424,157.1982,42.1342,160.8488"/>
+        </shape>
+        <shape type="rect">
+            <quad value="38.674,146.1921,44.6765,158.5363"/>
+        </shape>
+        <shape type="rect">
+            <quad value="44.443,146.575,45.4821,151.5742"/>
+        </shape>
+        <shape type="rect">
+            <quad value="45.2468,149.386,47.1933,149.909"/>
+        </shape>
+        <shape type="rect">
+            <quad value="23.2365,170.5012,23.915,180.9511"/>
+        </shape>
+        <shape type="rect">
+            <quad value="0.044,180.5563,2.9816,186.4135"/>
+        </shape>
+        <shape type="rect">
+            <quad value="26.6645,143.5747,30.7956,149.3823"/>
+        </shape>
+        <shape type="rect">
+            <quad value="29.522,146.2602,40.2236,157.4843"/>
+        </shape>
+        <shape type="rect">
+            <quad value="27.7348,142.0056,30.7272,143.7324"/>
+        </shape>
+        <shape type="rect">
+            <quad value="28.1315,135.2573,30.68,142.1186"/>
+        </shape>
+        <shape type="rect">
+            <quad value="30.438,135.497,40.824,146.9914"/>
+        </shape>
+        <shape type="rect">
+            <quad value="2.0056,150.276,26.569,165.8918"/>
+        </shape>
+        <shape type="rect">
+            <quad value="22.32,149.5004,26.594,150.5981"/>
+        </shape>
+        <shape type="rect">
+            <quad value="26.1943,147.971,30.7805,157.4106"/>
+        </shape>
+        <shape type="rect">
+            <quad value="40.2102,143.7214,43.973,146.5451"/>
+        </shape>
+        <shape type="rect">
+            <quad value="40.792,140.879,42.683,143.944"/>
+        </shape>
+        <shape type="rect">
+            <quad value="30.4511,131.5402,34.7375,133.3332"/>
+        </shape>
+        <shape type="rect">
+            <quad value="30.3195,132.6376,35.7966,135.6042"/>
+        </shape>
+        <shape type="rect">
+            <quad value="35.3781,133.941,37.6296,135.6704"/>
+        </shape>
+        <shape type="rect">
+            <quad value="29.1081,133.851,30.6845,135.3591"/>
+        </shape>
+        <shape type="rect">
+            <quad value="29.9406,132.3828,31.058,134.1191"/>
+        </shape>
+        <shape type="rect">
+            <quad value="32.5822,129.4931,34.4,131.8725"/>
+        </shape>
+        <shape type="rect">
+            <quad value="3.1186,201.574,3.7614,203.8708"/>
+        </shape>
+    </region>
+    <region id="70">
+        <name value="Bounds - Ancient Forest A"/>
+        <color value="255,255,255,255"/>
+        <shape type="rect">
+            <quad value="3.9995,180.1047,4.9995,187.002"/>
+        </shape>
+    </region>
+    <region id="71">
+        <name value="Bounds - Ancient Forest B"/>
+        <color value="255,255,255,255"/>
+        <shape type="rect">
+            <quad value="5.487,183.2221,6.487,184.222"/>
+        </shape>
+    </region>
+    <region id="73">
+        <name value="R - Cross Road (???)"/>
+        <color value="255,255,255,255"/>
+        <shape type="rect">
+            <quad value="207.4482,128.8867,217.9257,142.0651"/>
+        </shape>
+        <shape type="rect">
+            <quad value="208.5983,126.9824,216.177,129.0473"/>
+        </shape>
+        <shape type="rect">
+            <quad value="207.2973,141.7197,207.9436,143.9504"/>
+        </shape>
+        <shape type="rect">
+            <quad value="215.4038,124.7304,215.9982,127.558"/>
+        </shape>
+        <shape type="rect">
+            <quad value="217.593,129.607,219.839,130.2482"/>
+        </shape>
+        <shape type="rect">
+            <quad value="205.86,128.452,207.6826,129.2111"/>
+        </shape>
+    </region>
+    <region id="74">
+        <name value="Portal - Cross Roads"/>
+        <color value="255,128,128,128"/>
+        <shape type="circle">
+            <center value="211.025,137.8347"/>
+            <radius value="0.6015"/>
+        </shape>
+    </region>
+    <region id="75">
+        <name value="Respawn - Cross Roads"/>
+        <color value="255,128,128,128"/>
+        <shape type="circle">
+            <center value="213.0915,137.4858"/>
+            <radius value="0.6015"/>
+        </shape>
+    </region>
+    <region id="76">
+        <name value="R - Lower Ogre Pass (32-34)"/>
+        <color value="255,192,192,192"/>
+        <shape type="rect">
+            <quad value="206.0512,142.122,218.0012,154.6108"/>
+        </shape>
+        <shape type="rect">
+            <quad value="206.715,154.4006,217.9321,159.5344"/>
+        </shape>
+        <shape type="rect">
+            <quad value="217.7402,144.4531,228.6181,159.0478"/>
+        </shape>
+        <shape type="rect">
+            <quad value="228.3752,143.934,239.0734,150.1066"/>
+        </shape>
+        <shape type="rect">
+            <quad value="237.9887,145.9794,240.9516,152.4067"/>
+        </shape>
+        <shape type="rect">
+            <quad value="228.1335,149.8156,239.852,159.21"/>
+        </shape>
+        <shape type="rect">
+            <quad value="224.6772,157.7812,235.6735,175.8608"/>
+        </shape>
+        <shape type="rect">
+            <quad value="232.6123,174.9106,237.9821,185.1293"/>
+        </shape>
+        <shape type="rect">
+            <quad value="233.6735,175.2324,243.0466,185.1618"/>
+        </shape>
+        <shape type="rect">
+            <quad value="242.6633,174.7475,246.1281,183.734"/>
+        </shape>
+        <shape type="rect">
+            <quad value="245.7873,175.2158,248.5261,183.5585"/>
+        </shape>
+        <shape type="rect">
+            <quad value="248.3254,174.9436,255.9843,183.9157"/>
+        </shape>
+        <shape type="rect">
+            <quad value="221.9138,142.6962,233.7285,144.7543"/>
+        </shape>
+        <shape type="rect">
+            <quad value="234.584,160.922,255.8896,175.6875"/>
+        </shape>
+        <shape type="rect">
+            <quad value="233.925,158.838,240.9047,161.497"/>
+        </shape>
+        <shape type="rect">
+            <quad value="207.0014,139.7614,207.777,142.2365"/>
+        </shape>
+        <shape type="rect">
+            <quad value="255.1835,183.5712,255.825,188.336"/>
+        </shape>
+        <shape type="rect">
+            <quad value="205.3513,155.8918,207.3,156.8076"/>
+        </shape>
+    </region>
+    <region id="77">
+        <name value="Bounds - Lower Ogre Pass A"/>
+        <color value="255,255,255,255"/>
+        <shape type="rect">
+            <quad value="251.2731,163.7363,252.2731,170.6335"/>
+        </shape>
+    </region>
+    <region id="79">
+        <name value="Bounds - Lower Ogre Pass B"/>
+        <color value="255,255,255,255"/>
+        <shape type="rect">
+            <quad value="249.678,166.7583,250.678,167.758"/>
+        </shape>
+    </region>
+    <region id="80">
+        <name value="R - Upper Ogre Pass (33-35)"/>
+        <color value="255,128,128,128"/>
+        <shape type="rect">
+            <quad value="208.1445,124.4777,216.4963,126.9436"/>
+        </shape>
+        <shape type="rect">
+            <quad value="206.8217,124.168,208.5913,129.178"/>
+        </shape>
+        <shape type="rect">
+            <quad value="202.2185,124.849,206.991,128.1323"/>
+        </shape>
+        <shape type="rect">
+            <quad value="195.9716,125.0886,203.586,129.0246"/>
+        </shape>
+        <shape type="rect">
+            <quad value="191.2121,124.958,196.5341,127.9907"/>
+        </shape>
+        <shape type="rect">
+            <quad value="190.8244,120.102,192.6545,127.4157"/>
+        </shape>
+        <shape type="rect">
+            <quad value="192.543,108.2666,195.6855,125.0773"/>
+        </shape>
+        <shape type="rect">
+            <quad value="191.8125,106.7585,195.7863,108.8947"/>
+        </shape>
+        <shape type="rect">
+            <quad value="191.3583,102.8862,195.7912,107.1467"/>
+        </shape>
+        <shape type="rect">
+            <quad value="186.6796,100.6735,195.7912,103.7714"/>
+        </shape>
+        <shape type="rect">
+            <quad value="182.7224,100.775,187.4956,105.0764"/>
+        </shape>
+        <shape type="rect">
+            <quad value="178.7114,100.9438,182.906,103.8217"/>
+        </shape>
+        <shape type="rect">
+            <quad value="172.7893,100.9421,178.9592,103.1542"/>
+        </shape>
+        <shape type="rect">
+            <quad value="212.899,115.7885,215.4772,124.675"/>
+        </shape>
+        <shape type="rect">
+            <quad value="212.7741,111.2363,216.5761,117.0627"/>
+        </shape>
+        <shape type="rect">
+            <quad value="212.9143,105.4248,214.761,111.483"/>
+        </shape>
+        <shape type="rect">
+            <quad value="204.406,105.1076,214.05,108.9196"/>
+        </shape>
+        <shape type="rect">
+            <quad value="200.0205,103.0373,204.9753,108.7463"/>
+        </shape>
+        <shape type="rect">
+            <quad value="198.0156,102.419,201.5913,104.0488"/>
+        </shape>
+        <shape type="rect">
+            <quad value="197.2358,101.3293,201.0876,102.804"/>
+        </shape>
+        <shape type="rect">
+            <quad value="197.5983,88.8525,200.1901,101.6442"/>
+        </shape>
+        <shape type="rect">
+            <quad value="194.198,105.2663,213.286,125.7841"/>
+        </shape>
+        <shape type="rect">
+            <quad value="193.5915,100.7707,200.0383,106.2517"/>
+        </shape>
+        <shape type="rect">
+            <quad value="187.7497,88.8273,197.7893,101.138"/>
+        </shape>
+        <shape type="rect">
+            <quad value="181.9492,87.5666,187.9768,101.0898"/>
+        </shape>
+        <shape type="rect">
+            <quad value="168.9348,75.6418,182.0043,78.3371"/>
+        </shape>
+        <shape type="rect">
+            <quad value="168.9135,74.9863,176.577,76.2087"/>
+        </shape>
+        <shape type="rect">
+            <quad value="168.7036,78.132,181.8071,99.4731"/>
+        </shape>
+        <shape type="rect">
+            <quad value="167.4016,95.9514,168.7712,98.9716"/>
+        </shape>
+        <shape type="rect">
+            <quad value="166.1044,95.851,167.6848,98.289"/>
+        </shape>
+        <shape type="rect">
+            <quad value="164.8598,92.1318,166.1616,97.0068"/>
+        </shape>
+        <shape type="rect">
+            <quad value="164.906,85.323,168.8698,96.1672"/>
+        </shape>
+        <shape type="rect">
+            <quad value="166.1657,84.351,168.8354,85.5017"/>
+        </shape>
+        <shape type="rect">
+            <quad value="167.0375,81.153,168.8044,84.602"/>
+        </shape>
+        <shape type="rect">
+            <quad value="181.116,84.582,182.1984,101.293"/>
+        </shape>
+        <shape type="rect">
+            <quad value="172.9794,98.8005,181.5178,101.364"/>
+        </shape>
+        <shape type="rect">
+            <quad value="185.7988,86.6613,188.4558,89.4101"/>
+        </shape>
+        <shape type="rect">
+            <quad value="181.9353,85.2497,187.1904,87.8483"/>
+        </shape>
+        <shape type="rect">
+            <quad value="181.556,79.8786,185.7846,85.9521"/>
+        </shape>
+        <shape type="rect">
+            <quad value="181.6215,78.6206,185.1633,80.3315"/>
+        </shape>
+        <shape type="rect">
+            <quad value="181.6816,77.531,183.886,79.1896"/>
+        </shape>
+        <shape type="rect">
+            <quad value="181.7495,76.1257,182.862,78.0097"/>
+        </shape>
+    </region>
+    <region id="81">
+        <name value="D3 - Tainted Shore Start"/>
+        <color value="255,128,128,0"/>
+        <shape type="circle">
+            <center value="194.0444,230.7905"/>
+            <radius value="1"/>
+        </shape>
+    </region>
+    <region id="82">
+        <name value="D3 - Tainted Shore Leave"/>
+        <color value="255,128,128,0"/>
+        <shape type="circle">
+            <center value="196.3017,232.661"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="83">
+        <name value="D3 - Tainted Shore (28-32)"/>
+        <color value="255,192,225,4"/>
+        <shape type="rect">
+            <quad value="164.3828,237.9995,203.3825,255.9992"/>
+        </shape>
+        <shape type="rect">
+            <quad value="178.635,234.396,182.563,238.8874"/>
+        </shape>
+        <shape type="rect">
+            <quad value="181.1491,214.6564,183.9577,229.4736"/>
+        </shape>
+        <shape type="rect">
+            <quad value="181.405,229.2998,197.275,238.0373"/>
+        </shape>
+        <shape type="rect">
+            <quad value="192.6533,227.2065,197.2185,229.5725"/>
+        </shape>
+        <shape type="rect">
+            <quad value="190.6313,226.2846,194.2185,227.3103"/>
+        </shape>
+        <shape type="rect">
+            <quad value="183.457,206.46,193.3647,229.549"/>
+        </shape>
+        <shape type="rect">
+            <quad value="146.5551,207.851,181.3825,218.8308"/>
+        </shape>
+        <shape type="rect">
+            <quad value="180.306,206.49,184.1586,215.0903"/>
+        </shape>
+        <shape type="rect">
+            <quad value="148.8537,199.5942,188.4921,208.538"/>
+        </shape>
+        <shape type="rect">
+            <quad value="187.9101,201.6542,191.2692,206.5541"/>
+        </shape>
+        <shape type="rect">
+            <quad value="197.0476,230.6894,198.9091,238.202"/>
+        </shape>
+        <shape type="rect">
+            <quad value="198.7895,233.186,201.058,238.1848"/>
+        </shape>
+        <shape type="rect">
+            <quad value="200.8586,236.5788,203.6428,238.2275"/>
+        </shape>
+        <shape type="rect">
+            <quad value="179.9238,229.2832,182.029,234.4855"/>
+        </shape>
+        <shape type="rect">
+            <quad value="198.849,232.004,200.0715,233.2175"/>
+        </shape>
+    </region>
+    <region id="84">
+        <name value="D3 - Tainted Shore Finish"/>
+        <color value="255,128,128,0"/>
+        <shape type="circle">
+            <center value="150.586,214.714"/>
+            <radius value="1"/>
+        </shape>
+    </region>
+    <region id="85">
+        <name value="D3 - Tainted Shore Enter"/>
+        <color value="255,128,128,0"/>
+        <shape type="circle">
+            <center value="192.4306,184.0378"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="86">
+        <name value="D3 - Tainted Shore Exit"/>
+        <color value="255,128,128,0"/>
+        <shape type="circle">
+            <center value="192.3222,181.4226"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="87">
+        <name value="D4 - Ancient Cave (33-37)"/>
+        <color value="255,128,64,0"/>
+        <shape type="rect">
+            <quad value="36.3754,223.8166,69.2878,254.1555"/>
+        </shape>
+        <shape type="rect">
+            <quad value="68.865,225.027,80.7995,254.2683"/>
+        </shape>
+        <shape type="rect">
+            <quad value="79.1557,224.0231,88.019,254.3442"/>
+        </shape>
+        <shape type="rect">
+            <quad value="86.8015,254.145,90.5007,254.7492"/>
+        </shape>
+        <shape type="rect">
+            <quad value="37.7004,221.1008,38.971,224.0317"/>
+        </shape>
+        <shape type="rect">
+            <quad value="33.8813,229.3764,36.715,230.5874"/>
+        </shape>
+    </region>
+    <region id="88">
+        <name value="D4 - Ancient Cave Start"/>
+        <color value="255,64,0,0"/>
+        <shape type="circle">
+            <center value="62.7905,248.961"/>
+            <radius value="1"/>
+        </shape>
+    </region>
+    <region id="89">
+        <name value="D4 - Ancient Cave Leave"/>
+        <color value="255,64,0,0"/>
+        <shape type="circle">
+            <center value="62.2021,245.8344"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="90">
+        <name value="D4 - Ancient Cave Finish"/>
+        <color value="255,64,0,0"/>
+        <shape type="circle">
+            <center value="84.479,245.6914"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="91">
+        <name value="D4 - Ancient Cave Enter"/>
+        <color value="255,128,64,64"/>
+        <shape type="circle">
+            <center value="34.5451,136.9133"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="92">
+        <name value="D4 - Ancient Cave Exit"/>
+        <color value="255,128,64,64"/>
+        <shape type="circle">
+            <center value="31.377,136.9462"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="93">
+        <name value="Q Scorched Lands - Escort Start"/>
+        <color value="255,192,192,192"/>
+        <shape type="circle">
+            <center value="51.0986,188.467"/>
+            <radius value="0.8332"/>
+        </shape>
+    </region>
+    <region id="94">
+        <name value="Q Scorched Lands - Escort End"/>
+        <color value="255,192,192,192"/>
+        <shape type="circle">
+            <center value="35.605,163.0156"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="95">
+        <name value="Q Scorched Lands - Escort 1"/>
+        <color value="255,192,192,192"/>
+        <shape type="circle">
+            <center value="34.6652,184.715"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="96">
+        <name value="Q Scorched Lands - Escort 2"/>
+        <color value="255,192,192,192"/>
+        <shape type="circle">
+            <center value="10.294,197.4411"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="97">
+        <name value="Q Scorched Lands - Escort 3"/>
+        <color value="255,192,192,192"/>
+        <shape type="circle">
+            <center value="19.3508,171.8566"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="98">
+        <name value="Q Scorched Lands - Escort 4"/>
+        <color value="255,192,192,192"/>
+        <shape type="circle">
+            <center value="10.6345,156.063"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="99">
+        <name value="Portal - Mountain Pass"/>
+        <color value="255,128,128,128"/>
+        <shape type="circle">
+            <center value="118.8183,180.156"/>
+            <radius value="0.6015"/>
+        </shape>
+    </region>
+    <region id="100">
+        <name value="Respawn - Mountain Pass"/>
+        <color value="255,128,128,128"/>
+        <shape type="circle">
+            <center value="120.0112,181.7524"/>
+            <radius value="0.6015"/>
+        </shape>
+    </region>
+    <region id="101">
+        <name value="Vendor - Rarities"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="216.3422,139.0573"/>
+            <radius value="0.4"/>
+        </shape>
+    </region>
+    <region id="72">
+        <name value="Survival - Spawn 4"/>
+        <color value="255,128,128,128"/>
+        <shape type="circle">
+            <center value="121.876,8.9848"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="78">
+        <name value="Arena - Pick Teams"/>
+        <color value="255,192,192,192"/>
+        <shape type="circle">
+            <center value="129.6542,109.081"/>
+            <radius value="2.211"/>
+        </shape>
+    </region>
+    <region id="102">
+        <name value="Arena - Team 1"/>
+        <color value="255,192,192,192"/>
+        <shape type="circle">
+            <center value="158.7358,6.0915"/>
+            <radius value="1"/>
+        </shape>
+    </region>
+    <region id="103">
+        <name value="Arena - Team 2"/>
+        <color value="255,192,192,192"/>
+        <shape type="circle">
+            <center value="151.0566,16.8742"/>
+            <radius value="1"/>
+        </shape>
+    </region>
+    <region id="104">
+        <name value="Arena - Arena"/>
+        <color value="255,128,128,128"/>
+        <shape type="rect">
+            <quad value="148.5456,2.5766,161.5476,19.651"/>
+        </shape>
+        <shape type="rect">
+            <quad value="161.3005,2.6726,162.6408,3.3325"/>
+        </shape>
+        <shape type="rect">
+            <quad value="147.7106,2.5168,148.8833,3.1745"/>
+        </shape>
+        <shape type="rect">
+            <quad value="148.7768,18.689,149.4028,20.9157"/>
+        </shape>
+    </region>
+    <region id="105">
+        <name value="R - Lava Flow (35-37)"/>
+        <color value="255,255,128,128"/>
+        <shape type="rect">
+            <quad value="240.8571,157.4023,255.8876,160.9458"/>
+        </shape>
+        <shape type="rect">
+            <quad value="239.6225,151.1945,255.883,158.902"/>
+        </shape>
+        <shape type="rect">
+            <quad value="240.6342,146.8078,255.8955,151.461"/>
+        </shape>
+        <shape type="rect">
+            <quad value="239.908,142.0517,255.8217,146.9045"/>
+        </shape>
+        <shape type="rect">
+            <quad value="238.9577,142.0141,240.624,146.1452"/>
+        </shape>
+        <shape type="rect">
+            <quad value="233.2336,142.0732,239.5312,144.1062"/>
+        </shape>
+        <shape type="rect">
+            <quad value="227.2785,115.4682,238.4233,129.116"/>
+        </shape>
+        <shape type="diamond">
+            <center value="239.5112,114.894"/>
+            <width value="6.8554"/>
+            <height value="8.752"/>
+        </shape>
+        <shape type="rect">
+            <quad value="237.8747,98.91,240.5673,108.91"/>
+        </shape>
+        <shape type="rect">
+            <quad value="238.7468,108.5156,241.0834,111.5971"/>
+        </shape>
+        <shape type="rect">
+            <quad value="238.8095,95.4794,252.46,98.9467"/>
+        </shape>
+        <shape type="rect">
+            <quad value="239.8127,95.611,255.8845,145.944"/>
+        </shape>
+        <shape type="rect">
+            <quad value="218.5664,129.0266,229.9453,141.005"/>
+        </shape>
+        <shape type="diamond">
+            <center value="227.4863,129.1401"/>
+            <width value="5.1647"/>
+            <height value="5.8381"/>
+        </shape>
+        <shape type="rect">
+            <quad value="221.4665,140.4155,233.7578,142.7868"/>
+        </shape>
+        <shape type="rect">
+            <quad value="217.853,140.058,221.9697,144.548"/>
+        </shape>
+        <shape type="rect">
+            <quad value="237.8735,118.9145,241.2553,142.6674"/>
+        </shape>
+        <shape type="rect">
+            <quad value="229.389,127.491,239.476,142.2368"/>
+        </shape>
+        <shape type="rect">
+            <quad value="254.9018,160.6127,255.725,162.7687"/>
+        </shape>
+        <shape type="rect">
+            <quad value="216.4426,141.7556,218.0905,142.4975"/>
+        </shape>
+        <shape type="rect">
+            <quad value="255.0844,92.6882,255.875,95.6594"/>
+        </shape>
+    </region>
+    <region id="106">
+        <name value="R - Volcanic Ring (37-39)"/>
+        <color value="255,255,0,0"/>
+        <shape type="rect">
+            <quad value="227.351,111.838,234.9924,115.394"/>
+        </shape>
+        <shape type="diamond">
+            <center value="236.25,111.3298"/>
+            <width value="3.3371"/>
+            <height value="7.7067"/>
+        </shape>
+        <shape type="rect">
+            <quad value="236.1977,97.9997,238.0632,109.557"/>
+        </shape>
+        <shape type="rect">
+            <quad value="237.1325,88.4873,239.3034,99.537"/>
+        </shape>
+        <shape type="rect">
+            <quad value="229.4191,89.2912,237.2836,112.1074"/>
+        </shape>
+        <shape type="rect">
+            <quad value="200.0407,91.9038,229.7675,101.9697"/>
+        </shape>
+        <shape type="rect">
+            <quad value="216.4746,101.815,229.7888,115.398"/>
+        </shape>
+        <shape type="rect">
+            <quad value="228.9626,86.4733,238.4191,89.6037"/>
+        </shape>
+        <shape type="rect">
+            <quad value="199.6906,88.0363,229.6904,92.767"/>
+        </shape>
+        <shape type="rect">
+            <quad value="201.0578,101.4296,205.6057,103.2236"/>
+        </shape>
+        <shape type="rect">
+            <quad value="204.9648,101.6894,216.6928,105.3115"/>
+        </shape>
+        <shape type="rect">
+            <quad value="214.8317,104.7495,218.088,111.4143"/>
+        </shape>
+        <shape type="rect">
+            <quad value="215.815,115.2331,227.301,127.2553"/>
+        </shape>
+        <shape type="rect">
+            <quad value="217.8774,126.5251,225.5036,129.039"/>
+        </shape>
+        <shape type="rect">
+            <quad value="217.9484,128.4223,218.472,130.579"/>
+        </shape>
+        <shape type="rect">
+            <quad value="197.8801,95.984,200.2277,96.6923"/>
+        </shape>
+        <shape type="rect">
+            <quad value="239.1271,95.5605,242.1967,96.3415"/>
+        </shape>
+    </region>
+    <region id="107">
+        <name value="R - Static Fields (38-40)"/>
+        <color value="255,255,255,183"/>
+        <shape type="rect">
+            <quad value="239.3337,82.392,255.8024,95.372"/>
+        </shape>
+        <shape type="rect">
+            <quad value="237.755,82.4091,239.5168,88.7412"/>
+        </shape>
+        <shape type="rect">
+            <quad value="228.4816,82.444,238.6445,87.2861"/>
+        </shape>
+        <shape type="rect">
+            <quad value="202.2954,82.4755,228.931,88.0341"/>
+        </shape>
+        <shape type="rect">
+            <quad value="188.4887,80.016,202.4436,88.6828"/>
+        </shape>
+        <shape type="rect">
+            <quad value="187.1738,80.0808,188.5673,86.6416"/>
+        </shape>
+        <shape type="rect">
+            <quad value="185.7092,80.0742,187.4714,85.2604"/>
+        </shape>
+        <shape type="diamond">
+            <center value="185.8767,77.483"/>
+            <width value="12.5095"/>
+            <height value="3.8564"/>
+        </shape>
+        <shape type="rect">
+            <quad value="176.1315,71.54,181.3671,75.5617"/>
+        </shape>
+        <shape type="rect">
+            <quad value="168.782,71.089,176.2197,75.027"/>
+        </shape>
+        <shape type="rect">
+            <quad value="167.2346,63.5468,168.8415,73.0283"/>
+        </shape>
+        <shape type="rect">
+            <quad value="183.1628,70.3046,188.5935,77.1755"/>
+        </shape>
+        <shape type="rect">
+            <quad value="179.7016,70.298,184.039,73.6433"/>
+        </shape>
+        <shape type="rect">
+            <quad value="168.7097,63.3032,190.301,71.9465"/>
+        </shape>
+        <shape type="rect">
+            <quad value="187.819,63.2475,240.4807,83.1745"/>
+        </shape>
+        <shape type="rect">
+            <quad value="192.9396,61.285,206.2612,63.6396"/>
+        </shape>
+        <shape type="rect">
+            <quad value="222.6044,61.4194,238.535,63.6682"/>
+        </shape>
+        <shape type="rect">
+            <quad value="239.4724,58.5827,255.996,84.4145"/>
+        </shape>
+        <shape type="rect">
+            <quad value="237.9621,60.5251,240.2558,63.5192"/>
+        </shape>
+        <shape type="rect">
+            <quad value="254.8425,55.7553,255.9248,59.4377"/>
+        </shape>
+        <shape type="rect">
+            <quad value="255.1306,94.809,255.841,97.089"/>
+        </shape>
+        <shape type="rect">
+            <quad value="165.2985,71.2214,167.307,71.6855"/>
+        </shape>
+        <shape type="rect">
+            <negative/>
+            <quad value="166.8872,64.3195,167.9511,69.1093"/>
+        </shape>
+    </region>
+    <region id="108">
+        <name value="R - Barren Peak (40-42)"/>
+        <color value="255,192,192,192"/>
+        <shape type="rect">
+            <quad value="166.669,64.357,167.9118,69.1018"/>
+        </shape>
+        <shape type="rect">
+            <quad value="161.9301,68.9565,167.4257,71.862"/>
+        </shape>
+        <shape type="rect">
+            <quad value="161.0473,69.0043,162.0541,72.0424"/>
+        </shape>
+        <shape type="rect">
+            <quad value="160.2792,69.0883,161.1762,73.0895"/>
+        </shape>
+        <shape type="rect">
+            <quad value="151.0085,69.182,160.3146,71.8728"/>
+        </shape>
+        <shape type="rect">
+            <quad value="150.0583,70.3977,160.3977,73.0546"/>
+        </shape>
+        <shape type="rect">
+            <quad value="166.573,62.6396,167.4624,64.553"/>
+        </shape>
+        <shape type="rect">
+            <quad value="165.9833,48.3945,191.9833,63.3942"/>
+        </shape>
+        <shape type="rect">
+            <quad value="151.234,52.8598,154.02,57.1174"/>
+        </shape>
+        <shape type="rect">
+            <quad value="152.302,56.9575,154.7587,63.9533"/>
+        </shape>
+        <shape type="rect">
+            <quad value="150.888,63.0434,153.0393,65.5622"/>
+        </shape>
+        <shape type="rect">
+            <quad value="150.7675,65.332,153.1572,70.5895"/>
+        </shape>
+        <shape type="diamond">
+            <center value="169.956,48.1406"/>
+            <width value="7.8696"/>
+            <height value="5.4714"/>
+        </shape>
+        <shape type="rect">
+            <quad value="166.9636,39.0971,171.3498,46.3525"/>
+        </shape>
+        <shape type="rect">
+            <quad value="167.3176,38.2973,170.7004,39.3176"/>
+        </shape>
+        <shape type="rect">
+            <quad value="167.6218,35.179,169.458,38.582"/>
+        </shape>
+        <shape type="rect">
+            <quad value="152.4724,34.612,168.9724,35.948"/>
+        </shape>
+        <shape type="rect">
+            <quad value="152.3493,35.5312,168.3508,38.919"/>
+        </shape>
+        <shape type="rect">
+            <quad value="123.7067,38.7124,168.0671,41.9985"/>
+        </shape>
+        <shape type="diamond">
+            <center value="123.579,41.9355"/>
+            <width value="4.376"/>
+            <height value="5.2636"/>
+        </shape>
+        <shape type="rect">
+            <quad value="123.4511,41.0817,141.2888,57.2517"/>
+        </shape>
+        <shape type="rect">
+            <quad value="141.0698,54.1726,142.7668,57.192"/>
+        </shape>
+        <shape type="rect">
+            <quad value="140.6018,52.7143,153.5178,55.407"/>
+        </shape>
+        <shape type="rect">
+            <quad value="120.4763,41.578,124.0927,57.5776"/>
+        </shape>
+        <shape type="rect">
+            <quad value="191.5083,60.9587,194.2368,61.5546"/>
+        </shape>
+        <shape type="rect">
+            <quad value="139.3137,41.733,167.9746,53.7761"/>
+        </shape>
+        <shape type="rect">
+            <quad value="152.7934,51.372,166.8881,69.4423"/>
+        </shape>
+        <shape type="rect">
+            <quad value="151.3117,72.7797,151.963,74.456"/>
+        </shape>
+        <shape type="rect">
+            <quad value="119.161,55.4797,120.8818,55.9807"/>
+        </shape>
+        <shape type="rect">
+            <quad value="152.77,33.0893,153.4604,35.3857"/>
+        </shape>
+    </region>
+    <region id="109">
+        <name value="R - Tainted Forest (43-45)"/>
+        <color value="255,128,0,255"/>
+        <shape type="rect">
+            <quad value="146.1704,19.4963,161.0354,34.5905"/>
+        </shape>
+        <shape type="rect">
+            <quad value="120.7463,34.3354,152.5466,38.6406"/>
+        </shape>
+        <shape type="rect">
+            <quad value="133.0244,20.4206,146.6928,34.8281"/>
+        </shape>
+        <shape type="rect">
+            <quad value="131.694,24.456,133.2741,34.6062"/>
+        </shape>
+        <shape type="rect">
+            <quad value="130.457,26.2275,131.855,34.6752"/>
+        </shape>
+        <shape type="rect">
+            <quad value="123.3591,28.9338,130.674,35.0952"/>
+        </shape>
+        <shape type="diamond">
+            <center value="118.4426,38.5476"/>
+            <width value="8"/>
+            <height value="12"/>
+        </shape>
+        <shape type="rect">
+            <quad value="121.0427,26.9475,123.803,35.3195"/>
+        </shape>
+        <shape type="rect">
+            <quad value="118.8828,24.53,121.606,35.4558"/>
+        </shape>
+        <shape type="rect">
+            <quad value="114.2167,41.685,120.4616,55.3154"/>
+        </shape>
+        <shape type="rect">
+            <quad value="103.728,48.985,110.5993,57.1967"/>
+        </shape>
+        <shape type="rect">
+            <quad value="109.5546,48.676,114.9765,55.4367"/>
+        </shape>
+        <shape type="rect">
+            <quad value="92.6726,23.1228,114.5576,49.0573"/>
+        </shape>
+        <shape type="rect">
+            <quad value="87.2851,26.286,93.1174,39.532"/>
+        </shape>
+        <shape type="rect">
+            <quad value="86.3283,27.593,87.4506,39.5705"/>
+        </shape>
+        <shape type="diamond">
+            <center value="92.0732,26.211"/>
+            <width value="3.5803"/>
+            <height value="5.2834"/>
+        </shape>
+        <shape type="diamond">
+            <center value="101.6352,20.2507"/>
+            <width value="9.988"/>
+            <height value="17.6604"/>
+        </shape>
+        <shape type="rect">
+            <quad value="113.6762,21.2473,119.5976,37.0742"/>
+        </shape>
+        <shape type="rect">
+            <quad value="90.942,42.8864,92.9162,46.5087"/>
+        </shape>
+        <shape type="rect">
+            <quad value="90.099,40.5493,93.092,43.069"/>
+        </shape>
+        <shape type="rect">
+            <quad value="88.0275,38.9191,92.8017,41.0275"/>
+        </shape>
+        <shape type="rect">
+            <quad value="104.7583,0.1145,120.4675,6.1787"/>
+        </shape>
+        <shape type="rect">
+            <quad value="116.6291,5.7822,119.181,21.5395"/>
+        </shape>
+        <shape type="rect">
+            <quad value="104.1596,5.449,117.2368,23.6977"/>
+        </shape>
+        <shape type="rect">
+            <quad value="101.0327,9.2702,105.2067,14.0866"/>
+        </shape>
+        <shape type="rect">
+            <quad value="103.0314,5.453,106.885,10.0441"/>
+        </shape>
+        <shape type="rect">
+            <quad value="160.841,19.811,162.5725,20.2021"/>
+        </shape>
+        <shape type="rect">
+            <quad value="104.0014,56.94,104.9326,58.842"/>
+        </shape>
+        <shape type="rect">
+            <quad value="84.8967,39.3212,86.5932,39.5712"/>
+        </shape>
+    </region>
+    <region id="110">
+        <name value="R - Glacier Melt (42-43)"/>
+        <color value="255,187,221,255"/>
+        <shape type="rect">
+            <quad value="70.335,27.8901,86.3745,39.5888"/>
+        </shape>
+        <shape type="diamond">
+            <center value="67.885,25.84"/>
+            <width value="23.035"/>
+            <height value="15.5043"/>
+        </shape>
+        <shape type="rect">
+            <quad value="54.9455,0.207,92.1452,22.4958"/>
+        </shape>
+        <shape type="diamond">
+            <center value="86.5383,19.0922"/>
+            <width value="13"/>
+            <height value="29.3405"/>
+        </shape>
+        <shape type="rect">
+            <quad value="91.7436,0.2014,104.6264,5.3896"/>
+        </shape>
+        <shape type="rect">
+            <quad value="91.5847,4.2407,102.9052,9.1767"/>
+        </shape>
+        <shape type="rect">
+            <quad value="91.5502,8.284,101.1232,13.554"/>
+        </shape>
+        <shape type="diamond">
+            <center value="90.441,24.6308"/>
+            <width value="0.7583"/>
+            <height value="4.1784"/>
+        </shape>
+        <shape type="rect">
+            <quad value="104.2014,0.159,107.4724,1.3974"/>
+        </shape>
+        <shape type="rect">
+            <quad value="53.3076,0.138,55.3222,0.5004"/>
+        </shape>
+        <shape type="rect">
+            <quad value="70.634,39.3183,71.2067,41.2443"/>
+        </shape>
+    </region>
+    <region id="112">
+        <name value="R - Frozen Pass (39-41)"/>
+        <color value="255,0,128,255"/>
+        <shape type="diamond">
+            <center value="57.1403,37.1647"/>
+            <width value="21"/>
+            <height value="15.5043"/>
+        </shape>
+        <shape type="rect">
+            <quad value="49.1994,23.2021,55.093,29.3845"/>
+        </shape>
+        <shape type="diamond">
+            <center value="65.4165,45.2463"/>
+            <width value="2.1677"/>
+            <height value="15.702"/>
+        </shape>
+        <shape type="rect">
+            <quad value="64.8305,41.23,70.841,46.86"/>
+        </shape>
+        <shape type="rect">
+            <negative/>
+            <quad value="46.9521,30.122,48.6875,32.609"/>
+        </shape>
+        <shape type="rect">
+            <quad value="64.0698,46.6003,69.8234,47.6716"/>
+        </shape>
+        <shape type="rect">
+            <quad value="63.1743,47.52,68.347,48.6176"/>
+        </shape>
+        <shape type="rect">
+            <quad value="62.0383,48.4677,67.0288,49.8332"/>
+        </shape>
+        <shape type="rect">
+            <quad value="58.492,49.7282,63.3771,51.1223"/>
+        </shape>
+        <shape type="rect">
+            <quad value="56.5083,49.247,60.4812,51.5412"/>
+        </shape>
+        <shape type="rect">
+            <quad value="33.376,33.039,46.6503,62.794"/>
+        </shape>
+        <shape type="rect">
+            <quad value="46.1838,36.4567,50.1801,66.3095"/>
+        </shape>
+        <shape type="rect">
+            <quad value="48.806,39.221,59.231,51.521"/>
+        </shape>
+        <shape type="rect">
+            <quad value="49.948,51.082,52.0373,64.4777"/>
+        </shape>
+        <shape type="rect">
+            <quad value="51.9897,50.8364,54.5947,62.8383"/>
+        </shape>
+        <shape type="rect">
+            <quad value="54.2468,51.0205,55.5312,55.2031"/>
+        </shape>
+        <shape type="rect">
+            <quad value="55.256,51.1208,56.7446,53.6062"/>
+        </shape>
+        <shape type="rect">
+            <quad value="32.1772,33.2988,33.4213,41.3537"/>
+        </shape>
+        <shape type="rect">
+            <quad value="31.1811,34.4506,32.3447,39.8962"/>
+        </shape>
+        <shape type="rect">
+            <quad value="33.1042,31.859,38.6357,33.1706"/>
+        </shape>
+        <shape type="rect">
+            <quad value="41.0141,62.4086,46.7763,64.28"/>
+        </shape>
+        <shape type="rect">
+            <quad value="20.6215,49.0078,33.6782,62.1003"/>
+        </shape>
+        <shape type="rect">
+            <quad value="20.6464,61.6455,27.6457,63.0556"/>
+        </shape>
+        <shape type="rect">
+            <quad value="20.654,62.3977,21.8974,63.6516"/>
+        </shape>
+        <shape type="rect">
+            <quad value="15.9997,62.613,20.6838,64.5122"/>
+        </shape>
+        <shape type="rect">
+            <quad value="8.3403,62.663,16.0766,65.1796"/>
+        </shape>
+        <shape type="rect">
+            <quad value="0.0146,51.4685,8.3847,64.9277"/>
+        </shape>
+        <shape type="rect">
+            <quad value="3.581,50.8454,8.4252,51.6855"/>
+        </shape>
+        <shape type="rect">
+            <quad value="6.4726,49.794,10.7915,51.075"/>
+        </shape>
+        <shape type="rect">
+            <quad value="7.925,48.8525,12.8076,49.955"/>
+        </shape>
+        <shape type="rect">
+            <quad value="10.7543,47.857,12.9147,49.1325"/>
+        </shape>
+        <shape type="rect">
+            <quad value="11.9106,47.2636,21.908,49.4592"/>
+        </shape>
+        <shape type="rect">
+            <quad value="32.2075,48.1086,33.8317,49.7026"/>
+        </shape>
+        <shape type="rect">
+            <quad value="10.1916,48.9765,21.4841,50.9941"/>
+        </shape>
+        <shape type="rect">
+            <quad value="7.6501,50.0468,20.9174,63.291"/>
+        </shape>
+        <shape type="rect">
+            <quad value="54.3325,20.8735,55.1376,24.047"/>
+        </shape>
+        <shape type="rect">
+            <quad value="70.2932,39.0144,73.1516,39.6523"/>
+        </shape>
+        <shape type="rect">
+            <quad value="46.4255,66.176,46.8093,67.802"/>
+        </shape>
+    </region>
+    <region id="111">
+        <name value="R - Icy Lake (36-38)"/>
+        <color value="255,0,115,170"/>
+        <shape type="rect">
+            <quad value="40.9665,64.2907,46.1052,68.7924"/>
+        </shape>
+        <shape type="rect">
+            <quad value="40.9702,68.6154,44.4101,79.038"/>
+        </shape>
+        <shape type="rect">
+            <quad value="33.024,62.85,41.1105,84.2456"/>
+        </shape>
+        <shape type="rect">
+            <quad value="27.472,62.234,33.188,84.2238"/>
+        </shape>
+        <shape type="rect">
+            <quad value="21.8962,63.0617,27.493,84.289"/>
+        </shape>
+        <shape type="rect">
+            <quad value="20.688,63.6325,22.0446,84.2626"/>
+        </shape>
+        <shape type="rect">
+            <quad value="16.08,64.4731,21.3955,84.2885"/>
+        </shape>
+        <shape type="rect">
+            <quad value="0.112,65.1887,16.1726,84.2836"/>
+        </shape>
+        <shape type="rect">
+            <quad value="0.1762,64.961,8.3322,65.2553"/>
+        </shape>
+        <shape type="rect">
+            <quad value="40.9611,78.5197,42.7541,84.3881"/>
+        </shape>
+        <shape type="diamond">
+            <center value="35.1035,85.2531"/>
+            <width value="6.223"/>
+            <height value="11.0478"/>
+        </shape>
+        <shape type="rect">
+            <quad value="0.232,83.9118,34.5656,104.338"/>
+        </shape>
+        <shape type="diamond">
+            <center value="28.251,105.6223"/>
+            <width value="8.091"/>
+            <height value="8.3381"/>
+        </shape>
+        <shape type="rect">
+            <quad value="17.984,103.967,26.8862,110.1857"/>
+        </shape>
+        <shape type="rect">
+            <quad value="0.1267,103.9697,18.0981,109.9543"/>
+        </shape>
+        <shape type="rect">
+            <quad value="46.0444,66.3813,47.105,66.987"/>
+        </shape>
+        <shape type="rect">
+            <quad value="0.4133,109.7343,0.986,111.6042"/>
+        </shape>
+        <shape type="rect">
+            <quad value="0.0507,62.206,1.1103,65.9636"/>
+        </shape>
+    </region>
+    <region id="113">
+        <name value="R - Wayward Tundra (34-35)"/>
+        <color value="255,0,0,164"/>
+        <shape type="rect">
+            <quad value="0.055,110.0368,16.6948,150.2114"/>
+        </shape>
+        <shape type="rect">
+            <quad value="24.9992,136.7145,28.2402,143.6647"/>
+        </shape>
+        <shape type="rect">
+            <quad value="16.1423,129.7304,26.1391,149.5551"/>
+        </shape>
+        <shape type="rect">
+            <quad value="25.946,143.3593,26.5947,147.809"/>
+        </shape>
+        <shape type="rect">
+            <quad value="16.5114,148.729,22.287,150.121"/>
+        </shape>
+        <shape type="rect">
+            <quad value="16.4416,118.1354,32.24,130.2504"/>
+        </shape>
+        <shape type="diamond">
+            <center value="25.9575,130.9028"/>
+            <width value="7.045"/>
+            <height value="9.5444"/>
+        </shape>
+        <shape type="diamond">
+            <center value="27.2243,134.3662"/>
+            <width value="2.227"/>
+            <height value="6.4785"/>
+        </shape>
+        <shape type="diamond">
+            <center value="26.8256,136.658"/>
+            <width value="2.3767"/>
+            <height value="5.169"/>
+        </shape>
+        <shape type="rect">
+            <quad value="16.5263,110.264,30.6225,118.4501"/>
+        </shape>
+        <shape type="rect">
+            <quad value="16.64,110.05,18.0168,110.7263"/>
+        </shape>
+        <shape type="rect">
+            <quad value="0.117,150.0158,1.1513,152.111"/>
+        </shape>
+        <shape type="rect">
+            <quad value="0.0437,108.264,0.6752,110.3715"/>
+        </shape>
+        <shape type="rect">
+            <quad value="31.7084,129.2963,34.5468,130.2465"/>
+        </shape>
+    </region>
+    <region id="114">
+        <name value="R - Cave - Interior (???)"/>
+        <color value="255,192,192,192"/>
+        <shape type="rect">
+            <quad value="160.997,18.782,182.3293,34.6633"/>
+        </shape>
+        <shape type="rect">
+            <quad value="181.6767,22.1164,184.9672,48.5473"/>
+        </shape>
+        <shape type="rect">
+            <quad value="173.3718,34.4824,181.9653,48.5354"/>
+        </shape>
+        <shape type="rect">
+            <quad value="172.4291,34.535,173.5634,48.3728"/>
+        </shape>
+        <shape type="rect">
+            <quad value="184.5725,48.327,185.9663,49.327"/>
+        </shape>
+        <shape type="rect">
+            <quad value="171.5278,34.4743,172.586,46.9406"/>
+        </shape>
+        <shape type="rect">
+            <quad value="171.1875,34.4416,171.5512,45.614"/>
+        </shape>
+        <shape type="rect">
+            <quad value="169.3908,34.5566,171.2385,38.3142"/>
+        </shape>
+        <shape type="rect">
+            <quad value="168.5976,34.6018,169.52,35.2426"/>
+        </shape>
+        <shape type="rect">
+            <quad value="181.5654,18.7878,184.4455,23.2207"/>
+        </shape>
+        <shape type="rect">
+            <quad value="161.1318,16.8461,161.3818,19.419"/>
+        </shape>
+        <shape type="rect">
+            <quad value="159.2746,19.1606,161.186,20.0593"/>
+        </shape>
+    </region>
+    <region id="115">
+        <name value="D5 - Volcano (Interior) Enter"/>
+        <color value="255,255,0,0"/>
+        <shape type="circle">
+            <center value="245.8964,135.2998"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="116">
+        <name value="D5 - Volcano (Interior) Exit"/>
+        <color value="255,255,0,0"/>
+        <shape type="circle">
+            <center value="243.5332,135.7827"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="117">
+        <name value="D6 - Power Plant Enter"/>
+        <color value="255,128,255,255"/>
+        <shape type="circle">
+            <center value="226.9462,65.451"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="118">
+        <name value="D6 - Power Plant Exit"/>
+        <color value="255,128,255,255"/>
+        <shape type="circle">
+            <center value="229.6086,65.5522"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="119">
+        <name value="D7 - Corrupted Giant&apos;s Forest Enter"/>
+        <color value="255,255,128,255"/>
+        <shape type="circle">
+            <center value="113.7927,5.233"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="120">
+        <name value="D7 - Corrupted Giant&apos;s Forest Exit"/>
+        <color value="255,255,128,255"/>
+        <shape type="circle">
+            <center value="111.863,5.6013"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="121">
+        <name value="Portal - Wayward Tundra"/>
+        <color value="255,128,128,128"/>
+        <shape type="circle">
+            <center value="26.4853,138.731"/>
+            <radius value="0.6015"/>
+        </shape>
+    </region>
+    <region id="122">
+        <name value="Respawn - Wayward Tundra"/>
+        <color value="255,128,128,128"/>
+        <shape type="circle">
+            <center value="26.248,140.5085"/>
+            <radius value="0.6015"/>
+        </shape>
+    </region>
+    <region id="123">
+        <name value="Portal - Barren Peak"/>
+        <color value="255,128,128,128"/>
+        <shape type="circle">
+            <center value="138.8415,54.7626"/>
+            <radius value="0.6015"/>
+        </shape>
+    </region>
+    <region id="124">
+        <name value="Respawn - Barren Peak"/>
+        <color value="255,128,128,128"/>
+        <shape type="circle">
+            <center value="137.64,53.292"/>
+            <radius value="0.6015"/>
+        </shape>
+    </region>
+    <region id="125">
+        <name value="D7 - Corrupted Giant&apos;s Forest Start"/>
+        <color value="255,255,128,255"/>
+        <shape type="circle">
+            <center value="109.8891,250.2912"/>
+            <radius value="1"/>
+        </shape>
+    </region>
+    <region id="126">
+        <name value="D7 - Corrupted Giant&apos;s Forest Leave"/>
+        <color value="255,255,128,255"/>
+        <shape type="circle">
+            <center value="110.083,252.5583"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="127">
+        <name value="D5 - Volcano (Interior) Start"/>
+        <color value="255,255,128,128"/>
+        <shape type="circle">
+            <center value="98.1564,250.0327"/>
+            <radius value="1"/>
+        </shape>
+    </region>
+    <region id="128">
+        <name value="D5 - Volcano (Interior) Leave"/>
+        <color value="255,255,128,128"/>
+        <shape type="circle">
+            <center value="98.3503,252.301"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="129">
+        <name value="D5 - Volcano (Interior) Finish"/>
+        <color value="255,255,128,128"/>
+        <shape type="circle">
+            <center value="43.6784,213.6628"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="130">
+        <name value="D7 - Corrupted Giant&apos;s Forest Finish"/>
+        <color value="255,255,128,255"/>
+        <shape type="circle">
+            <center value="145.5083,201.8344"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="131">
+        <name value="D5 - Volcano (Interior) (37-40)"/>
+        <color value="255,255,0,0"/>
+        <shape type="rect">
+            <quad value="39.9516,204.2905,46.7424,223.8107"/>
+        </shape>
+        <shape type="rect">
+            <quad value="46.7282,205.5473,56.1215,223.7558"/>
+        </shape>
+        <shape type="rect">
+            <quad value="56.0158,203.7263,59.1596,223.6875"/>
+        </shape>
+        <shape type="rect">
+            <quad value="59.0961,202.2446,71.387,223.667"/>
+        </shape>
+        <shape type="rect">
+            <quad value="69.4003,204.6108,76.9353,224.9411"/>
+        </shape>
+        <shape type="rect">
+            <quad value="76.4807,204.081,81.8022,225.1452"/>
+        </shape>
+        <shape type="rect">
+            <quad value="79.6284,203.3054,88.0717,204.6625"/>
+        </shape>
+        <shape type="rect">
+            <quad value="80.7805,202.8591,85.492,203.5422"/>
+        </shape>
+        <shape type="rect">
+            <quad value="81.7065,204.4743,88.9997,207.6044"/>
+        </shape>
+        <shape type="rect">
+            <quad value="81.6228,207.4624,102.5727,209.6997"/>
+        </shape>
+        <shape type="rect">
+            <quad value="102.527,208.1098,103.38,214.0114"/>
+        </shape>
+        <shape type="rect">
+            <quad value="103.254,208.633,103.8762,214.0087"/>
+        </shape>
+        <shape type="rect">
+            <quad value="103.8376,209.231,104.33,214.0324"/>
+        </shape>
+        <shape type="rect">
+            <quad value="104.2207,209.9875,104.7382,214.2231"/>
+        </shape>
+        <shape type="rect">
+            <quad value="81.75,208.896,102.8234,224.3203"/>
+        </shape>
+        <shape type="rect">
+            <quad value="102.6237,213.7167,104.685,232.529"/>
+        </shape>
+        <shape type="rect">
+            <quad value="87.8977,223.9357,102.9746,255.9665"/>
+        </shape>
+        <shape type="rect">
+            <quad value="87.9794,203.7077,88.5578,204.761"/>
+        </shape>
+        <shape type="rect">
+            <quad value="102.5637,254.886,106.0634,255.9313"/>
+        </shape>
+        <shape type="rect">
+            <quad value="36.6145,223.3774,40.1953,223.6274"/>
+        </shape>
+        <shape type="rect">
+            <quad value="39.6777,203.0541,40.255,204.9743"/>
+        </shape>
+    </region>
+    <region id="132">
+        <name value="D7 - Corrupted Giant&apos;s Forest (45-48)"/>
+        <color value="255,128,0,255"/>
+        <shape type="rect">
+            <quad value="102.9025,251.086,117.2692,256"/>
+        </shape>
+        <shape type="rect">
+            <quad value="102.937,245.859,116.1491,251.193"/>
+        </shape>
+        <shape type="rect">
+            <quad value="102.9057,232.4382,114.938,245.9848"/>
+        </shape>
+        <shape type="rect">
+            <quad value="114.7712,232.3964,119.1057,237.109"/>
+        </shape>
+        <shape type="rect">
+            <quad value="119.0766,232.478,121.241,236.8591"/>
+        </shape>
+        <shape type="rect">
+            <quad value="120.7285,232.3076,131.188,235.615"/>
+        </shape>
+        <shape type="rect">
+            <quad value="124.1381,235.0954,127.6904,236.3027"/>
+        </shape>
+        <shape type="rect">
+            <quad value="104.5952,227.58,130.9797,232.8044"/>
+        </shape>
+        <shape type="rect">
+            <quad value="104.8244,222.2265,130.442,227.6428"/>
+        </shape>
+        <shape type="diamond">
+            <center value="130.9138,220.1384"/>
+            <width value="3.3112"/>
+            <height value="10.2521"/>
+        </shape>
+        <shape type="rect">
+            <quad value="134.2687,215.1228,146.7067,218.7382"/>
+        </shape>
+        <shape type="rect">
+            <quad value="137.7175,218.7255,145.926,220.4406"/>
+        </shape>
+        <shape type="rect">
+            <quad value="139.461,220.4362,144.453,222.371"/>
+        </shape>
+        <shape type="rect">
+            <quad value="104.6655,205.6767,130.6828,222.4055"/>
+        </shape>
+        <shape type="rect">
+            <quad value="106.6176,199.1252,116.6564,205.8247"/>
+        </shape>
+        <shape type="rect">
+            <quad value="104.9797,200.9973,106.6518,205.7973"/>
+        </shape>
+        <shape type="rect">
+            <quad value="103.7546,202.2253,105.0502,208.3422"/>
+        </shape>
+        <shape type="diamond">
+            <center value="103.8618,207.8234"/>
+            <width value="5.4482"/>
+            <height value="1.646"/>
+        </shape>
+        <shape type="rect">
+            <quad value="90.085,202.6232,103.8142,207.1718"/>
+        </shape>
+        <shape type="rect">
+            <quad value="90.1005,201.6752,95.5034,203.228"/>
+        </shape>
+        <shape type="rect">
+            <quad value="85.255,200.4926,94.596,203.7395"/>
+        </shape>
+        <shape type="rect">
+            <quad value="88.6782,203.5288,90.0705,207.5585"/>
+        </shape>
+        <shape type="rect">
+            <quad value="89.5307,203.4777,90.1928,206.5253"/>
+        </shape>
+        <shape type="rect">
+            <quad value="130.1875,205.659,146.543,218.4372"/>
+        </shape>
+        <shape type="rect">
+            <quad value="124.6357,198.456,146.499,205.6704"/>
+        </shape>
+        <shape type="rect">
+            <quad value="118.1447,200.682,124.6367,205.7333"/>
+        </shape>
+        <shape type="rect">
+            <quad value="116.1965,200.1418,118.4514,205.9533"/>
+        </shape>
+        <shape type="rect">
+            <quad value="146.4003,198.5747,148.7231,207.8586"/>
+        </shape>
+        <shape type="rect">
+            <quad value="138.599,196.8747,144.7082,199.0505"/>
+        </shape>
+        <shape type="rect">
+            <quad value="82.9758,197.0197,85.42,202.3593"/>
+        </shape>
+        <shape type="rect">
+            <quad value="84.1564,196.0661,85.427,197.1967"/>
+        </shape>
+        <shape type="rect">
+            <quad value="84.9523,194.486,90.8964,196.237"/>
+        </shape>
+        <shape type="rect">
+            <quad value="90.5434,195.4636,92.057,200.7983"/>
+        </shape>
+        <shape type="rect">
+            <quad value="91.705,196.6997,93.3942,200.834"/>
+        </shape>
+        <shape type="rect">
+            <quad value="85.242,196.1828,90.729,200.5937"/>
+        </shape>
+        <shape type="rect">
+            <quad value="81.674,202.1606,83.2556,202.4414"/>
+        </shape>
+        <shape type="rect">
+            <quad value="85.5451,193.4621,85.9892,194.6772"/>
+        </shape>
+        <shape type="rect">
+            <quad value="148.5747,198.9187,151.2773,199.4013"/>
+        </shape>
+        <shape type="rect">
+            <quad value="122.289,203.557,133.7512,207.227"/>
+        </shape>
+    </region>
+    <region id="133">
+        <name value="D6 - Power Plant Start"/>
+        <color value="255,128,255,255"/>
+        <shape type="circle">
+            <center value="207.3657,241.0266"/>
+            <radius value="1"/>
+        </shape>
+    </region>
+    <region id="134">
+        <name value="D6 - Power Plant Leave"/>
+        <color value="255,128,255,255"/>
+        <shape type="circle">
+            <center value="206.909,238.3781"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="135">
+        <name value="D6 - Power Plant Finish"/>
+        <color value="255,128,255,255"/>
+        <shape type="circle">
+            <center value="251.4565,251.3632"/>
+            <radius value="1"/>
+        </shape>
+    </region>
+    <region id="136">
+        <name value="D6 - Power Plant (40-44)"/>
+        <color value="255,0,255,255"/>
+        <shape type="diamond">
+            <center value="212.2402,232.5031"/>
+            <width value="3.7368"/>
+            <height value="16.9956"/>
+        </shape>
+        <shape type="diamond">
+            <center value="214.7607,228.5688"/>
+            <width value="4.3696"/>
+            <height value="8.2546"/>
+        </shape>
+        <shape type="rect">
+            <quad value="212.8935,220.822,217.4956,229.3061"/>
+        </shape>
+        <shape type="rect">
+            <quad value="216.5295,219.8085,233.0842,255.9033"/>
+        </shape>
+        <shape type="rect">
+            <quad value="210.1271,230.485,217.231,237.8222"/>
+        </shape>
+        <shape type="rect">
+            <quad value="235.5466,224.4946,256,256"/>
+        </shape>
+        <shape type="rect">
+            <quad value="232.5981,225.5651,235.9311,256"/>
+        </shape>
+        <shape type="rect">
+            <quad value="203.5446,236.8903,217.267,255.7968"/>
+        </shape>
+        <shape type="diamond">
+            <center value="230.81,219.855"/>
+            <width value="3.9353"/>
+            <height value="3.761"/>
+        </shape>
+        <shape type="diamond">
+            <center value="233.9948,224.6171"/>
+            <width value="4.5434"/>
+            <height value="3.132"/>
+        </shape>
+        <shape type="rect">
+            <quad value="229.876,219.578,233.341,224.8625"/>
+        </shape>
+        <shape type="rect">
+            <quad value="250.6821,222.617,255.944,225.0666"/>
+        </shape>
+        <shape type="rect">
+            <quad value="214.0292,219.6108,217.6064,221.0781"/>
+        </shape>
+        <shape type="rect">
+            <quad value="215.6601,216.8486,230.7155,220.0231"/>
+        </shape>
+        <shape type="rect">
+            <quad value="202.1928,236.814,203.8461,237.2585"/>
+        </shape>
+        <shape type="rect">
+            <quad value="255.3557,216.6037,255.9567,223.0214"/>
+        </shape>
+    </region>
+    <region id="137">
+        <name value="Bounds - Lava Flow A"/>
+        <color value="255,255,255,255"/>
+        <shape type="rect">
+            <quad value="251.3674,97.163,252.3674,104.0603"/>
+        </shape>
+    </region>
+    <region id="138">
+        <name value="Bounds - Lava Flow B"/>
+        <color value="255,255,255,255"/>
+        <shape type="rect">
+            <quad value="249.7805,100.1894,250.7805,101.1892"/>
+        </shape>
+    </region>
+    <region id="139">
+        <name value="Bounds - Frozen Pass A"/>
+        <color value="255,255,255,255"/>
+        <shape type="rect">
+            <quad value="3.3063,54.0187,4.3063,60.916"/>
+        </shape>
+    </region>
+    <region id="140">
+        <name value="Bounds - Frozen Pass B"/>
+        <color value="255,255,255,255"/>
+        <shape type="rect">
+            <quad value="4.788,57.1442,5.788,58.144"/>
+        </shape>
+    </region>
+    <region id="141">
+        <name value="Bounds - Cave Interior A"/>
+        <color value="255,255,255,255"/>
+        <shape type="rect">
+            <quad value="181.1303,23.529,183.1303,25.5288"/>
+        </shape>
+    </region>
+    <region id="142">
+        <name value="Bounds - Cave Interior B"/>
+        <color value="255,255,255,255"/>
+        <shape type="rect">
+            <quad value="179.681,22.2812,180.681,23.281"/>
+        </shape>
+    </region>
+    <region id="143">
+        <name value="Bounds - The Pit A"/>
+        <color value="255,255,255,255"/>
+        <shape type="rect">
+            <quad value="120.4733,158.5451,122.4733,159.545"/>
+        </shape>
+    </region>
+    <region id="144">
+        <name value="Bounds - The Pit B"/>
+        <color value="255,255,255,255"/>
+        <shape type="rect">
+            <quad value="121.0815,156.6586,122.0815,157.6584"/>
+        </shape>
+    </region>
+    <region id="145">
+        <name value="Arena - Beast Arena"/>
+        <color value="255,192,192,192"/>
+        <shape type="rect">
+            <quad value="133.249,0.5085,149.503,20.3044"/>
+        </shape>
+    </region>
+    <region id="146">
+        <name value="Arena - Beast Spawn"/>
+        <color value="255,192,192,192"/>
+        <shape type="rect">
+            <quad value="138.0085,14.7102,143.9602,19.169"/>
+        </shape>
+    </region>
+    <region id="147">
+        <name value="Arena - Beast Exit"/>
+        <color value="255,192,192,192"/>
+        <shape type="rect">
+            <quad value="146.2778,5.8537,147.5603,6.709"/>
+        </shape>
+    </region>
+    <region id="148">
+        <name value="Arena - Beast Enter"/>
+        <color value="255,192,192,192"/>
+        <shape type="rect">
+            <quad value="144.3332,5.635,145.1328,6.4902"/>
+        </shape>
+    </region>
+    <region id="149">
+        <name value="Q Static Fields - Escort Start"/>
+        <color value="255,192,192,192"/>
+        <shape type="circle">
+            <center value="233.649,70.4946"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="150">
+        <name value="Q Static Fields - Escort 1"/>
+        <color value="255,192,192,192"/>
+        <shape type="circle">
+            <center value="212.2333,78.898"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="151">
+        <name value="Q Static Fields - Escort 2"/>
+        <color value="255,192,192,192"/>
+        <shape type="circle">
+            <center value="183.67,74.016"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="152">
+        <name value="Q Static Fields - Escort 3"/>
+        <color value="255,192,192,192"/>
+        <shape type="circle">
+            <center value="159.3808,62.933"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="153">
+        <name value="Q Static Fields - Escort 4"/>
+        <color value="255,192,192,192"/>
+        <shape type="circle">
+            <center value="144.8388,49.0532"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="154">
+        <name value="Q Static Fields - Escort End"/>
+        <color value="255,192,192,192"/>
+        <shape type="circle">
+            <center value="138.5793,53.7587"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="155">
+        <name value="R - Sacred Cave (????)"/>
+        <color value="255,255,255,255"/>
+        <shape type="rect">
+            <quad value="162.256,2.3254,185.6252,18.921"/>
+        </shape>
+    </region>
+    <region id="156">
+        <name value="Portal - Sacred Cave"/>
+        <color value="255,128,128,128"/>
+        <shape type="circle">
+            <center value="165.722,12.895"/>
+            <radius value="0.6015"/>
+        </shape>
+    </region>
+    <region id="157">
+        <name value="Respawn - Sacred Cave"/>
+        <color value="255,128,128,128"/>
+        <shape type="circle">
+            <center value="167.8686,13.092"/>
+            <radius value="0.6015"/>
+        </shape>
+    </region>
+    <region id="158">
+        <name value="Q Corridor of Origin - Escort Start"/>
+        <color value="255,192,192,192"/>
+        <shape type="circle">
+            <center value="50.2216,17.808"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="159">
+        <name value="Q Corridor of Origin - Escort 1"/>
+        <color value="255,192,192,192"/>
+        <shape type="circle">
+            <center value="39.3884,4.785"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="160">
+        <name value="Q Corridor of Origin - Escort 2"/>
+        <color value="255,192,192,192"/>
+        <shape type="circle">
+            <center value="21.923,4.0625"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="161">
+        <name value="Q Corridor of Origin - Escort 3"/>
+        <color value="255,192,192,192"/>
+        <shape type="circle">
+            <center value="22.8327,17.9426"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="162">
+        <name value="Q Corridor of Origin - Escort End"/>
+        <color value="255,192,192,192"/>
+        <shape type="circle">
+            <center value="6.767,4.1596"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="163">
+        <name value="D8 - Eastern Tunnel Enter"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="181.65,34.1284"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="164">
+        <name value="D8 - Eastern Tunnel Exit"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="180.1313,35.1386"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="165">
+        <name value="D9 - Western Tunnel Enter"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="173.7722,40.2578"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="166">
+        <name value="D9 - Western Tunnel Exit"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="174.571,38.2961"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="167">
+        <name value="D10 - Central Tunnel Enter"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="179.2087,46.5498"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="168">
+        <name value="D10 - Central Tunnel Exit"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="178.994,44.6674"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="169">
+        <name value="D8 - Eastern Tunnel (48-51)"/>
+        <color value="255,255,170,130"/>
+        <shape type="rect">
+            <quad value="192.085,54.6911,239.5664,61.729"/>
+        </shape>
+        <shape type="rect">
+            <quad value="206.0146,60.2316,222.8835,63.2778"/>
+        </shape>
+        <shape type="rect">
+            <quad value="192.0673,47.9941,198.527,54.9155"/>
+        </shape>
+        <shape type="rect">
+            <quad value="194.8637,45.075,198.5336,49.1303"/>
+        </shape>
+        <shape type="rect">
+            <quad value="198.252,44.862,205.1997,55.1206"/>
+        </shape>
+        <shape type="rect">
+            <quad value="202.767,27.6997,255.917,58.6152"/>
+        </shape>
+        <shape type="rect">
+            <quad value="232.9792,26.3745,255.9692,28.171"/>
+        </shape>
+        <shape type="rect">
+            <quad value="203.9394,26.5405,215.9487,27.9533"/>
+        </shape>
+        <shape type="rect">
+            <quad value="254.8933,23.6584,256,26.594"/>
+        </shape>
+        <shape type="rect">
+            <quad value="222.8776,62.962,223.6687,64.809"/>
+        </shape>
+        <shape type="rect">
+            <quad value="190.0075,47.9523,192.2497,48.5266"/>
+        </shape>
+    </region>
+    <region id="170">
+        <name value="D9 - Western Tunnel (51-53)"/>
+        <color value="255,3,173,109"/>
+        <shape type="rect">
+            <quad value="184.988,18.753,194.9877,48.3137"/>
+        </shape>
+        <shape type="rect">
+            <quad value="191.3134,48.084,191.8432,48.8432"/>
+        </shape>
+        <shape type="rect">
+            <quad value="194.6965,0.1811,202.6296,44.8881"/>
+        </shape>
+        <shape type="rect">
+            <quad value="185.4514,0.1987,194.7841,18.8242"/>
+        </shape>
+        <shape type="rect">
+            <quad value="202.5715,26.4055,203.9848,27.6486"/>
+        </shape>
+        <shape type="rect">
+            <quad value="202.486,0.0456,216.616,26.4426"/>
+        </shape>
+        <shape type="rect">
+            <quad value="216.404,0.0473,255.9111,26.3361"/>
+        </shape>
+        <shape type="rect">
+            <quad value="183.9035,0.6774,185.7126,1.4401"/>
+        </shape>
+        <shape type="rect">
+            <quad value="215.9511,26.026,232.9672,27.6728"/>
+        </shape>
+    </region>
+    <region id="171">
+        <name value="D8 - Eastern Tunnel Start"/>
+        <color value="255,255,179,179"/>
+        <shape type="circle">
+            <center value="195.5922,56.693"/>
+            <radius value="1"/>
+        </shape>
+    </region>
+    <region id="172">
+        <name value="D8 - Eastern Tunnel Leave"/>
+        <color value="255,255,179,179"/>
+        <shape type="circle">
+            <center value="195.447,58.6684"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="173">
+        <name value="D8 - Eastern Tunnel Finish"/>
+        <color value="255,255,179,179"/>
+        <shape type="circle">
+            <center value="247.9155,47.9328"/>
+            <radius value="1"/>
+        </shape>
+    </region>
+    <region id="174">
+        <name value="D9 - Western Tunnel Start"/>
+        <color value="255,6,189,130"/>
+        <shape type="circle">
+            <center value="191.3774,44.5588"/>
+            <radius value="1"/>
+        </shape>
+    </region>
+    <region id="175">
+        <name value="D9 - Western Tunnel Leave"/>
+        <color value="255,4,174,136"/>
+        <shape type="circle">
+            <center value="188.816,45.586"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="176">
+        <name value="D9 - Western Tunnel Finish"/>
+        <color value="255,2,125,91"/>
+        <shape type="circle">
+            <center value="202.0222,14.3708"/>
+            <radius value="1"/>
+        </shape>
+    </region>
+    <region id="177">
+        <name value="Q Corridor of Origin - Escort 4"/>
+        <color value="255,192,192,192"/>
+        <shape type="circle">
+            <center value="11.9948,4.5627"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="178">
+        <name value="Q Corridor of Origin - Escort 5"/>
+        <color value="255,192,192,192"/>
+        <shape type="circle">
+            <center value="4.5632,8.4963"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="179">
+        <name value="D10 - Central Tunnel (52-55)"/>
+        <color value="255,0,0,0"/>
+        <shape type="rect">
+            <quad value="0.2778,0.0185,54.681,23.128"/>
+        </shape>
+        <shape type="rect">
+            <quad value="54.2443,0.0131,55.935,0.6203"/>
+        </shape>
+        <shape type="rect">
+            <quad value="38.5915,20.881,49.2553,33.325"/>
+        </shape>
+        <shape type="rect">
+            <quad value="0.225,22.2741,32.0983,34.385"/>
+        </shape>
+        <shape type="rect">
+            <quad value="31.895,22.2927,33.1354,33.1938"/>
+        </shape>
+        <shape type="rect">
+            <quad value="32.941,22.7883,38.6293,32.8032"/>
+        </shape>
+        <shape type="rect">
+            <quad value="0.0141,33.4831,6.4992,50.808"/>
+        </shape>
+        <shape type="rect">
+            <quad value="6.2746,47.0307,11.0056,49.2402"/>
+        </shape>
+        <shape type="rect">
+            <quad value="10.8637,46.952,12.2644,47.837"/>
+        </shape>
+        <shape type="rect">
+            <quad value="6.3554,33.9987,32.1723,47.1767"/>
+        </shape>
+        <shape type="rect">
+            <quad value="32.0964,41.274,33.3242,48.3242"/>
+        </shape>
+        <shape type="rect">
+            <quad value="21.6628,47.1018,32.3073,49.2531"/>
+        </shape>
+    </region>
+    <region id="180">
+        <name value="D10 - Central Tunnel Start"/>
+        <color value="255,128,128,128"/>
+        <shape type="circle">
+            <center value="5.1347,5.9865"/>
+            <radius value="1"/>
+        </shape>
+    </region>
+    <region id="181">
+        <name value="D10 - Central Tunnel Leave"/>
+        <color value="255,128,128,128"/>
+        <shape type="circle">
+            <center value="6.7517,4.0512"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="182">
+        <name value="D10 - Central Tunnel Finish"/>
+        <color value="255,128,128,128"/>
+        <shape type="circle">
+            <center value="22.244,14.9897"/>
+            <radius value="1"/>
+        </shape>
+    </region>
+    <region id="183">
+        <name value="Vendor - Glyphs"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="180.847,10.2446"/>
+            <radius value="0.4"/>
+        </shape>
+    </region>
+    <region id="184">
+        <name value="Vendor - Credits"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="178.1123,5.283"/>
+            <radius value="0.4"/>
+        </shape>
+    </region>
+    <region id="185">
+        <name value="Ending - 1"/>
+        <color value="255,255,255,128"/>
+        <shape type="circle">
+            <center value="122.322,123.5756"/>
+            <radius value="0.4733"/>
+        </shape>
+    </region>
+    <region id="186">
+        <name value="Ending - 2"/>
+        <color value="255,255,255,128"/>
+        <shape type="circle">
+            <center value="127.6821,109.575"/>
+            <radius value="0.4733"/>
+        </shape>
+    </region>
+    <region id="187">
+        <name value="Ending - 3"/>
+        <color value="255,255,255,128"/>
+        <shape type="circle">
+            <center value="120.3095,113.3815"/>
+            <radius value="0.4733"/>
+        </shape>
+    </region>
+    <region id="188">
+        <name value="Ending - 4"/>
+        <color value="255,255,255,128"/>
+        <shape type="circle">
+            <center value="101.634,112.5502"/>
+            <radius value="0.4733"/>
+        </shape>
+    </region>
+    <region id="189">
+        <name value="Ending - 5"/>
+        <color value="255,255,255,128"/>
+        <shape type="circle">
+            <center value="93.1257,133.1574"/>
+            <radius value="0.4733"/>
+        </shape>
+    </region>
+    <region id="190">
+        <name value="Ending 2 - 1"/>
+        <color value="255,255,255,128"/>
+        <shape type="circle">
+            <center value="120.1992,121.5485"/>
+            <radius value="1.5"/>
+        </shape>
+    </region>
+    <region id="191">
+        <name value="Ending 2 - 2"/>
+        <color value="255,255,255,128"/>
+        <shape type="circle">
+            <center value="126.7097,118.4873"/>
+            <radius value="1.5"/>
+        </shape>
+    </region>
+    <region id="192">
+        <name value="Ending 2 - 3"/>
+        <color value="255,255,255,128"/>
+        <shape type="circle">
+            <center value="125.943,109.4133"/>
+            <radius value="1.5"/>
+        </shape>
+    </region>
+    <region id="193">
+        <name value="Ending 2 - 4"/>
+        <color value="255,255,255,128"/>
+        <shape type="circle">
+            <center value="119.7265,112.0463"/>
+            <radius value="1.5"/>
+        </shape>
+    </region>
+    <region id="194">
+        <name value="Ending 2 - 5"/>
+        <color value="255,255,255,128"/>
+        <shape type="circle">
+            <center value="115.0393,112.1232"/>
+            <radius value="1.5"/>
+        </shape>
+    </region>
+    <region id="195">
+        <name value="Ending 2 - 6"/>
+        <color value="255,255,255,128"/>
+        <shape type="circle">
+            <center value="115.5122,120.51"/>
+            <radius value="1.5"/>
+        </shape>
+    </region>
+    <region id="196">
+        <name value="Ending 2 - 7"/>
+        <color value="255,255,255,128"/>
+        <shape type="circle">
+            <center value="125.9248,124.2822"/>
+            <radius value="1.5"/>
+        </shape>
+    </region>
+    <region id="197">
+        <name value="Ending 2 - 8"/>
+        <color value="255,255,255,128"/>
+        <shape type="circle">
+            <center value="102.5375,114.5317"/>
+            <radius value="1.5"/>
+        </shape>
+    </region>
+    <region id="198">
+        <name value="Ending 2 - 9"/>
+        <color value="255,255,255,128"/>
+        <shape type="circle">
+            <center value="98.2348,113.8845"/>
+            <radius value="1.5"/>
+        </shape>
+    </region>
+    <region id="199">
+        <name value="Ending 2 - 10"/>
+        <color value="255,255,255,128"/>
+        <shape type="circle">
+            <center value="94.5927,128.794"/>
+            <radius value="1.5"/>
+        </shape>
+    </region>
+    <region id="200">
+        <name value="D11 - Heros Rest Enter"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="165.9067,5.4746"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="201">
+        <name value="D11 - Heros Rest Exit"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="166.2497,7.4714"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="202">
+        <name value="Vendor - Legendary"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="170.2353,7.0815"/>
+            <radius value="0.4"/>
+        </shape>
+    </region>
+    <region id="203">
+        <name value="Tutorial Blocker 1"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="51.958,151.056"/>
+            <radius value="0.3947"/>
+        </shape>
+    </region>
+    <region id="204">
+        <name value="Tutorial Blocker 2"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="74.9538,164.6464"/>
+            <radius value="0.3947"/>
+        </shape>
+    </region>
+    <region id="205">
+        <name value="Tutorial Blocker 3"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="116.0644,161.3872"/>
+            <radius value="0.3947"/>
+        </shape>
+    </region>
+    <region id="206">
+        <name value="Tutorial Blocker 4"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="15.988,210.9135"/>
+            <radius value="0.3947"/>
+        </shape>
+    </region>
+    <region id="207">
+        <name value="Tutorial - D1"/>
+        <color value="255,255,255,255"/>
+        <shape type="rect">
+            <quad value="5.6076,202.9433,16.2668,253.0366"/>
+        </shape>
+        <shape type="rect">
+            <quad value="14.6833,218.1511,18.7155,227.6423"/>
+        </shape>
+        <shape type="rect">
+            <quad value="15.752,239.9716,18.6274,252.9692"/>
+        </shape>
+        <shape type="rect">
+            <negative/>
+            <quad value="11.8886,228.4926,17.021,239.4711"/>
+        </shape>
+    </region>
+    <region id="208">
+        <name value="Tutorial - End"/>
+        <color value="255,255,255,255"/>
+        <shape type="rect">
+            <quad value="120.8854,131.2138,122.898,133.3393"/>
+        </shape>
+    </region>
+    <region id="209">
+        <name value="D11 - Heros Rest"/>
+        <color value="255,0,0,0"/>
+        <shape type="rect">
+            <quad value="193.3327,206.909,213.2453,225.4306"/>
+        </shape>
+        <shape type="rect">
+            <quad value="193.3515,225.009,196.1145,226.3623"/>
+        </shape>
+        <shape type="rect">
+            <quad value="194.1301,225.2658,198.3132,227.2734"/>
+        </shape>
+        <shape type="rect">
+            <quad value="197.2646,225.0793,210.7668,230.6623"/>
+        </shape>
+        <shape type="diamond">
+            <center value="207.2377,233.3815"/>
+            <width value="2.1008"/>
+            <height value="7.8781"/>
+        </shape>
+        <shape type="rect">
+            <quad value="201.0451,230.3537,206.377,236.5573"/>
+        </shape>
+        <shape type="rect">
+            <quad value="198.832,230.61,201.3706,232.061"/>
+        </shape>
+        <shape type="rect">
+            <quad value="199.9663,232.0031,201.244,233.2348"/>
+        </shape>
+        <shape type="rect">
+            <quad value="205.13,230.0917,208.8154,232.6464"/>
+        </shape>
+        <shape type="rect">
+            <quad value="210.5712,225.2866,212.9328,227.4045"/>
+        </shape>
+        <shape type="rect">
+            <quad value="210.5737,227.2502,211.9821,228.6284"/>
+        </shape>
+        <shape type="rect">
+            <quad value="213.189,207.2734,231.6704,216.946"/>
+        </shape>
+        <shape type="rect">
+            <quad value="213.034,216.2272,214.0864,220.9777"/>
+        </shape>
+        <shape type="rect">
+            <quad value="213.8864,216.159,215.6923,219.6472"/>
+        </shape>
+        <shape type="rect">
+            <quad value="205.5366,205.4716,214.969,207.3266"/>
+        </shape>
+        <shape type="diamond">
+            <center value="232.9213,217.5246"/>
+            <width value="4.377"/>
+            <height value="2.887"/>
+        </shape>
+        <shape type="rect">
+            <quad value="233.361,217.9106,236.1064,222.9567"/>
+        </shape>
+        <shape type="rect">
+            <quad value="234.392,221.6757,250.727,224.4096"/>
+        </shape>
+        <shape type="rect">
+            <quad value="250.6181,183.778,255.614,222.671"/>
+        </shape>
+        <shape type="rect">
+            <quad value="235.2573,184.747,250.8295,221.801"/>
+        </shape>
+        <shape type="rect">
+            <quad value="243.103,183.8444,248.9096,185.4616"/>
+        </shape>
+        <shape type="rect">
+            <quad value="223.4047,201.9428,225.5002,208.624"/>
+        </shape>
+        <shape type="rect">
+            <quad value="222.6044,206.562,224.5915,208.1"/>
+        </shape>
+        <shape type="rect">
+            <quad value="223.922,201.1125,225.8383,202.6364"/>
+        </shape>
+        <shape type="rect">
+            <quad value="225.4033,199.3305,232.3376,203.7233"/>
+        </shape>
+        <shape type="rect">
+            <quad value="225.4387,203.4626,236.2255,215.8408"/>
+        </shape>
+        <shape type="rect">
+            <quad value="232.9055,214.6542,236.024,218.4484"/>
+        </shape>
+        <shape type="rect">
+            <quad value="231.1823,185.148,236.5163,203.982"/>
+        </shape>
+    </region>
+    <region id="210">
+        <name value="D11 - Heros Rest Start"/>
+        <color value="255,192,192,192"/>
+        <shape type="circle">
+            <center value="249.707,220.4567"/>
+            <radius value="1"/>
+        </shape>
+    </region>
+    <region id="211">
+        <name value="D11 - Heros Rest Leave"/>
+        <color value="255,128,128,128"/>
+        <shape type="circle">
+            <center value="250.44,218.6154"/>
+            <radius value="0.75"/>
+        </shape>
+    </region>
+    <region id="212">
+        <name value="D11 - Heros Rest Finish"/>
+        <color value="255,192,192,192"/>
+        <shape type="circle">
+            <center value="244.1955,216.088"/>
+            <radius value="1"/>
+        </shape>
+    </region>
+    <region id="213">
+        <name value="D11 - Spawn A 1"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="244.7534,210.7868"/>
+            <radius value="2.0578"/>
+        </shape>
+    </region>
+    <region id="214">
+        <name value="D11 - Spawn B 1"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="240.1894,220.502"/>
+            <radius value="1.5"/>
+        </shape>
+    </region>
+    <region id="215">
+        <name value="D11 - Spawn A 2"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="227.6955,204.6081"/>
+            <radius value="2.0578"/>
+        </shape>
+    </region>
+    <region id="216">
+        <name value="D11 - Spawn A 3"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="232.5598,213.5288"/>
+            <radius value="2.0578"/>
+        </shape>
+    </region>
+    <region id="217">
+        <name value="D11 - Spawn A 4"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="248.597,202.1643"/>
+            <radius value="2.0578"/>
+        </shape>
+    </region>
+    <region id="218">
+        <name value="D11 - Spawn A 5"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="245.498,188.5253"/>
+            <radius value="2.0578"/>
+        </shape>
+    </region>
+    <region id="219">
+        <name value="D11 - Spawn A 6"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="235.7551,191.298"/>
+            <radius value="2.0578"/>
+        </shape>
+    </region>
+    <region id="220">
+        <name value="D11 - Spawn B 2"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="237.1235,205.1533"/>
+            <radius value="1.5"/>
+        </shape>
+    </region>
+    <region id="221">
+        <name value="D11 - Spawn B 3"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="241.9663,196.7602"/>
+            <radius value="1.5"/>
+        </shape>
+    </region>
+    <region id="222">
+        <name value="D11 - Spawn A 7"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="220.4895,211.6567"/>
+            <radius value="2.0578"/>
+        </shape>
+    </region>
+    <region id="223">
+        <name value="D11 - Spawn A 8"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="209.7717,209.2207"/>
+            <radius value="2.0578"/>
+        </shape>
+    </region>
+    <region id="224">
+        <name value="D11 - Spawn A 9"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="197.6647,211.6755"/>
+            <radius value="2.0578"/>
+        </shape>
+    </region>
+    <region id="225">
+        <name value="D11 - Spawn A 10"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="204.2048,231.783"/>
+            <radius value="2.0578"/>
+        </shape>
+    </region>
+    <region id="226">
+        <name value="D11 - Spawn A 11"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="198.1396,222.402"/>
+            <radius value="2.0578"/>
+        </shape>
+    </region>
+    <region id="227">
+        <name value="D11 - Spawn B 4"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="211.308,217.7707"/>
+            <radius value="1.5"/>
+        </shape>
+    </region>
+    <region id="228">
+        <name value="D11 - Spawn B 5"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="203.5041,216.7841"/>
+            <radius value="1.5"/>
+        </shape>
+    </region>
+    <region id="229">
+        <name value="D11 - Spawn B 6"/>
+        <color value="255,255,255,255"/>
+        <shape type="circle">
+            <center value="208.2255,225.7124"/>
+            <radius value="1.5"/>
+        </shape>
+    </region>
+</Regions>
